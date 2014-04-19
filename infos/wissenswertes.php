@@ -17,7 +17,7 @@ Für sämtliche Läufe ab 800m werden zusätzlich Laufnummern unmittelbar vor de
 
 <h3>Startunterlagen wann und wo?</h3>
 <p>  Diese gibt’s zu folgenden Zeiten:<br />
-Ausgabe 08. Juni 2013 ab 09.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität.</p>
+Ausgabe 07. Juni 2014 ab 11.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität.</p>
 
 <br />
 
@@ -42,7 +42,7 @@ Ausgabe 08. Juni 2013 ab 09.00 Uhr vereinsweise gegen Entrichtung der Organisati
 <br />
 
 <h3>Siegerehrungen</h3>
-<p>Siegerehrungen gibt es nur im Vorprogramm der Sparkassen Gala 2013 für die Plätze 1-3. Die Athleten sollen sich 20 Minuten nach Beendigung der Disziplin bereithalten. Die Urkunden (bis Platz 8) können am Stellplatz abgeholt werden.<br />
+<p>Siegerehrungen gibt es nur im Vorprogramm der Sparkassen Gala 2014 für die Plätze 1-3. Die Athleten sollen sich 20 Minuten nach Beendigung der Disziplin bereithalten. Die Urkunden (bis Platz 8) können am Stellplatz abgeholt werden.<br />
   Im Hauptprogramm der Gala gibt es keine Siegerehrungen, hier werden Interviews mit den Sieger/Innen durchgeführt.<br />
   <br />
 </p>

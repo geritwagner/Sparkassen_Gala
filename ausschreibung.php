@@ -86,7 +86,7 @@ oberhalb der Tribüne des Sportzentrums der Universität (Laufnacht ab 15.00 Uhr
         </p>
     </td>
 </tr>
-<tr><td></td><td>Zeitplan ab 29.04.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></td>
+<tr><td></td><td>Zeitplan ab 29.05.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></td>
 </tr>
 <tr>
   <th>Anfangshöhen:</th>

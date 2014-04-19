@@ -37,7 +37,7 @@ var bildnamen = new Array("../images/sponsoren/col1/rewag.gif",
 // ------------------------------------------------------------- //,
 
 
-var bildnamen2 = new Array("../images/sponsoren/col1/best-western.jpg",
+var bildnamen2 = new Array("../images/sponsoren/col1/best-western.gif",
 						  "../images/sponsoren/col1/ultrasports.gif",
 						  "../images/sponsoren/col1/asklepios.gif",
 						  "../images/sponsoren/col1/vw-zentrum.jpg"
