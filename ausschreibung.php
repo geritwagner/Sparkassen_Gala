@@ -24,12 +24,15 @@
   <td>Universitätsstadion Regensburg</td>
 </tr>
 <tr>
-  <th>Termin:</th>
-  <td>Samstag, 07. Juni 2014: Sparkassen-Gala<br />
-    Beginn Vorprogramm 13.00 Uhr<br />
-    Beginn Hauptprogramm 16.00 Uhr <br /></td>
-  <td>Samstag, 06. Juni 2014: Laufnacht<br />
+  <th>Termin Laufnacht:</th>
+  <td>Samstag, 06. Juni 2014<br />
     Beginn Laufnacht 18.00 Uhr </td>
+</tr>
+<tr>
+  <th>Termin Sparkassen-Gala:</th>
+  <td>Samstag, 07. Juni 2014<br />
+    Beginn Vorprogramm 13.00 Uhr<br />
+    Beginn Hauptprogramm 16.00 Uhr</td>
 </tr>
 <tr>
   <th>Meldungen:</th>
@@ -44,12 +47,12 @@
 </tr>
 <tr>
   <th>Organisations-Gebühren:</th>
-  <td>Männer u. Frauen jew. 10.- Euro, Jugend 7.- Euro, Schüler/innen 5.- Euro. Bei Nachmeldungen bis zum 04. Juni 2014 wird ein Aufschlag von 10.- Euro erhoben.</td>
+  <td>Männer u. Frauen jew. 10.- Euro, Jugend 7.- Euro, Schüler/innen 5.- Euro. Bei Nachmeldungen bis zum 04. Juni 2014 wird ein Aufschlag von 5.- Euro erhoben.</td>
 </tr>
 <tr>
   <th>Meldeschluss:</th>
   <td>Mittwoch, 28. Mai 2014 (Posteingang)<br />
-    Nachmeldungen nur in Ausnahmefällen gegen erhöhte Organisationsgebühr bis Freitag, 4. Juni 2014 möglich.<br />
+    Nachmeldungen nur in Ausnahmefällen gegen erhöhte Organisationsgebühr bis Mittwoch, 4. Juni 2014 möglich.<br />
     <br />
     Aufgrund der Erfahrungen der letzten Jahre kann es zu einem vorzeitigen  Nachmeldeschluss kommen.</td>
 </tr>
@@ -61,30 +64,29 @@ oberhalb der Tribüne des Sportzentrums der Universität (Laufnacht ab 15.00 Uhr
 <tr>
   <th>Gala Programm:</th>
   <td><p><span style="font-style: italic">Männer:</span> <br />
-    Galaprogramm: 100 m, 200 m*, 400 m*, 800 m, 1.500m, 110 m H, 400m H*, 4x100 m (DLV-Test), Weit - *DLV-Einladungswettbewerbe<br />
-	Rahmenwettbewerb/Vorprogramm: 100 m, Weit, Hoch, Stabhoch. Mittel-/Langstrecken/Hindernis siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+    <strong>Galaprogramm:</strong> 100 m, 200 m*, 400 m*, 800 m, 1.500m, 110 m H, 400m H*, 4x100 m (DLV-Test), Weit - *DLV-Einladungswettbewerbe<br />
+	<strong>Rahmenwettbewerb/Vorprogramm:</strong> 100 m, Weit, Hoch, Stabhoch. Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         <span style="font-style: italic">Frauen:</span><br />
-      Galaprogramm: 100 m, 200 m*, 400 m*, 800 m, 100 m H, 4x100 m (DLV-Test), Hoch, Stabhoch - *DLV Einladungswettbewerb<br />
-      Rahmenwettbewerb/Vorprogramm: 100 m, Weit, Hoch. Mittel-/Langstrecken/Hindernis siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+      <strong>Galaprogramm</strong>: 100 m, 200 m*, 400 m*, 800 m, 100 m H, 4x100 m (DLV-Test), Hoch, Stabhoch - *DLV Einladungswettbewerb<br />
+      <strong>Rahmenwettbewerb/Vorprogramm</strong>: 100 m, Weit, Hoch. Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         <span style="font-style: italic">männliche U20/U18:</span><br />
-      100 m, Weit. Mittel-/Langstrecken/Hindernis siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+      100 m, Weit. Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         <span style="font-style: italic">weibliche U20/U18:</span><br />
-      100 m, Weit, Hoch. Mittel-/Langstrecken/Hindernis siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+      100 m, Weit, Hoch. Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         <span style="font-style: italic">Schüler U16:</span><br />
-      Weit, 800m siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+      Weit, 800m siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         <span style="font-style: italic">Schülerinnen U16:</span><br />
-      Weit, 800 m siehe <a href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht 06. Juni 2014</a><br />
+      Weit, 800 m siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Laufnacht (06. Juni 2014)</a><br />
         <br />
         </p>
     </td>
 </tr>
-<tr>
-  <th>Zeitplan ab 29.04.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></th>
+<tr><td></td><td>Zeitplan ab 29.04.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></td>
 </tr>
 <tr>
   <th>Anfangshöhen:</th>
