@@ -86,7 +86,23 @@ oberhalb der Tribüne des Sportzentrums der Universität (Laufnacht ab 15.00 Uhr
         </p>
     </td>
 </tr>
-<tr><td></td><td>Zeitplan ab 29.05.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></td>
+<tr>
+  <th>Bemerkung:</th>
+  <td><p>Die Zeitgrenzen für die Einteilung der A- und B-Läufe des Hauptprogramms werden nach
+Meldeschluss spätestens eine Woche vor dem 08. Juni bekannt gegeben. Gemeldete Teilnehmer, die
+diese Leistungen nicht erfüllen können, werden in die entsprechenden Wettbewerbe des
+Vorprogramms aufgenommen.<br />
+      <br />
+    Die 3000 m Hindernis der MÃ¤nner/Junioren/Frauen/Juniorinnen finden als
+Bayerische Meisterschaften, national offen, statt.<br />
+    <br />
+   Stellplatzzeit bei allen Wettbewerben 75 Minuten vorher.<br />
+        <br />
+      Je 3 Athleten/innen wird eine Betreuerkarte ausgegeben.</p>
+    </td>
+</tr>
+<tr>
+<td></td><td>Zeitplan ab 29.05.2014 im Internet unter <a href="www.lg-regensburg.de">www.lg-regensburg.de</a></td>
 </tr>
 <tr>
   <th>Anfangshöhen:</th>

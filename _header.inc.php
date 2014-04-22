@@ -100,7 +100,7 @@ $mA = $menu['active'];
 				    </ul>
 				  </li>
 				  <li<? if($m == 'sponsoren') echo $mA; ?>><a href="sponsoren/">Sponsoren</a></li>
-				  <li<? if($m == 'english') echo $mA; ?>><a href="http://www.sparkassen-gala.de/download/Sparkassen%20Gala%202013_english.pdf" target="blank"><img src="images/design/british-flag.jpg"></img></a></li>
+				  <li<? if($m == 'english') echo $mA; ?>><a href="http://www.sparkassen-gala.de/download/Sparkassen%20Gala%202014_english.pdf" target="blank"><img src="images/design/british-flag.jpg"></img></a></li>
 				</ul>
 			</div>
 		</div>
