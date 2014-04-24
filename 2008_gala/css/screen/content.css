@@ -1,0 +1,190 @@
+@charset "UTF-8";
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ *
+ * (en) Uniform design of standard content elements
+ * (de) Einheitliche Standardformatierungen für die wichtigten Inhalts-Elemente
+ *
+ * @copyright       Copyright 2005-2007, Dirk Jesse
+ * @license         CC-A 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-C (http://www.yaml.de/en/license/license-conditions.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         3.0.4
+ * @revision        $Revision: 138 $
+ * @lastmodified    $Date: 2007-11-19 21:05:33 +0100 (Mo, 19 Nov 2007) $
+ * @appdef yaml
+ */
+
+@media all
+{
+  /**
+   * Fonts
+   * (en) font-family and font-size selection for headings and standard text elements
+   * (de) Zeichensatz und Schriftgrößen für Überschriften und übliche Text-Elemente
+   *
+   * @section content-fonts
+   */
+
+  /* (en) reset font size for all elements to standard (16 Pixel) */
+  /* (de) Alle Schriftgrößen auf Standardgröße (16 Pixel) zurücksetzen */
+  html * { font-size: 100.01% }
+
+  /* (en) reset monospaced elements to font size 16px in Gecko browsers */
+  /* (de) Schriftgröße von monospaced Elemente auf 16 Pixel setzen */
+  textarea, pre, tt, code {
+	font-family:"Courier New", Courier, monospace;  	
+  }
+
+  /* (en) base layout gets standard font size 12px */
+  /* (de) Basis-Layout erhält Standardschriftgröße von 12 Pixeln */
+  body {
+    font-family: 'Trebuchet MS', Verdana, Helvetica, Arial, sans-serif;
+    font-size: 81.25%;
+  }
+  
+  #copyright { color: #fff; font-size:0.85em }
+  #footer { font-size: 0.90em; }
+
+  h1,h2,h3,h4,h5,h6 { font-weight:bold; margin: 0; }
+  h1 { font-size: 200% }                        /* 24px */
+  h2 { font-size: 158.33% }                     /* 19px, zuvor 166.67% 20px */
+  h3 { font-size: 133.33% }                        /* 150% = 18px */
+  h4 { font-size: 133.33% }                     /* 16px */
+  h5 { font-size: 116.67% }                     /* 14px */
+  h6 { font-size: 116.67%; font-style:italic }  /* 14px */
+
+  p { line-height: 1.5em; margin: 0 0 1em 0; }
+
+  /* Farben */
+  h2, h4 {
+    color:#e2001a;
+  }
+  h2.eilmeldung { background: #fdd; padding: 0 0.25em; border-top: 1px #e2001a dotted; border-bottom: 1px #e2001a dotted; }
+	
+  /* ### Lists | Listen  #### */
+
+  ul, ol, dl { line-height: 1.5em; margin: 0 0 1em 1em }
+  li { margin-left: 1.5em; line-height: 1.4em } /* Fix for the ADxMenu - originally 1.5em */
+
+  dt { font-weight: bold }
+  dd { margin: 0 0 1em 2em }
+
+  /* ### text formatting | Textauszeichnung ### */
+
+  cite, blockquote { font-style:italic }
+  blockquote { margin: 0 0 1em 1.5em }
+
+  strong,b { font-weight: bold }
+  em,i { font-style:italic }
+
+  pre, code { font-family: monospace; font-size: 1.1em; }
+
+  acronym, abbr {
+    letter-spacing: .07em;
+    border-bottom: .1em dashed #c00;
+    cursor: help;
+  }
+
+  /**
+   * Generic Content Classes
+   * (en) standard classes for positioning and highlighting
+   * (de) Standardklassen zur Positionierung und Hervorhebung
+   *
+   * @section content-generic-classes
+   */
+
+  .note {background: #dfd; padding: 1em; border-top: 1px #bdb dotted; border-bottom: 1px #bdb dotted;}
+  .important {background: #ffd; padding: 1em; border-top: 1px #ddb dotted; border-bottom: 1px #ddb dotted;}
+  .hinweis {background: #fdd; padding: 1em; border-top: 1px #dbb dotted; border-bottom: 1px #dbb dotted;}
+
+  .textnote {font-size: 0.9em;}
+
+  .float_left { float: left; display:inline; margin: 0.5em 1em 0.15em 0; }
+  .float_right { float: right; display:inline; margin: 0.5em 0 0.15em 1em; }
+  .center { text-align:center; margin: 0.5em auto }
+
+  /**
+   * External Links
+   *
+   * (en) Formatting of hyperlinks
+   * (de) Gestaltung von Hyperlinks
+   *
+   */
+
+  a {color: #e2001a; text-decoration:none;}
+  a:focus,
+  a:hover,
+  a:active {background-color: #fee; text-decoration:none;}
+  
+  #topnav a { color: #fff; font-weight: bold; background:transparent; text-decoration:none; }
+  #topnav a:focus,
+  #topnav a:hover,
+  #topnav a:active{ text-decoration:underline; background-color: transparent;}
+  
+  #footer a { color: #666; background:transparent;}
+  #footer a:focus,
+  #footer a:hover,
+  #footer a:active {color: #e2001a; background-color: transparent; text-decoration:none;}
+  
+  #main a.imagelink { text-decoration:none; background:transparent; }
+
+  /**
+   * (en) Emphasizing external Hyperlinks via CSS
+   * (de) Hervorhebung externer Hyperlinks mit CSS
+   *
+   * @section             content-external-links
+   * @app-yaml-default    disabled
+   */
+
+  /*
+  #main a[href^="http://www.sparkassen-gala.de"],
+  #main a[href^="https://www.sparkassen-gala.de"]
+  {
+    padding-left: 12px;
+    background-image: url('your_image.gif');
+    background-repeat: no-repeat;
+    background-position: 0 0.45em;
+  }
+  */
+
+  /**
+   * Tables | Tabellen
+   * (en) Generic classes for table-width and design definition
+   * (de) Generische Klassen für die Tabellenbreite und Gestaltungsvorschriften für Tabellen
+   *
+   * @section content-tables
+   */
+
+  table { width: auto; border-collapse:collapse; margin-bottom: 0.5em; }
+  table.full { width: 100%; }
+  table.fixed { table-layout:fixed }
+
+  th,td { padding: 0.5em; }
+  thead th { color: #fff }
+  tbody th { color: #333; vertical-align:top; }
+  tbody th.sub { background: #ddd; color: #333 }
+
+  /* Anpassungen für die Sparkassen Gala */
+  .zeitplan th, .zeitplan td {
+    font-size: 0.9em;
+	vertical-align: top;
+    text-align: center;
+  }
+  .zeitplan tr:hover { background: #f4f4f4; }
+  /**
+   * Miscellaneous | Sonstiges
+   *
+   * @section content-misc
+   */
+
+  hr {
+    color: #fff;
+    background:transparent;
+    margin: 0 0 1em 0;
+    padding: 0 0 0.5em 0;
+    border:0;
+    border-bottom: 1px #D5D8E0 solid;
+  }
+}
+

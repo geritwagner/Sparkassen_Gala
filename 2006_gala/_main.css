@@ -1,0 +1,62 @@
+body {background-color: #E8F2F9; font: 10pt Arial, Helvetica, sans-serif; scrollbar-arrow-color: #F4FDEE;
+scrollbar-base-color: #F4FDEE;
+scrollbar-darkshadow-color: #F4FDEE;
+scrollbar-highlight-color : #F4FDEE;
+scrollbar-shadow-color :#F4FDEE;
+scrollbar-track-color: #F4FDEE;}
+
+a:link {text-decoration: underline; color: #003ACD;}
+a:visited {text-decoration: underline; color: #003ACD;}
+a:hover {text-decoration: none; color: #003ACD;}
+a.menu {font: 12pt Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF; text-decoration: none;}
+a.lang {font: 10pt Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
+
+
+font {font: 10pt Arial, Helvetica, sans-serif;}
+font.note {font: 8pt Arial, Helvetica, sans-serif;}
+p.spons {font: 14pt Arial, Helvetica, sans-serif; font-weight: bold;}
+div.rollout {background-color: red; font: 10pt Arial; color: white;}
+img {border: 0px}
+
+tr.menu {background-color:#FFFFFF}
+
+table {padding:0px; cell-spacing:0px; border-width:0px; font: 10pt Arial, Helvetica, sans-serif;}
+table.main {min-height:400px; background-color: #FFFFFF}
+td.newsTitle {background-color:#003ACD; font: 12pt Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF;}
+td.newsDate {background-color:#003ACD; font: 8pt Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; text-align:right}
+td.news {padding-left:13px; padding-right:13px; font: 10pt Arial, Helvetica, sans-serif;}
+td.copy {font: 8pt Arial, Helvetica, sans-serif;}
+.copy:hover, .copy:visited, .copy:link {text-decoration: underine; color: #000000;}
+
+font.sponsor {font: 12pt Arial, Helvetica, sans-serif; font-weight: bold; text-align:center;}
+
+
+/* Normal state */
+.menuItem, .menuItemFirst, .menuItemLast {
+	font-family: lucidia grande, geneva, verdana;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	cursor:pointer;
+	padding:2px 4px 2px 4px;
+	border: 1px solid #597FDE;
+	background-color:#597FDE;
+}
+
+/* On mouse over */
+.submenu div:hover,.menuItemOver, .menuItemFirstOver, .menuItemLastOver {
+	font-family: lucidia grande, geneva, verdana;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFFFFF;
+	cursor:pointer;
+	padding:2px 4px 2px 4px;
+	border: 1px solid #716362;
+	background-color:#003ACD;
+}
+
+/* submenus container */
+.submenu {
+	-moz-opacity:1;
+	filter:alpha(opacity=100);
+}

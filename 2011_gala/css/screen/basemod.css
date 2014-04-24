@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ *
+ * (en) Template for designing a screen layout
+ * (de) Gestaltungsvorlage für die Erstellung eines Screenlayouts
+ *
+ * @copyright       Copyright 2005-2007, Dirk Jesse
+ * @license         CC-A 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-C (http://www.yaml.de/en/license/license-conditions.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         3.0.4
+ * @revision        $Revision: 130 $
+ * @lastmodified    $Date: 2007-10-05 19:05:21 +0200 (Fr, 05 Okt 2007) $
+ */
+
+@media all
+{
+ /*------------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Design of the Basic Layout | Gestaltung des YAML Basis-Layouts
+  *
+  * @section layout-basics
+  */
+
+  /* Page margins and background | Randbereiche & Seitenhintergrund */
+  body { background: #404347 url("../../images/design/hintergrund.gif") repeat-x top left; padding: 10px 0; }
+
+  /* Layout: Width, Background, Border | Layout: Breite, Hintergrund, Rahmen */
+  #page_margins { width: 900px; margin: 0 auto; border: 1px #626669 solid; }	/* 272727 626669 */
+  #page{ background: #fff; border: 0; }
+  #copyright { text-align: center; }
+
+  /* Design of the Main Layout Elements | Gestaltung der Hauptelemente des Layouts */
+  #header { 
+    height: 245px;		/* Anpassung für IE, damit die Header-Größe exakt passt */
+    color: #000;
+    background: #e2001a;
+    padding: 0 0; 
+  }
+
+  #topnav { color: #fff; background: transparent; top: 5px; right:7px; }
+
+  #main { background: #FFFFFF;  } /* FFFFFF f9f9f9 */
+
+  #footer {
+    color:#666; 
+    background: #f9f9f9;
+    padding: 1px 5px;
+    border-top: 1px #efefef solid;
+	text-align: center;
+  }
+
+ /*------------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Formatting of the Content Area | Formatierung der Inhaltsbereichs
+  *
+  * @section layout-main
+  */
+
+  #col1 { width: 25% }
+  #col1_content { padding: 10px 10px 10px 10px; }
+
+  #col2 { width: 25% }
+  #col2_content { padding: 10px 20px 10px 10px; }
+
+  #col3 { margin: 0 25% }
+  #col3_content { padding: 10px }
+
+
+ /*------------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Design of Additional Layout Elements | Gestaltung weiterer Layoutelemente
+  *
+  * @section layout-misc
+  */
+
+}

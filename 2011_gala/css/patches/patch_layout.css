@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ *
+ * (en) Example of a patch stylesheet for the Internet Explorer
+ * (de) Beispiel für ein Anpassungs-Stylesheet für den Internet Explorer
+ *
+ * @copyright       Copyright 2005-2007, Dirk Jesse
+ * @license         CC-A 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-C (http://www.yaml.de/en/license/license-conditions.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         3.0.4
+ * @revision        $Revision: 130 $
+ * @lastmodified    $Date: 2007-10-05 19:05:21 +0200 (Fr, 05 Okt 2007) $
+ */
+
+/* Layout independent adjustments | Layout-unabhängige Anpassungen ----------------------------------- */
+@import url(../yaml/core/iehacks.css);
+
+/* Box model adjustments for vlist navigation | Box-Modell-Anpassungen für vlist-Navigation */
+/* @import url(/yaml/patches/patch_nav_vlist.css); */
+
+/* Layout-dependent adjustments | Layout-abhängige Anpassungen --------------------------------------- */
+@media screen
+{
+  /**
+   * Bugfix for IE 3-Pixel-Jog Bug
+   *
+   * @bugfix
+   * @affected   IE 5.x/Win, IE6
+   * @css-for    IE 5.x/Win, IE6
+   * @valid      yes
+   */
+
+  * html #col3 { height: 1%; }
+  * html #col1 {margin-right: -3px;}
+  * html #col3 { margin-left: 21.5%; }
+
+  /* Zentrierung des Layouts in alten IE-versionen */
+  body { text-align: center }
+  #page_margins { text-align:left }
+
+  /* IE zeigt weißt den Header Bereich zu großzügig aus */
+  /* header { height: 245px; } */
+  /* Änderung wurde in basemod.css übernommen */
+  
+}
