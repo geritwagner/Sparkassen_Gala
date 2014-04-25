@@ -112,6 +112,7 @@ $mA = $menu['active'];
 			  <div id="col1_content" class="clearfix">
 
 <br />
+<p><strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Infos</a>):<br>Freitag, 6. Juni 2014</strong></p>
 <h4>Sponsoren</h4>
 
 <br />
