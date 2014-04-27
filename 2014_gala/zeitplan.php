@@ -90,6 +90,15 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 	</TR>
 	<TR VALIGN=TOP>
 		  <TD WIDTH=34 >21.35</TD>
+		  <TD>5000m</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		  <TD WIDTH=34 >21.55</TD>
 		  <TD>5000m (B-Lauf)</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
@@ -110,13 +119,11 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
       <th width="13%">mU16</th>
       <th width="15%">Frauen</th>
       <th width="16%">wU20/U18</th>
-      <th width="14%">wU16</th>
     </tr>
 	<TR VALIGN=TOP>
 		<TD WIDTH=34 >12.30</TD>
 		<TD>Hoch E</TD>
 		<TD>Hoch E</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -127,12 +134,10 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>100m ZEL</TD>
 		<TD>Weit VE (NP)</TD>
 		<TD>Stabhoch E</TD>
-		<TD>Weit</TD>
-		<TD>&nbsp;</TD>
+		<TD>Weit U20</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=34 >13.00</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -146,7 +151,6 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>100m ZEL</TD>
 		<TD>100m ZEL</TD>
-		<TD>&nbsp;</TD>
 	</TR>
 		<TR VALIGN=TOP>
 		<TD WIDTH=34 >13.45</TD>
@@ -155,31 +159,27 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>Hoch E</TD>
 		<TD>Hoch E</TD>
-		<TD>&nbsp;</TD>
 	</TR>
-		<TR VALIGN=TOP>
+	<TR VALIGN=TOP>
 		<TD WIDTH=34 >14.00</TD>
 		<TD>Weit B-W</TD>
 		<TD>Weit mU20 VE (NP)</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
 	</TR>
-		<TR VALIGN=TOP>
+	<TR VALIGN=TOP>
 		<TD WIDTH=34 >14.10</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>100m VL (A-D)</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
 	</TR>
-		<TR VALIGN=TOP>
+	<TR VALIGN=TOP>
 		<TD WIDTH=34 >14.35</TD>
 		<TD>100m VL (A-E)</TD>
 		<TD>DLV innerh. A-E</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -191,7 +191,6 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>100m Hü VL(2)</TD>
 		<TD>100m Hü VL(1)</TD>
-		<TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=34 >15.15</TD>
@@ -200,7 +199,6 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">Hoch E</TD>
 		<TD>Hoch E</TD>
-		<TD>&nbsp;</TD>
 	</TR>
 </table>
 <br />
@@ -212,38 +210,29 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
       <th width="10%">Zeit</th>
       <th width="15%">Männer</th>
       <th width="17%">mU20/U18</th>
-      <th width="13%">mU16</th>
       <th width="15%">Frauen</th>
       <th width="16%">wU20/U18</th>
-      <th width="14%">wU16</th>
     </tr>
-
 	<TR>
-		<TD WIDTH=34 >16.00</TD>
+	<TD WIDTH=34 >16.00</TD>
 		<TD style="background-color: 	#C0C0FF">Stabhoch E</TD>
 		<TD>Weit mU18 VE (NP)</TD>
-		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">100m Hü EL(2)</TD>
 		<TD>100m Hü EL(1)</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >16.15</TD>
 		<TD style="background-color: 	#C0C0FF">110m Hü EL(2)</TD>
 		<TD>110m Hü EL(1)</TD>
 		<TD>&nbsp;</TD>
-		<TD>100m Hü EL(2)</TD>
-		<TD>100m Hü EL(1)</TD>
-		<TD WIDTH=65>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >16.30</TD>
 		<TD>Weit VE</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">100m EL(2)</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >16.45</TD>
@@ -251,53 +240,41 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>100m EL(1)</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
-		<TR>
+	<TR>
 		<TD WIDTH=34 >17.00</TD>
 		<TD style="background-color: 	#C0C0FF">400m Hü EL (A+B)</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
-		<TR>
+	<TR>
 		<TD WIDTH=34 >17.20</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>400m Hü DLV</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
-		<TR>
+	<TR>
 		<TD WIDTH=34 >17.30</TD>
 		<TD style="background-color: 	#C0C0FF">400m (A+B)</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>400m Hü DLV</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
-		<TR>
+	<TR>
 		<TD WIDTH=34 >17.50</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">800m ZEL (A+B)</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
-		<TR>
+	<TR>
 		<TD WIDTH=34 >18.05</TD>
-		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>4x100m ZEL</TD>
 		<TD WIDTH=65>Weit wU18 VE (NP)</TD>
-		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >18.20</TD>
@@ -305,26 +282,20 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >18.35</TD>
-		<TD style="background-color: 	#C0C0FF">800m ZEL(A-B(</TD>
-		<TD>&nbsp;</TD>
+		<TD style="background-color: 	#C0C0FF">800m ZEL(A-B)</TD>
 		<TD>&nbsp;</TD>
 		<TD>Weit VE</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >18.50</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">200m ZEL(A+B)</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >19.05</TD>
@@ -332,8 +303,6 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>200m E DLV</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >19.25</TD>
@@ -341,17 +310,13 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >19.45</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">1500m A-Lauf</TD>
 		<TD>&nbsp;</TD>
-		<TD WIDTH=65>&nbsp;</TD>
 	</TR>
 </TABLE>
 <br>
