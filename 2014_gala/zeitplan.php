@@ -4,10 +4,10 @@
 
 <h2>Zeitplan</h2>
 <br>
-<p>Der Zeitplan ist ab dem 29.05.2014 auf dieser Seite verfügbar.</p>
-
-Stand 26.04.2014 <!-- endgültiger Stand -->
-<br /><br />
+<p>
+Stand 28.04.2014 <!-- endgültiger Stand -->
+</p>
+<br />
 <p>Der Zeitplan der Sparkassen Gala 2014 steht im PDF-Format zum Download/Drucken bereit: <a href="download/Sparkassen-Gala2014_Zeitplan.pdf" target="_blank">Zeitplan der Sparkassen Gala 2014 (150kb)</a></p>
 </p>
 <br />
@@ -107,6 +107,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		  <TD>&nbsp;</TD>
 	</TR>
 </table>
+<p>< := langsamer als ... </p>
 <br />
 <br />
 <center><p style="font-weight: bold">Vorprogramm Sparkassen Gala (Samstag, 7. Juni 2014))</p><center>
@@ -212,6 +213,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
       <th width="17%">mU20/U18</th>
       <th width="15%">Frauen</th>
       <th width="16%">wU20/U18</th>
+      <th width="16%">wU16</th>
     </tr>
 	<TR>
 	<TD WIDTH=34 >16.00</TD>
@@ -219,11 +221,13 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>Weit mU18 VE (NP)</TD>
 		<TD style="background-color: 	#C0C0FF">100m Hü EL(2)</TD>
 		<TD>100m Hü EL(1)</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >16.15</TD>
 		<TD style="background-color: 	#C0C0FF">110m Hü EL(2)</TD>
 		<TD>110m Hü EL(1)</TD>
+		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 	</TR>
@@ -233,6 +237,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">100m EL(2)</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >16.45</TD>
@@ -240,10 +245,12 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>100m EL(1)</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >17.00</TD>
 		<TD style="background-color: 	#C0C0FF">400m Hü EL (A+B)</TD>
+		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -254,6 +261,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>400m Hü DLV</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >17.30</TD>
@@ -261,6 +269,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
+		<TD WIDTH=65>Weit wU16 VE (NP)</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >17.50</TD>
@@ -268,17 +277,20 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">800m ZEL (A+B)</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >18.05</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>4x100m ZEL</TD>
-		<TD WIDTH=65>Weit wU18 VE (NP)</TD>
+		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >18.20</TD>
 		<TD>4x100m ZEL</TD>
+		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -288,6 +300,7 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD style="background-color: 	#C0C0FF">800m ZEL(A-B)</TD>
 		<TD>&nbsp;</TD>
 		<TD>Weit VE</TD>
+		<TD WIDTH=65>Weit wU18 VE (NP)</TD>
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
@@ -296,11 +309,13 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">200m ZEL(A+B)</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >19.05</TD>
 		<TD style="background-color: 	#C0C0FF">200m ZEL (A+B)(2)</TD>
 		<TD>200m E DLV</TD>
+		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 	</TR>
@@ -310,12 +325,14 @@ Stand 26.04.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=34 >19.45</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">1500m A-Lauf</TD>
+		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 	</TR>
 </TABLE>
