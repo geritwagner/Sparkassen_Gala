@@ -1,4 +1,4 @@
-Martin Weinberger <martin-weinberger@web.de>
+Martin Weinberger martin-weinberger[ät]web[dot]de
 
 Wenn die Installation abgeschlossen ist, braucht man nur noch die 2 Dateien aus dem Anhang in das Verzeichnis kopieren, in dem du die .htm Dateien ablegst.
 Erklärung der Dateien und ihrer Verwendung:
