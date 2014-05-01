@@ -272,6 +272,14 @@ Stand 28.04.2014 <!-- endgültiger Stand -->
 		<TD WIDTH=65>Weit wU16 VE (NP)</TD>
 	</TR>
 	<TR>
+		<TD WIDTH=34 >17.45</TD>
+		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
+		<TD>400m DLV</TD>
+		<TD>&nbsp;</TD>
+		<TD>&nbsp;</TD>
+	</TR>
+	<TR>
 		<TD WIDTH=34 >17.50</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
