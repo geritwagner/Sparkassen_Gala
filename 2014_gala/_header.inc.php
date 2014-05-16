@@ -117,9 +117,13 @@ $mA = $menu['active'];
 
 <br />
 <a href="http://www.sparkasse-regensburg.de/" target="_blank" class="imagelink" title="Sparkasse Regensburg"><img src="images/sponsoren/col1/sparkasse-regensburg.gif" width="200" height="90" alt="Sparkasse Regensburg" /></a>
-<br /><br /><br />
+<br />
 
-<iframe name="sponsoren" width="190" height="400" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
+<iframe name="sponsoren" width="190" height="350" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
+<embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mov&amp;image=http://videos.lg-telis-finanz.de/2014/casino.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=false" height="150" width="150">
+
+<br /><br />
+
 
 
 			  </div>
