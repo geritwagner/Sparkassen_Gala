@@ -3,7 +3,13 @@
 <?php require("_header.inc.php"); ?>
 
 <p>
-<embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4&amp;image=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=true" height="363" width="600"> <br></p>
+<embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4&amp;image=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=true" height="363" width="600"> <br><br></p>
+
+<h2>Was läuft Covergirl Coco Harrer bei der Sparkassen Gala?</h2>
+
+<p><strong>Die für die EM bereits qualifizierte Regensburgerin hat ein breites Streckenrepertoire</strong></p>
+
+<p><img src="http://lg-telis-finanz.de/images/stories/2013/Harrer_c2_hem13_foto_chai.jpg" class="float_left" width="150px">Regensburg, 15. Mai 2014 (orv) –  „Hans Dampf der Regensburger Leichtathletik“, hat Stadion-Moderator Bert Hörhold einmal Telis-Teamchef Kurt Ring auf Grund seiner vielfältigen Betätigungsfelder in der Leichtathletik der Donaustadt genannt. Eine „Coco Dampf“ ist wohl auch dessen erfolgreichster Schützling Corinna Harrer auf Grund ihres großen Spektrums an gelaufenen Strecken. Von 800m bis Halbmarathon, den Cross eingeschlossen, nimmt sie so ziemlich alles unter die Füße, was angeboten wird. Lediglich um die Hindernisse macht die Regensburgerin einen großen Bogen, obwohl sie schon als B-Jugendliche einmal versprochen hatte, die auch zu probieren. Nun geht’s auf die Europameisterschaften 2014 zu und keiner weiß so recht, was „die Mittelstrecklerin im Langstreckenkader“ in Zürich denn wirklich laufen wird – außer eben sie selbst und ihr Coach Kurt Ring. <a href="/news/17-05_harrer.php">Hier</a> geht's weiter ...</p>
 
 <h2>Die Sparkassen Gala 2014 verspricht wieder Großes</h2>
 
