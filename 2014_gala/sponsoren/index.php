@@ -18,9 +18,8 @@
 <div class="subcolumns" style="text-align:center;">
 	<div class="c50l">
 	<div class="subcl">
-	  <a href="http://www.rewag.de/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/rewag.gif" width="225" height="69" alt="REWAG" title="REWAG" />
-	  </a>
+	  <a href="http://www.scheckdruck.de/" target="_blank" class="imagelink">
+	  <img src="../images/sponsoren/scheck-druck.gif" alt="Scheck Druck" width="190" height="89" border="0" title="Scheck Druck" />	  </a>
 	</div>
 	</div>
 
@@ -30,28 +29,31 @@
 	  <a href="http://www.asklepios.com/badabbach/" target="_blank" class="imagelink">
 	  <img src="../images/sponsoren/asklepios.gif" width="210" height="63" alt="Asklepios Klinikum Bad Abbach" title="Asklepios Klinikum Bad Abbach" />      </a>	</div>
 </div></div></div>
-<br/>
-	<center>
-	  <a href="http://www.scheckdruck.de/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/scheck-druck.gif" alt="Scheck Druck" width="190" height="89" border="0" title="Scheck Druck" />	  </a>	</center>
+
+<center><a href="http://www.bischofshof.de/" target="_blank" class="imagelink">
+			<img src="../images/sponsoren/Bischofshof.gif" width="130"  alt="Brauerei Bischofshof" title="Brauerei Bischofshof" />	  </a>	</center>
 
 <br /><br /><br />
 <h2 align="center">Disziplinsponsoren</h2>
 <br /><br />
 <div class="subcolumns" style="text-align:center;">
 	<div class="c50l">
-	<div class="subcl">
-	  <a href="http://www.bischofshof.de/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/Bischofshof.gif" width="130"  alt="Brauerei Bischofshof" title="Brauerei Bischofshof" />	  </a>	</div>
+		<div class="subcl">
+			<a href="http://www.rewag.de/" target="_blank" class="imagelink">
+		  <img src="../images/sponsoren/rewag.gif" width="225" height="69" alt="REWAG" title="REWAG" />
+		</div>
 	</div>
 
 	<div class="c50l">
-	<div class="subcl" style="padding-top:20px">
-	  <a href="http://www.ultra-sports.de/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/ultrasports.gif" width="190" height="101" alt="Ultra Sports" title="ULTRA SPORTS" />	  </a>	</div>
-	</div></div>
-	<div class="subcolumns" style="text-align:center;">
-<!--	  <div class="c50l">
+		<div class="subcl">
+		  <a href="http://www.ultra-sports.de/" target="_blank" class="imagelink">
+		  <img src="../images/sponsoren/ultrasports.jpg" width="240" alt="Ultra Sports" title="ULTRA SPORTS" />	  </a>	
+		 </div>
+	</div>
+	
+</div>
+<!--	<div class="subcolumns" style="text-align:center;">
+	  <div class="c50l">
  	<div class="subcl" style="padding-top:30px">
 	  <a href="http://www.drpa.de/" target="_blank" class="imagelink">
 	  <img src="../images/sponsoren/Duesterlho_Rothammer_Partner.gif" width="300" alt="v.Düsterlho Rothammer und Partner" title="v.Düsterlho Rothammer und Partner" />	  </a>
@@ -68,23 +70,6 @@
 </div>
 <br /> <br /><br />
 
-
-<h2 align="center">Ausrüster</h2>
-<br /><br />
-<div class="subcolumns" style="text-align:center;">
-<!--	<div class="c50l">
-	<div class="subcl">
-	  <a href="http://store.nike.com/de/de_de/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/Nike_logo.gif" width="130" alt="Nike" title="Nike" />	  </a>	</div>
-	  </div>
-</div> -->
-	<center>
-	<a href="http://store.nike.com/de/de_de/" target="_blank" class="imagelink"><img src="../images/sponsoren/Nike_logo.gif" width="130" alt="Nike" title="Nike" /></a>
-</center>
-
-<br />
-<br /><br />
-
 <h2 align="center">Partnerhotels</h2>
 <br />
 
@@ -97,7 +82,7 @@
 	  <a href="http://www.bestwestern.de/" target="_blank" class="imagelink">
 	  <img src="../images/sponsoren/Best_Western.jpg" width="130" alt="Best Western" title="Best Western" />	  </a>	</div>
 	</div>
-		<div class="c50r">
+	<div class="c50r">
 	<div class="subcr" style="padding-top:20px">
 	  <a href="http://www.accorhotels.com/de/hotel-0904-ibis-regensburg-city/index.shtml" target="_blank" class="imagelink">
 	  <img src="../images/sponsoren/ibis.gif" width="190" alt="Ibis Hotel Regensburg" title="Ibis Hotel Regensburg" />	  </a>	</div>
