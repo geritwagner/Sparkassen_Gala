@@ -50,7 +50,8 @@
 		  <img src="../images/sponsoren/ultrasports.jpg" width="240" alt="Ultra Sports" title="ULTRA SPORTS" />	  </a>	
 		 </div>
 	</div>
-	
+	<p style="padding-top:120px;"><embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mov&amp;image=http://videos.lg-telis-finanz.de/2014/casino.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=false" height="350" width="350"></p>
+
 </div>
 <!--	<div class="subcolumns" style="text-align:center;">
 	  <div class="c50l">
