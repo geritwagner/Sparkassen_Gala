@@ -5,6 +5,11 @@
 <p>
 <embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4&amp;image=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=true" height="363" width="600"> <br><br></p>
 
+<h2>Die vorläufige Teilnehmerliste ist online</h2>
+<br />
+
+<p>Die vorläufige Teilnehmerliste (Stand 30.05.2014) ist <a href="/download/Sparkassen_Gala_2014_Teilnehmerliste.htm" target="_blank">hier</a> verfügbar.
+
 <h2>Was läuft Covergirl Coco Harrer bei der Sparkassen Gala?</h2>
 
 <p><strong>Die für die EM bereits qualifizierte Regensburgerin hat ein breites Streckenrepertoire</strong></p>
