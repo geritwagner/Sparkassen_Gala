@@ -112,6 +112,7 @@ $mA = $menu['active'];
 				<div id="col1_content" class="clearfix">
 
 <br />
+<p><strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Infos</a>):<br>Freitag, 6. Juni 2014</strong></p>
 <h4>Sponsoren</h4>
 <br />
 
@@ -120,6 +121,9 @@ $mA = $menu['active'];
 
 <iframe name="sponsoren" width="190" height="400" frameborder="0" src="../sponsoren/iframe.html" scrolling="no"></iframe>
 
+<video id="player_b" class="projekktor" poster="http://videos.lg-telis-finanz.de/2014/casino.jpg" volume="0.1" poster="intro.png" title="Gala Marienbad" width="150" height="150" controls="false" >
+    <source src="http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mp4" type="video/mp4" />
+</video>
 
 				</div>
 			</div>

@@ -3,7 +3,10 @@
 <?php require("_header.inc.php"); ?>
 
 <p>
-<embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4&amp;image=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=true" height="363" width="600"> <br><br></p>
+<video id="player_a" class="projekktor" autoplay="true" poster="intro.png" title="Gala Trailer" width="640" height="360" controls>
+    <source src="http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4" type="video/mp4" />
+</video>
+<br><br></p>
 
 <h2>Die vorläufige Teilnehmerliste ist online</h2>
 <br />

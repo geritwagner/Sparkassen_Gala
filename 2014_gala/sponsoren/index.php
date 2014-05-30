@@ -50,7 +50,11 @@
 		  <img src="../images/sponsoren/ultrasports.jpg" width="240" alt="Ultra Sports" title="ULTRA SPORTS" />	  </a>	
 		 </div>
 	</div>
-	<p style="padding-top:120px;"><embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mov&amp;image=http://videos.lg-telis-finanz.de/2014/casino.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=false" height="350" width="350"></p>
+	<p style="padding-top:120px;">
+	<video id="player_b" class="projekktor" poster="http://videos.lg-telis-finanz.de/2014/casino.jpg" volume="0.1" poster="intro.png" title="Gala Marienbad" width="350" height="350" controls>
+    <source src="http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mp4" type="video/mp4" />
+</video>
+	<!-- <embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mov&amp;image=http://videos.lg-telis-finanz.de/2014/casino.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=false" height="350" width="350">--></p>
 
 </div>
 <!--	<div class="subcolumns" style="text-align:center;">

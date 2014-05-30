@@ -26,6 +26,10 @@ $mA = $menu['active'];
 <script type="text/javascript" src="javascript/ADxMenu.js"></script>
 <![endif]-->
 
+<script type="text/javascript" src="http://sparkassen-gala.de/player/jquery.min.js"></script>
+<script type="text/javascript" src="http://sparkassen-gala.de/player/projekktor.min.js"></script>
+<link rel="stylesheet" href="http://sparkassen-gala.de/player/theme/maccaco/style.css" type="text/css" media="screen" />
+
 </head>
 <body>
 <div id="page_margins">
@@ -120,7 +124,11 @@ $mA = $menu['active'];
 <br />
 
 <iframe name="sponsoren" width="190" height="350" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
-<embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mov&amp;image=http://videos.lg-telis-finanz.de/2014/casino.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=false" height="150" width="150">
+
+<video id="player_b" class="projekktor" poster="http://videos.lg-telis-finanz.de/2014/casino.jpg" volume="0.1" poster="intro.png" title="Gala Marienbad" width="150" height="150" controls="false" >
+    <source src="http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mp4" type="video/mp4" />
+</video>
+
 
 <br /><br />
 
