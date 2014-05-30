@@ -20,8 +20,8 @@ exec tclsh "$0" ${1+"$@"}
 
 #
 # *** Einstellungen ***
-set VeranstaltungsName "Sparkassen_Gala_2012"
-set ListenTyp "Teilnehmerliste"
+set VeranstaltungsName "Sparkassen_Gala_2014"
+set ListenTyp "Ergebnisliste"
 set Dateiname $VeranstaltungsName\_$ListenTyp
 set StartnummernAusblenden 0
 
