@@ -1,11 +1,11 @@
-<?php $title = "Zeitplan";
+﻿<?php $title = "Zeitplan";
  $menu['current'] = "zeitplan"; ?>
 <?php require("_header.inc.php"); ?>
 
 <h2>Zeitplan</h2>
 <br>
 <p>
-Stand 28.04.2014 <!-- endgültiger Stand -->
+Stand 01.06.2014 <!-- endgültiger Stand -->
 </p>
 <br />
 <p>Der Zeitplan der Sparkassen Gala 2014 steht im PDF-Format zum Download/Drucken bereit: <a href="download/Sparkassen-Gala2014_Zeitplan.pdf" target="_blank">Zeitplan der Sparkassen Gala 2014 (150kb)</a></p>
@@ -39,21 +39,21 @@ Stand 28.04.2014 <!-- endgültiger Stand -->
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
-		  <TD>800m ZEL (<2:09)</TD>
-		  <TD>800m ZEL (<2:09)</TD>
+		  <TD>800m ZEL (<2:11)</TD>
+		  <TD>800m ZEL (<2:11)</TD>
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >18.45</TD>
-		  <TD>800m ZEL (<1:51)</TD>
-		  <TD>800m ZEL (<1:51)</TD>
+		  <TD WIDTH=34 >18.20</TD>
+		  <TD>800m ZEL (<1:52)</TD>
+		  <TD>800m ZEL (<1:52)</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >19.30</TD>
+		  <TD WIDTH=34 >19.00</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
@@ -62,25 +62,25 @@ Stand 28.04.2014 <!-- endgültiger Stand -->
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >19.55</TD>
+		  <TD WIDTH=34 >19.25</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
-		  <TD>1500m ZEL (<4:30)</TD>
-		  <TD>1500m ZEL (<4:30)</TD>
-		  <TD>&nbsp;</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >20.10</TD>
-		  <TD>1500m ZEL (<3:51)</TD>
-		  <TD>1500m ZEL (<3:51)</TD>
-		  <TD>&nbsp;</TD>
-		  <TD>&nbsp;</TD>
-		  <TD>&nbsp;</TD>
+		  <TD>1500m ZEL (<4:35)</TD>
+		  <TD>1500m ZEL (<4:35)</TD>
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >21.00</TD>
+		  <TD WIDTH=34 >19.45</TD>
+		  <TD>1500m ZEL (<3:52)</TD>
+		  <TD>1500m ZEL (<3:52)</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		  <TD WIDTH=34 >20.15</TD>
 		  <TD>3000mH EL</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
@@ -89,8 +89,8 @@ Stand 28.04.2014 <!-- endgültiger Stand -->
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >21.35</TD>
-		  <TD>5000m</TD>
+		  <TD WIDTH=34 >20.35</TD>
+		  <TD>5000m (bis 15:00)</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
@@ -98,11 +98,19 @@ Stand 28.04.2014 <!-- endgültiger Stand -->
 		  <TD>&nbsp;</TD>
 	</TR>
 	<TR VALIGN=TOP>
-		  <TD WIDTH=34 >21.55</TD>
-		  <TD>5000m (B-Lauf)</TD>
+		  <TD WIDTH=34 >21.00</TD>
+		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>5000m</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+	</TR><TR VALIGN=TOP>
+		  <TD WIDTH=34 >21.30</TD>
+		  <TD>5000m (ab 15:01)</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
+		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 		  <TD>&nbsp;</TD>
 	</TR>
