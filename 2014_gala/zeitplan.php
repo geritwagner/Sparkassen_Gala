@@ -143,7 +143,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>100m ZEL</TD>
 		<TD>Weit VE (NP)</TD>
 		<TD>Stabhoch E</TD>
-		<TD>Weit U20</TD>
+		<TD>Weit wU20 VE</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=34 >13.00</TD>
@@ -163,7 +163,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 	</TR>
 		<TR VALIGN=TOP>
 		<TD WIDTH=34 >13.45</TD>
-		<TD>&nbsp;</TD>
+		<TD>400m C-E</TD>
 		<TD>400m DLV U20</TD>
 		<TD>&nbsp;</TD>
 		<TD>Hoch E</TD>
@@ -258,7 +258,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 	<TR>
 		<TD WIDTH=34 >17.00</TD>
 		<TD style="background-color: 	#C0C0FF">400m Hü EL (A+B)</TD>
-		<TD>&nbsp;</TD>
+		<TD>400 m Hü DLV</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -288,7 +288,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >17.50</TD>
+		<TD WIDTH=34 >18.00</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">800m ZEL (A+B)</TD>
@@ -296,7 +296,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >18.05</TD>
+		<TD WIDTH=34 >18.15</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>4x100m ZEL</TD>
@@ -304,7 +304,7 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >18.20</TD>
+		<TD WIDTH=34 >18.25</TD>
 		<TD>4x100m ZEL</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -312,15 +312,15 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >18.35</TD>
-		<TD style="background-color: 	#C0C0FF">800m ZEL(A-B)</TD>
+		<TD WIDTH=34 >18.40</TD>
+		<TD>800m ZEL(A-B)</TD>
 		<TD>&nbsp;</TD>
 		<TD>Weit VE</TD>
 		<TD WIDTH=65>Weit wU18 VE (NP)</TD>
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >18.50</TD>
+		<TD WIDTH=34 >18.55</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD style="background-color: 	#C0C0FF">200m ZEL(A+B)</TD>
@@ -328,15 +328,15 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >19.05</TD>
-		<TD style="background-color: 	#C0C0FF">200m ZEL (A+B)(2)</TD>
+		<TD WIDTH=34 >19.10</TD>
+		<TD style="background-color: 	#C0C0FF">200m ZEL A+B(2)</TD>
 		<TD>200m E DLV</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >19.25</TD>
+		<TD WIDTH=34 >19.30</TD>
 		<TD style="background-color: 	#C0C0FF">1500m A+B</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
@@ -344,10 +344,10 @@ Stand 01.06.2014 <!-- endgültiger Stand -->
 		<TD>&nbsp;</TD>
 	</TR>
 	<TR>
-		<TD WIDTH=34 >19.45</TD>
+		<TD WIDTH=34 >19.50</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
-		<TD style="background-color: 	#C0C0FF">1500m A-Lauf</TD>
+		<TD>1500m A-Lauf</TD>
 		<TD>&nbsp;</TD>
 		<TD>&nbsp;</TD>
 	</TR>
