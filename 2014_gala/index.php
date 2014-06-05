@@ -10,6 +10,13 @@
 <embed src="http://videos.lg-telis-finanz.de/2013/sparkassen-gala/player.swf" bgcolor="000000" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4&amp;image=http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.jpg&amp;stretching=exactfit&amp;plugins=embed-1&controls=false&autostart=true" height="363" width="600"> --> <br><br></p>
 
 
+<h2>Spezialistinnen gegen Allrounderinnen</h2>
+
+<p><strong>800m Frauenrennen bei der Sparkassen Gala mit Brisanz</strong></p>
+
+<p><img class="float_left" title="Mittelstrecke in action (Kosmider-Foto)" src="http://www.lg-telis-finanz.de/images/stories/2013/Harrer7_DM2013_Kosmiderfoto.jpg" alt="Harrer7 DM2013 Kosmiderfoto" width="197" />Regensburg, 4. Juni 2014 (orv) –&nbsp; Die 800m der Frauen waren bei der Sparkassen Gala von jeher ein Highlight. Schließlich ist es das Wohnzimmer der Corinna Harrer. Jener Läuferin, die in den letzten Jahren mit 2:00,34 Minuten die schnellste deutsche Zeit erzielt hat. Sozusagen im Vorübergehen, weil die 800m nicht unbedingt ihre Spezialstrecke sind. Das heißt aber nicht, dass sie auf den zwei Stadionrunden nicht auch schon erfolgreich gewesen wäre. Der zweite Platz bei der U20-EM 2009 in Novisad und zwei nationale Titel im Nachwuchsbereich können sich durchaus sehen lassen. Ansonsten sammelt die Regensburgerin auf vielen Strecken Titel genauso wie ihre kaum schwächeren Teamkolleginnen Maren Kock und Thea Heim. Die können inzwischen auch passabel 800m laufen, was Thea Heim eindrucksvoll letzte Woche mit ihren von niemand erwarteten 2:03,20min bewiesen hat. <a href="/news/04-06_Spezialistinnen gegen Allrounderinnen.php">Hier</a> geht's weiter ...</p>
+ 
+ 
 <h2>Die Sparkassen Gala 2014 wird wieder ein Leichtathletik-Festival</h2>
 
 <p><strong>Opening bereits am Freitag, ab 17.30 Uhr mit der Laufnacht</strong></p>
