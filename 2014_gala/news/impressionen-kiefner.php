@@ -12,13 +12,13 @@ Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impression
       <div class="c50l">
         <div class="subcl center">
           <!-- Inhalt linker Block -->
-          <img src="../impressionen/kiefner/1.jpg" /></div>
+          <img src="../photos/kiefner/1.jpg" /></div>
       </div>
 
       <div class="c50r">
         <div class="subcr center">
           <!-- Inhalt rechter Block -->
-    	  <img src="../impressionen/kiefner/2.JPG" />
+    	  <img src="../photos/kiefner/2.JPG" />
 
           </div>
     </div>
@@ -27,13 +27,13 @@ Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impression
       <div class="c50l">
         <div class="subcl center">
           <!-- Inhalt linker Block -->
-          <img src="../impressionen/kiefner/3.jpg" /></div>
+          <img src="../photos/kiefner/3.jpg" /></div>
       </div>
 
       <div class="c50r">
         <div class="subcr center">
           <!-- Inhalt rechter Block -->
-    	  <img src="../impressionen/kiefner/4.JPG" />
+    	  <img src="../photos/kiefner/4.JPG" />
 
           </div>
     </div>
@@ -42,13 +42,13 @@ Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impression
     <div class="c50l">
       <div class="subcl center">
         <!-- Inhalt linker Block -->
-        <img src="../impressionen/kiefner/5.jpg" /></div>
+        <img src="../photos/kiefner/5.jpg" /></div>
     </div>
 
     <div class="c50r">
       <div class="subcr center">
         <!-- Inhalt rechter Block -->
-  	  <img src="../impressionen/kiefner/6.jpg" />
+  	  <img src="../photos/kiefner/6.jpg" />
 
         </div>
   </div>
@@ -57,13 +57,13 @@ Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impression
     <div class="c50l">
       <div class="subcl center">
         <!-- Inhalt linker Block -->
-        <img src="../impressionen/kiefner/7.jpg" /></div>
+        <img src="../photos/kiefner/7.jpg" /></div>
     </div>
 
     <div class="c50r">
       <div class="subcr center">
         <!-- Inhalt rechter Block -->
-  	  <img src="../impressionen/kiefner/8.jpg" />
+  	  <img src="../photos/kiefner/8.jpg" />
 
         </div>
   </div>
@@ -72,33 +72,148 @@ Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impression
     <div class="c50l">
       <div class="subcl center">
         <!-- Inhalt linker Block -->
-        <img src="../impressionen/kiefner/9.jpg" /></div>
+        <img src="../photos/kiefner/9.jpg" /></div>
     </div>
 
     <div class="c50r">
       <div class="subcr center">
         <!-- Inhalt rechter Block -->
-  	  <img src="../impressionen/kiefner/10.jpg" />
+  	  <img src="../photos/kiefner/12.jpg" />
 
         </div>
   </div>
-  
+  <br />
   <div class="subcolumns">
     <div class="c50l">
       <div class="subcl center">
         <!-- Inhalt linker Block -->
-        <img src="../impressionen/kiefner/11.jpg" /></div>
+        <img src="../photos/kiefner/11.jpg" /></div>
     </div>
 
     <div class="c50r">
       <div class="subcr center">
         <!-- Inhalt rechter Block -->
-  	  <img src="../impressionen/kiefner/12.jpg" />
+  	  <img src="../photos/kiefner/10.jpg" />
 
         </div>
   </div>
 
 <br />
 
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/13.jpg" /></div>
+    </div>
 
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/14.jpg" />
+
+        </div>
+  </div>
+
+<br />
+
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/15.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/16.jpg" />
+
+        </div>
+  </div>
+
+<br />
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/17.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/18.jpg" />
+
+        </div>
+  </div>
+
+<br />
+
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/19.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/20.jpg" />
+
+        </div>
+  </div>
+
+<br />
+
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/21.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/22.jpg" />
+
+        </div>
+  </div>
+
+<br />
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/23.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/24.jpg" />
+
+        </div>
+  </div>
+
+<br />
+
+<div class="subcolumns">
+    <div class="c50l">
+      <div class="subcl center">
+        <!-- Inhalt linker Block -->
+        <img src="../photos/kiefner/25.jpg" /></div>
+    </div>
+
+    <div class="c50r">
+      <div class="subcr center">
+        <!-- Inhalt rechter Block -->
+  	  <img src="../photos/kiefner/26.jpg" />
+
+        </div>
+  </div>
+
+<br />
 <?php require("../_footer.dir1.inc.php"); ?>

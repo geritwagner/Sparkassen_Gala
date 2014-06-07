@@ -3,6 +3,15 @@
 <?php require("_header.inc.php"); ?>
 
 
+<h2>Kiefner-Impressionen</h2>
+<br />
+<p>
+<a href="http://sparkassen-gala.de/news/impressionen-kiefner.php">Hier</a> geht's zu den Impressionen... <br><img class="float_left" src="http://sparkassen-gala.de/impressionen/Kiefner_overview.JPG"  style="padding-bottom:20px;" width="600" /></p>
+
+<h2>Franziska Hofmann überzeugt beim Hürdenlauf</h2>
+<br />
+<p><img class="float_left" src="http://sparkassen-gala.de/photos/kiefner/13.JPG"  width="160" />07. Juni 2014 (leichtathletik.de) - Franziska Hofmann zeigte auf den 100 Meter Hürden, dass Regensburg auch bei wenig Wind (+ 0,1 m/sec) gut laufen kann. Sie verbesserte ihre Bestzeit von 13,20 auf 13,02 Sekunden. Von ihrem Auftritt war sie völlig überwältigt: "Ich habe keine Ahnung, wie ich das gemacht habe." Vor allem das Duell mit der Norwegerin Isabelle Petersen (13,07 sec) pushte sie zu dieser Zeit.  Die 100 Meter der Frauen gehörten bei irregulärem Rückenwind (+ 2,8 m/sec) der Britin Jodie Williams. Die frühere U20-Weltmeisterin brachte 11,14 Sekunden auf die Uhr. Rebekka Haase (LV 90 Erzgebirge) setzte sich nach einer neuen Bestzeit von 11,34 Sekunden im Vorlauf erneut in 11,31 Sekunden als Zweite in Szene. Bei den Männern hatte Julian Reus auf den Endlauf verzichtet. Den Sieg holte sich Robin Gittens aus Barbados in glänzenden 10,06 Sekunden. Bester Deutscher war der Wolfsburger Sven Knipphals als Vierter in 10,28 Sekunden, zeitgleich vor dem Wattenscheider Christian Blum.</p>
+
 <h2>Julian Reus sprintet 10,12 Sekunden</h2>
 <br />
 <p><img class="float_left" src="http://sparkassen-gala.de/impressionen/Kiefner/Julian_Reus_KiefnerFoto.jpg"  width="160" />07. Juni 2014 (leichtathletik.de) - Der Deutsche Meister Julian Reus nutzte die Vorläufe über 100 Meter, um gleich eine Zeit von 10,12 Sekunden auf Bahn zu zaubern und sich damit in der deutschen Jahresbestenliste auf Platz zwei zu verbessern. Zugleich war es die drittschnellste Zeit des Wattenscheiders in seiner Karriere. U20-Europameister Tobias Potye bestätigte im Hochsprung die 2,22 Meter, die er schon vor einer Woche in Sinn gesprungen war. "Ich bin ruhig geblieben und habe mich auf meine Sprünge konzentriert", erklärte der 19-Jährige sein Erfolgsrezept. Der Athlet vom FC Aschheim ist damit auf dem besten Weg zur U20-Weltmeisterschaft in Eugene (USA).</p>
