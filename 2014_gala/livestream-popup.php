@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
-<title>Livestream - Sparkassen Gala 2013</title>
+<title>Livestream - Sparkassen Gala 2014</title>
 <style type="text/css">
 body { font: 9pt Arial, Helvetica, sans-serif; margin:10px; }
 
@@ -19,7 +19,7 @@ h1 { font-size: 1.7em; color: #E2001A; padding:0; margin: 0; }
 <div id="container">
 
 <center><a href="http://www.sparkassen-gala.de/" target="_blank">
-<h1>Sparkassen Gala 2013</h1>
+<h1>Sparkassen Gala 2014</h1>
 </a></center>
 <br />
 
@@ -36,7 +36,9 @@ h1 { font-size: 1.7em; color: #E2001A; padding:0; margin: 0; }
     </OBJECT>
 
 -->
-<iframe src="http://new.livestream.com/accounts/1824977/events/2162113/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe>
+<!-- IFRAME von 2013 <iframe src="http://new.livestream.com/accounts/1824977/events/2162113/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe> -->
+
+<iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/4a4db368-b84e-11e3-a647-002590c750be" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
     <br />
 </div>
