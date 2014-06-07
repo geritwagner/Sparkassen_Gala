@@ -148,3 +148,6 @@ $mA = $menu['active'];
 				<div id="col3_content" class="clearfix">
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
+<!-- Besonderes	-->
+<h4 class="hinweis" style="text-align:center;"><a href="ergebnisse.php">&raquo; Live Ergebnisse sind online</a></h4>
+<br />

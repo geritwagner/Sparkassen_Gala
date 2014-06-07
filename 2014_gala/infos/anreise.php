@@ -3,6 +3,12 @@
  $menu['current'] = "infos"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
 
+<h2>Sperrung der A3 Ausfahrt Regensburg Universität in Fahrtrichtung Passau</h2>
+<br />
+<p>Regensburg, 06. Juni 2014 –&nbsp; Wir bitten Sie zu berücksichtigen, dass die Autobahnabfahrt Regensburg Universität (100a) auf der A3 in Fahrtrichtung Passau (heißt vom Regensburger Kreuz kommend) gesperrt ist. Bitte der Umleitung über die Ausfahrt Regensburg Burgweinting (100b) folgen, das bedeutet nach der Ausfahrt direkt wieder rechts fahren, anschließend können Sie wieder dem ursprünglichen Plan folgen.
+<br /><a target="_blank" href="https://goo.gl/maps/1Z87A">&raquo; Karte</a>
+</p>
+
 <h2>Anreise / Anfahrt</h2>
 <br />
 
