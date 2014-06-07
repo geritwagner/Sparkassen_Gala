@@ -2,6 +2,13 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+
+<h2>Julian Reus sprintet 10,12 Sekunden</h2>
+<br />
+<p><img class="float_left" src="http://sparkassen-gala.de/impressionen/Kiefner/Julian_Reus_KiefnerFoto.jpg"  width="160" />07. Juni 2014 (leichtathletik.de) - Der Deutsche Meister Julian Reus nutzte die Vorläufe über 100 Meter, um gleich eine Zeit von 10,12 Sekunden auf Bahn zu zaubern und sich damit in der deutschen Jahresbestenliste auf Platz zwei zu verbessern. Zugleich war es die drittschnellste Zeit des Wattenscheiders in seiner Karriere. U20-Europameister Tobias Potye bestätigte im Hochsprung die 2,22 Meter, die er schon vor einer Woche in Sinn gesprungen war. "Ich bin ruhig geblieben und habe mich auf meine Sprünge konzentriert", erklärte der 19-Jährige sein Erfolgsrezept. Der Athlet vom FC Aschheim ist damit auf dem besten Weg zur U20-Weltmeisterschaft in Eugene (USA).</p>
+<br><br>
+
+
 <p>
 <video id="player_a" class="projekktor" poster="intro.png" title="Gala Trailer" width="640" height="360" controls>
     <source src="http://videos.lg-telis-finanz.de/2014/galatrailer2014_final.mp4" type="video/mp4" />
