@@ -140,4 +140,4 @@ $mA = $menu['active'];
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
 <!-- Besonderes	-->
-<h4 class="hinweis" style="text-align:center;"><a href="../ergebnisse.php">&raquo; Live Ergebnisse</a> und <a href="../live-stream.php">&raquo;Live-Stream</a> sind online</h4><br />
+<h4 class="hinweis" style="text-align:center;"><a href="../ergebnisse.php">&raquo; Live Ergebnisse</a> und <a href="http://www.sparkassen-gala.de/livestream-popup.php">&raquo;Live-Stream</a> sind online</h4><br />
