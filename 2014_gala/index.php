@@ -2,6 +2,20 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+<h2>Die Sparkassen Gala noch einmal zum Nachlesen</h2>
+<br />
+<p>Regensburg, 07. Juni 2014 - Den Tag der Sparkassen Gala noch einmal zum Nachlesen finden Sie hier im <a href="http://www.live.mittelbayerische.de/Event/Gipfeltreffen_der_Leichtathleten" target="_blank">&raquo; Blog</a></p>
+
+
+<h2>Christiane Klopsch zur Bestzeit</h2>
+<br />
+<p><img class="float_left" src="http://sparkassen-gala.de/photos/kiefner/22.JPG"  width="150" />07. Juni 2014 (leichtathletik.de) - Die 800 Meter kontrollierte mit Fabienne Kohlmann (LG Karlstadt-Gambach-Lohr) die Favoritin. Sie steigerte ihre Saisonbestzeit auf 2:01,70 Minuten. "Ich wäre gerne schneller gelaufen. Es fehlt noch ein bisschen das richtige Rennen. Ich muss mich auch noch richtig einschätzen können", sagte sie. Die Regensburgerin Corinna Harrer (2:02.50 min) kämpfte sich auf den zweiten Platz: "Nach den 5.000 Metern von Koblenz waren die 800 wie ein Sprint." Silvio Schirrmeister konnte sich auf den 400 Meter Hürden einmal mehr als bester Deutscher positionieren. Der Chemnitzer war mit seiner Zeit von 49,85 Sekunden aber nicht ganz zufrieden. Schnellster aller Läufe war der Schweizer Kariem Hussein (49,33 sec). Bei den Frauen durfte sich Christiane Klopsch über eine neue Bestzeit von 56,02 Sekunden freuen. Die Athletin der LG OVAG Friedberg-Fauerbach war damit an der Donau ungefährdet. Auch die EM-Norm (55,90 sec) ist in Reichweite. "Der Lauf war nicht perfekt. Aber es ist gut, wenn man Bestzeit läuft und man weiß, es geht noch um einiges besser", sagte Christiane Klopsch.</p>
+
+
+<h2>Kamghe Gaba eilt zur EM-Norm</h2>
+<br />
+<p><img class="float_left" src="http://sparkassen-gala.de/photos/kiefner/24.JPG"  width="150" />07. Juni 2014 (leichtathletik.de) - Kamghe Gaba meldete sich auf den 400 Metern nach einem Trainerwechsel zu Volker Beck eindrucksvoll zurück. Der Viertelmeiler von der LG Stadtwerke München blieb nicht nur als einziger unter 46 Sekunden, er erfüllte in 45,79 Sekunden auch die EM-Norm. Der Kölner Miguel Rigau (46,13 sec) verhinderte als Zweiter einen Münchner Dreifacherfolg. Bei den Frauen zeigte die Oldenburgerin Ruth Sophia Spelmeyer (52,69 sec) das schnellste Rennen. Sie blieb nur sechs Hundertstel über ihrer Bestzeit. Europameister Sebastian Bayer lieferte im Weitsprung Maßarbeit ab. Der Hamburger sprang im letzten Versuch 8,05 Meter weit und erfüllte damit exakt die EM-Norm. "Ich bin relativ zufrieden mit meinem Einstieg", sagte er und meinte nach der Absage des Springer-Meetings in Wesel zu der Option Regensburg: "Ich bin sehr sehr glücklich, dass ich hier sein durfte."</p>
+
 
 <h2>Kiefner-Impressionen</h2>
 <br />

@@ -149,5 +149,5 @@ $mA = $menu['active'];
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
 <!-- Besonderes	-->
-<h4 class="hinweis" style="text-align:center;"><a href="ergebnisse.php">&raquo; Live Ergebnisse</a> und <a href="http://www.sparkassen-gala.de/livestream-popup.php">&raquo;Live-Stream</a> sind online</h4>
+<h4 class="hinweis" style="text-align:center;"><a href="ergebnisse.php">&raquo;Ergebnisliste</a> <a target="_blank" href="http://www.leichtathletik.tv/index.php/events/view/id/3663">&raquo;Highlight Videos</a> und <a target="_blank" href="http://www.live.mittelbayerische.de/Event/Gipfeltreffen_der_Leichtathleten">&raquo;Der Tag im Blog</a> sind online</h4>
 <br />
