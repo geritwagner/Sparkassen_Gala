@@ -5,6 +5,8 @@
 
 <h2>Die Videos der Sparkassen Gala sind online</h2>
 <br />
+
+<p>Die <a href="https://www.youtube.com/playlist?list=PLKSOlqrE36tm9U-OUsGeiCt8aKh4M3KaO" target="_blank">Übersicht der einzelnen Disziplinen</a> finden Sie in der Playlist.</p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLKSOlqrE36tm9U-OUsGeiCt8aKh4M3KaO" frameborder="0" allowfullscreen></iframe>
 <br>
 <br>
