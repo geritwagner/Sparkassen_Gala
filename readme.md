@@ -12,7 +12,7 @@
 
 
 ## Infos
-* Fotos (Impressionen) sind per Sym-Link in /media/images/gala ausgelagert.
+* Fotos (Impressionen) sind per Sym-Link in /media/images/gala ausgelagert (vor oder nach der Veranstaltung überprüfen).
 
 ## Einrichten der nächsten Gala-Seite
 * Seite in ein neues Verzeichnis kopieren
