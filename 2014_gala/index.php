@@ -30,7 +30,7 @@
 <h2>Kiefner-Impressionen</h2>
 <br />
 <p>
-<a href="http://sparkassen-gala.de/news/impressionen-kiefner.php">Hier</a> geht's zu den Impressionen... <br><img class="float_left" src="http://sparkassen-gala.de/impressionen/Kiefner_overview.JPG"  style="padding-bottom:20px;" width="600" /></p>
+<a href="http://sparkassen-gala.de/news/impressionen-kiefner.php">Hier</a> geht's zu den Impressionen... <br><img class="float_left" src="http://sparkassen-gala.de/photos/Kiefner_overview.JPG"  style="padding-bottom:20px;" width="600" /></p>
 
 <h2>Franziska Hofmann überzeugt beim Hürdenlauf</h2>
 <br />
@@ -38,7 +38,7 @@
 
 <h2>Julian Reus sprintet 10,12 Sekunden</h2>
 <br />
-<p><img class="float_left" src="http://sparkassen-gala.de/impressionen/Kiefner/Julian_Reus_KiefnerFoto.jpg"  width="160" />07. Juni 2014 (leichtathletik.de) - Der Deutsche Meister Julian Reus nutzte die Vorläufe über 100 Meter, um gleich eine Zeit von 10,12 Sekunden auf Bahn zu zaubern und sich damit in der deutschen Jahresbestenliste auf Platz zwei zu verbessern. Zugleich war es die drittschnellste Zeit des Wattenscheiders in seiner Karriere. U20-Europameister Tobias Potye bestätigte im Hochsprung die 2,22 Meter, die er schon vor einer Woche in Sinn gesprungen war. "Ich bin ruhig geblieben und habe mich auf meine Sprünge konzentriert", erklärte der 19-Jährige sein Erfolgsrezept. Der Athlet vom FC Aschheim ist damit auf dem besten Weg zur U20-Weltmeisterschaft in Eugene (USA).</p>
+<p><img class="float_left" src="http://sparkassen-gala.de/photos/Kiefner/Julian_Reus_KiefnerFoto.jpg"  width="160" />07. Juni 2014 (leichtathletik.de) - Der Deutsche Meister Julian Reus nutzte die Vorläufe über 100 Meter, um gleich eine Zeit von 10,12 Sekunden auf Bahn zu zaubern und sich damit in der deutschen Jahresbestenliste auf Platz zwei zu verbessern. Zugleich war es die drittschnellste Zeit des Wattenscheiders in seiner Karriere. U20-Europameister Tobias Potye bestätigte im Hochsprung die 2,22 Meter, die er schon vor einer Woche in Sinn gesprungen war. "Ich bin ruhig geblieben und habe mich auf meine Sprünge konzentriert", erklärte der 19-Jährige sein Erfolgsrezept. Der Athlet vom FC Aschheim ist damit auf dem besten Weg zur U20-Weltmeisterschaft in Eugene (USA).</p>
 <br><br>
 
 
