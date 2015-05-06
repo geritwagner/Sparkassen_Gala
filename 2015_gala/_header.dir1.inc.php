@@ -9,9 +9,9 @@ $mA = $menu['active'];
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title><?php if (!empty($title)) echo $title." - "; ?>Sparkassen Gala 2014</title>
+<title><?php if (!empty($title)) echo $title." - "; ?>Sparkassen Gala 2015</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Sparkassen Gala 2014, Sparkassen-Gala, German Meeting, Regensburg, Leichtathletik, Top-Meeting, Leichtathletik-Elite, Sprint, Hindernis, Hürden" />
+<meta name="keywords" content="Sparkassen Gala 2015, Sparkassen-Gala, German Meeting, Regensburg, Leichtathletik, Top-Meeting, Leichtathletik-Elite, Sprint, Hindernis, Hürden" />
 <?php if (!empty($description)) echo "<meta name=\"description\" content=\"$description\" />"; ?>
 <?php /*if ($menu['current']=="live-ticker" && !empty($refresh)) echo $refresh."\n"; */?>
 <meta name="language" content="de" />
@@ -38,7 +38,7 @@ $mA = $menu['active'];
 				<!-- end: skip link navigation -->
 			</div>
 			<div id="flashHeader">
-			  <img src="../images/design/header.jpg" width="900" height="245" alt="Sparkassen Gala 2013" />
+			  <img src="../images/design/header.jpg" width="900" height="245" alt="Sparkassen Gala 2015" />
 			</div>
 		</div>
 		<!-- begin: main navigation #nav -->
@@ -59,13 +59,13 @@ $mA = $menu['active'];
 						  <li><a href="../news/impressionen-bruessel.php">von Christian Brüssel</a></li>-->
 						</ul>
 					  </li>
-				      <li><a href="">Video-Highlights <!--&nbsp; &raquo;--></a>
+				      <!--<li><a href="">Video-Highlights &nbsp; &raquo;</a>
 						<ul id="navImpressionen">
 					      <!--<li><a href="http://www.leichtathletik.tv/events/view/id/3579" target="_blank">Video Highlights</a></li>
 						<li><a href="http://www.tvaktuell.com/default.aspx?ID=5164&showNews=743627" target="_blank">TV Aktuell</a></li>
-						  <li><a href="http://www.mittelbayerische.de/index.cfm?pid=10166&bcpid=55010322001&bclid=51364751001&bctid=90266147001" target="_blank">mittelbayerische.de</a></li>-->
+						  <li><a href="http://www.mittelbayerische.de/index.cfm?pid=10166&bcpid=55010322001&bclid=51364751001&bctid=90266147001" target="_blank">mittelbayerische.de</a></li>
 						</ul>
-					  </li>
+					  </li>-->
 				    </ul>
 				  </li>
 				  <li<? if($m == 'infos') echo $mA; ?>><a href="../infos/">Infos</a>
@@ -83,10 +83,11 @@ $mA = $menu['active'];
 				  <li<? if($m == 'ausschreibung') echo $mA; ?>><a href="../ausschreibung.php">Ausschreibung</a></li>
 				  <li<? if($m == 'zeitplan') echo $mA; ?>><a href="../zeitplan.php">Zeitplan</a></li>
 				  <li<? if($m == 'teilnehmer') echo $mA; ?>><a href="../teilnehmer.php">Teilnehmer</a></li>
-				  <li<? if($m == 'live-ticker') echo $mA; ?>><a href="../live-stream.php">Livestream</a></li>
+				  <li<? if($m == 'livestream') echo $mA; ?>><a href="../live-stream.php">Livestream</a></li>
 				  <li<? if($m == 'ergebnisse') echo $mA; ?>><a href="../ergebnisse.php">Ergebnisse</a></li>
 				  <li<? if($m == 'rueckblick') echo $mA; ?>><a href="../rueckblick/">Rückblick</a>
 				    <ul>
+					  <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
 					  <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
 					  <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>
 				      <li><a href="http://www.sparkassen-gala.de/2011/" target="_blank">Jahr 2011</a></li>
@@ -100,7 +101,7 @@ $mA = $menu['active'];
 				    </ul>
 				  </li>
 				  <li<? if($m == 'sponsoren') echo $mA; ?>><a href="../sponsoren/">Sponsoren</a></li>
-				  <li<? if($m == 'english') echo $mA; ?>><a href="../download/Sparkassen_Gala_2013_eng.pdf" target="blank"><img src="../images/design/british-flag.gjpg"></img></a></li>
+				  <li<? if($m == 'english') echo $mA; ?>><a href="../download/sparkassen_gala_2015_english.pdf" target="blank"><img src="../images/design/british-flag.gjpg"></img></a></li>
 				</ul>
 			</div>
 		</div>
@@ -112,7 +113,7 @@ $mA = $menu['active'];
 				<div id="col1_content" class="clearfix">
 
 <br />
-<p><strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2014_ausschreibungen/06-06_laufnacht.pdf">Infos</a>):<br>Freitag, 6. Juni 2014</strong></p>
+<p><strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2015_ausschreibungen/06-05_laufnacht.pdf">Infos</a>):<br>Freitag, 05. Juni 2015</strong></p>
 <h4>Sponsoren</h4>
 <br />
 
@@ -121,9 +122,6 @@ $mA = $menu['active'];
 
 <iframe name="sponsoren" width="190" height="400" frameborder="0" src="../sponsoren/iframe.html" scrolling="no"></iframe>
 
-<video id="player_b" class="projekktor" poster="http://videos.lg-telis-finanz.de/2014/casino.jpg" volume="0.1" poster="intro.png" title="Gala Marienbad" width="150" height="150" controls="false" >
-    <source src="http://videos.lg-telis-finanz.de/2014/casino-Marienbad.mp4" type="video/mp4" />
-</video>
 
 				</div>
 			</div>
@@ -139,6 +137,6 @@ $mA = $menu['active'];
 				<div id="col3_content" class="clearfix">
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
-<!-- Besonderes	-->
+<!-- Besonderes
 <h4 class="hinweis" style="text-align:center;"><a href="../ergebnisse.php">&raquo;Ergebnisliste</a> <a target="_blank" href="http://www.leichtathletik.tv/index.php/events/view/id/3663">&raquo;Highlight Videos</a> und <a target="_blank" href="http://www.live.mittelbayerische.de/Event/Gipfeltreffen_der_Leichtathleten">&raquo;Der Tag im Blog</a> sind online</h4>
-<br />
+	-->

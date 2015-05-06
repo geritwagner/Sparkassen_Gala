@@ -1,0 +1,43 @@
+
+# Redirect 301 / http://
+
+### Sparkassen-Gala 2008 ###
+Redirect 301 /news/2008-03-03_pressekonferenz.php http://www.sparkassen-gala.de/2008/news/2008-03-03_pressekonferenz.php
+Redirect 301 /news/2008-03-05_pressekonferenz_mz-bericht.php http://www.sparkassen-gala.de/2008/news/2008-03-05_pressekonferenz_mz-bericht.php
+Redirect 301 /news/2008-04-08_presseinfo1.php http://www.sparkassen-gala.de/2008/news/2008-04-08_presseinfo1.php
+Redirect 301 /news/2008-04-15_prioritaet-fuer-bundestrainerin.php http://www.sparkassen-gala.de/2008/news/2008-04-15_prioritaet-fuer-bundestrainerin.php
+Redirect 301 /news/2008-04-24_dreisprung-bei-der-gala.php http://www.sparkassen-gala.de/2008/news/2008-04-24_dreisprung-bei-der-gala.php
+Redirect 301 /news/2008-05-11-hochsprung.php http://www.sparkassen-gala.de/2008/news/2008-05-11-hochsprung.php
+Redirect 301 /news/2008-05-17-anzeigentafeln.php http://www.sparkassen-gala.de/2008/news/2008-05-17-anzeigentafeln.php
+Redirect 301 /news/2008-06-02_unmoegliche-moeglich-machen.php http://www.sparkassen-gala.de/2008/news/2008-06-02_unmoegliche-moeglich-machen.php
+Redirect 301 /news/2008-06-03_eilmeldung-stabhochsprung.php http://www.sparkassen-gala.de/2008/news/2008-06-03_eilmeldung-stabhochsprung.php
+Redirect 301 /news/2008-06-03_rundumerdum-herum.php http://www.sparkassen-gala.de/2008/news/2008-06-03_rundumerdum-herum.php
+Redirect 301 /news/2008-06-04_stabhochsprung.php http://www.sparkassen-gala.de/2008/news/2008-06-04_stabhochsprung.php
+Redirect 301 /news/2008-06-05_als-die-sparkassen-gala-laufen-lernte.php http://www.sparkassen-gala.de/2008/news/2008-06-05_als-die-sparkassen-gala-laufen-lernte.php
+Redirect 301 /news/2008-06-05_hauptvorschau.php http://www.sparkassen-gala.de/2008/news/2008-06-05_hauptvorschau.php
+Redirect 301 /news/2008-06-09_mz-bericht_spiegelburg-unger.php http://www.sparkassen-gala.de/2008/news/2008-06-09_mz-bericht_spiegelburg-unger.php
+Redirect 301 /news/2008-06-09_mz-bericht_spindler.php http://www.sparkassen-gala.de/2008/news/2008-06-09_mz-bericht_spindler.php
+Redirect 301 /news/2008-06-10_im-schatten-der-grossen.php http://www.sparkassen-gala.de/2008/news/2008-06-10_im-schatten-der-grossen.php
+Redirect 301 /news/2008-06-10_mz-bericht_jason-stewart.php http://www.sparkassen-gala.de/2008/news/2008-06-10_mz-bericht_jason-stewart.php
+Redirect 301 /news/2008-06-10_mz-bericht_lutz-pflieger.php http://www.sparkassen-gala.de/2008/news/2008-06-10_mz-bericht_lutz-pflieger.php
+Redirect 301 /news/2008-06-10_mz-bericht_naechster-hoehepunkt.php http://www.sparkassen-gala.de/2008/news/2008-06-10_mz-bericht_naechster-hoehepunkt.php
+
+### Sparkassen-Gala 2009 ###
+Redirect 301 /news/2009-03-24_gala09-dlv-normwett_vorschau.php http://www.sparkassen-gala.de/2009/news/2009-03-24_gala09-dlv-normwett_vorschau.php
+Redirect 301 /news/2009-05-04-sabrina-mockenhaupt-in-regensburg.php http://www.sparkassen-gala.de/2009/news/2009-05-04-sabrina-mockenhaupt-in-regensburg.php
+Redirect 301 /news/2009-05-29-wenn-die-gala-bilder-laufen-lernen.php http://www.sparkassen-gala.de/2009/news/2009-05-29-wenn-die-gala-bilder-laufen-lernen.php
+Redirect 301 /news/2009-06-04_die-grosse-vorschau.php http://www.sparkassen-gala.de/2009/news/2009-06-04_die-grosse-vorschau.php
+Redirect 301 /news/2009-06-05_sparkassen-gala-feine-adresse.php http://www.sparkassen-gala.de/2009/news/2009-06-05_sparkassen-gala-feine-adresse.php
+Redirect 301 /news/2009-06-09-telis-talente-im-schatten-der-grossen.php http://www.sparkassen-gala.de/2009/news/2009-06-09-telis-talente-im-schatten-der-grossen.php
+
+### Sparkassen-Gala 2010 ###
+Redirect 301 /news/2010-06-02_gala-vorschau-frauen.php http://www.sparkassen-gala.de/2010/news/2010-06-02_gala-vorschau-frauen.php
+Redirect 301 /news/2010-06-02_gala-vorschau-maenner.php http://www.sparkassen-gala.de/2010/news/2010-06-02_gala-vorschau-maenner.php
+Redirect 301 /news/2010-06-03_telis-talente-auf-dem-sprung.php http://www.sparkassen-gala.de/2010/news/2010-06-03_telis-talente-auf-dem-sprung.php
+
+### Sparkassen-Gala 2011 ###
+Redirect 301 /news/2011-01-02_gala-in-trockenen-tuechern.php http://www.sparkassen-gala.de/2011/news/2011-01-02_gala-in-trockenen-tuechern.php
+
+### Sparkassen-Gala 2013 ###
+Redirect 301 /news/06-01_vorschau-frauen.php http://www.sparkassen-gala.de/2013/news/06-01_vorschau-frauen.php
+Redirect 301 /news/06-02_vorschau-maenner.php http://www.sparkassen-gala.de/2013/news/06-02_vorschau-maenner.php
