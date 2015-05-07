@@ -110,8 +110,6 @@ Bayerische Meisterschaften, national offen, statt.<br />
     1,65 - 1,70 - 1,75 - 1,78 - 1,81 - 1,84 - dann 2cm jeweils höher<br>
 	<span style="font-style: italic">Hoch Mäner:</span><br />
     1,85 - 1,90 - 1,95 - 2,00 - 2,05 - 2,09 - 2,13 - 2,16 - dann 2cm jeweils höher<br>
-	<span style="font-style: italic">Stabhoch Frauen:</span><br />
-    3,60 m - 3,80 m - 4,00 m + 10 cm<br>
     </td>
 </tr>
 <tr>
