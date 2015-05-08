@@ -40,3 +40,6 @@ outfile.write('\n<?php require("_footer.inc.php"); ?>')
 
 outfile.close()
 
+print('generate pdf and upload zeitplan.php and pdf')
+input('press enter to close.')
+
