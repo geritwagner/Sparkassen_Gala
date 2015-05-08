@@ -458,9 +458,7 @@
     100 m Hü VL(2)
    </td>
    <td>
-    100 m Hü
-    <br/>
-    wU20 VL(1)
+    100 m Hü VL(1)
    </td>
    <td>
    </td>

@@ -2,7 +2,7 @@
 from pydocx.export import PyDocXHTMLExporter
 from bs4 import BeautifulSoup
 
-file = "/home/gerit/Downloads/2015_gala15_zeitplan-Stand_2015-03-20.docx"
+file = "2015_gala15_zeitplan-Stand_2015-03-20.docx"
 
 exporter = PyDocXHTMLExporter(file)
 html = exporter.parsed
