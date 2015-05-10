@@ -226,7 +226,7 @@
   </tr>
  </table>
  <p style="text-align: center;">
-  &lt; = langsamer als …
+  &gt; = langsamer als …
  </p>
  <p style="text-align: center;">
   <strong>
