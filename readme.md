@@ -36,6 +36,7 @@
 
 ## Vor der Gala
 * Marketing mit TELIS: Facebook?
+* Zeitplan: doc -> html: zeitplan_generator (python skript)
 * Zeitplan: Aufpassen, dass nicht mehr "Domspitzmilch-Gala" im PDF-Ausdruck steht (im Word-file, unter Dokumenteigenschaften ändern
 
 ## Während der Gala
