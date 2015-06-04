@@ -4,7 +4,7 @@
 
 <h2>Gala-Spezial mit Tobias Potye (Hochsprung)</h2>
 <p><strong>„Die Form ist da, nur die Routine fehlt“</strong></p>
-<p>Regensburg, 31. Mai 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<p>Regensburg, 01. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
 <i>(Franzi Reng) - Tobias, im letzten Jahr ging es im Hochsprung der Männer ja nicht bis zur 2,20m-Höhe.
 
 Du als damals noch U20-Jugendlicher hast mit Deinen 2,22m die Großen deswegen schon das 
