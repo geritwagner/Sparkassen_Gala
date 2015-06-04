@@ -137,6 +137,6 @@ $mA = $menu['active'];
 				<div id="col3_content" class="clearfix">
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
-<!-- Besonderes
-<h4 class="hinweis" style="text-align:center;"><a href="../ergebnisse.php">&raquo;Ergebnisliste</a> <a target="_blank" href="http://www.leichtathletik.tv/index.php/events/view/id/3663">&raquo;Highlight Videos</a> und <a target="_blank" href="http://www.live.mittelbayerische.de/Event/Gipfeltreffen_der_Leichtathleten">&raquo;Der Tag im Blog</a> sind online</h4>
-	-->
+<!-- Besonderes-->
+<h4 class="hinweis" style="text-align:center;"><a href="../teilnehmer.php">&raquo;Teilnehmer</a> und <a href="../zeitplan.php">&raquo;geänderter Zeitplan</a> sind online</h4>
+<br />	

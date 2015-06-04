@@ -4,7 +4,8 @@
 
 <h2>Zeitplan</h2>
 <br>
-
+Bitte beachten Sie die Orange markierten Disziplinen, hier gab es (endgültiger Stand 03.06.2015) auf Grund der Meldezahlen Veränderungen.<br /><br />
+Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="/download/sparkassen_gala_2015_zeitplan.pdf" target="_blank">&raquo; Zeitplan.pdf (70kB)</a> <br /><br />
  <p style="text-align: center;">
   <strong>
    Regensburger Laufnacht und Sparkassen-Leichtathletik Gala 2015
@@ -69,10 +70,10 @@
    <td>
    </td>
    <td>
-    800 m ZEL (&lt;2:11)
+    800 m ZEL (> 2:12)
    </td>
    <td>
-    800m ZEL (&lt;2:11)
+    800m ZEL (> 2:12)
    </td>
    <td>
    </td>
@@ -82,10 +83,10 @@
     18.20
    </td>
    <td>
-    800 m ZEL (&lt;1:52)
+    800 m ZEL (> 1:50)
    </td>
    <td>
-    800m ZEL (&lt;1:52)
+    800m ZEL (> 1:50)
    </td>
    <td>
    </td>
@@ -125,10 +126,10 @@
    <td>
    </td>
    <td>
-    1500 m ZEL (&lt;4:30)
+    1500 m ZEL (> 4:30)
    </td>
    <td>
-    1500 m ZEL (&lt;4:30)
+    1500 m ZEL (> 4:30)
    </td>
    <td>
    </td>
@@ -138,10 +139,10 @@
     19.45
    </td>
    <td>
-    1500 m ZEL (&lt;3:52)
+    1500 m ZEL (> 3:52)
    </td>
    <td>
-    1500 m ZEL (&lt;3:52)
+    1500 m ZEL (> 3:52)
    </td>
    <td>
    </td>
@@ -172,27 +173,10 @@
   </tr>
   <tr>
    <td>
-    20.35
-   </td>
-   <td>
-    5000 m (bis 15:00)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
     21.00
    </td>
-   <td>
+   <td style="background-color: #FF6600">
+   5000 m (> 15:12)
    </td>
    <td>
    </td>
@@ -210,8 +194,8 @@
    <td>
     21.30
    </td>
-   <td>
-    5000 m (ab 15:01)
+   <td style="background-color: #FF6600">
+    5000 m (bis 15:12)
    </td>
    <td>
    </td>
@@ -224,7 +208,7 @@
    <td>
    </td>
   </tr>
- </table>
+  </table>
  <p style="text-align: center;">
   &gt; = langsamer als …
  </p>
@@ -262,13 +246,32 @@
   </tr>
   <tr>
    <td>
-    12.15
+    11.45
    </td>
-   <td>
+   <td style="background-color: #FF6600">
     100 m ZEL
    </td>
-   <td>
+   <td style="background-color: #FF6600">
     100m mU18/20 ZEL
+   </td>
+   <td>
+    </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    12.15
+   </td>
+   <td style="background-color: #FF6600">
+    <s>100 m ZEL</s>
+   </td>
+   <td style="background-color: #FF6600">
+    <s>100m mU18/20 ZEL</s>
    </td>
    <td>
     Weit VE (NP)
@@ -302,7 +305,7 @@
   </tr>
   <tr>
    <td>
-    13.00
+    12.45
    </td>
    <td>
    </td>
@@ -310,10 +313,10 @@
    </td>
    <td>
    </td>
-   <td>
+   <td style="background-color: #FF6600">
     100 m ZEL
    </td>
-   <td>
+   <td style="background-color: #FF6600">
     100 m ZEL
    </td>
    <td>
@@ -330,11 +333,7 @@
    <td>
    </td>
    <td>
-    <ol list-style-type="decimal">
-     <li>
-      400m Hü
-     </li>
-    </ol>
+    400m Hü
    </td>
    <td>
     400m Hü
@@ -347,11 +346,7 @@
     13.45
    </td>
    <td>
-    <ol list-style-type="decimal">
-     <li>
-      400m Hü
-     </li>
-    </ol>
+    400m Hü
    </td>
    <td>
     400m Hü
@@ -377,11 +372,11 @@
    </td>
    <td>
    </td>
-   <td>
-    Hoch E
+   <td style="background-color: #FF6600">
+    <s>Hoch E</s>
    </td>
-   <td>
-    Hoch E
+   <td style="background-color: #FF6600">
+    <s>Hoch E</s>
    </td>
    <td>
    </td>
@@ -455,10 +450,10 @@
    <td>
    </td>
    <td>
-    100 m Hü VL(2)
+    100 m Hü VL (2)
    </td>
    <td>
-    100 m Hü VL(1)
+    100 m Hü VL (1)
    </td>
    <td>
    </td>
@@ -468,7 +463,7 @@
     15.45
    </td>
    <td>
-    110 m Hü VL(2)
+    110 m Hü VL (2)
    </td>
    <td>
     110 m Hü VL*(1)
@@ -519,10 +514,11 @@
     16.30
    </td>
    <td>
-    110 m Hü EL(1)
+    110 m Hü EL
    </td>
-   <td>
-    110 m Hü EL (2)
+   <td style="background-color: #FF6600">
+    <s>110 m Hü EL (2)</s><br />
+	Weit mU20 DLV VE
    </td>
    <td>
    </td>
@@ -539,16 +535,16 @@
    </td>
    <td>
    </td>
-   <td>
-    Weit mU18 VE (NP)
+   <td style="background-color: #FF6600">
+    <s>Weit mU18 VE (NP)</s>
    </td>
    <td>
    </td>
    <td style="background-color: #C0C0FF">
-    100 m Hü EL(2)
+    100 m Hü EL (2)
    </td>
    <td>
-    100 M Hü E (1)
+    100 M Hü EL (1)
    </td>
    <td>
    </td>
@@ -557,8 +553,8 @@
    <td>
     17.00
    </td>
-   <td>
-    Weit VE
+   <td style="background-color: #FF6600">
+    <s>Weit VE</s>
    </td>
    <td>
    </td>
@@ -568,6 +564,7 @@
     100 m EL (2)
    </td>
    <td>
+   100 m EL (1)
    </td>
    <td>
    </td>
@@ -580,7 +577,7 @@
     100 m EL (2)
    </td>
    <td>
-    100 m EL(1)
+    100 m EL (1)
    </td>
    <td>
    </td>
@@ -613,7 +610,8 @@
    <td>
     17.50
    </td>
-   <td>
+   <td style="background-color: #FF6600">
+   Weit VE
    </td>
    <td>
    </td>
@@ -751,7 +749,7 @@
    <td>
    </td>
    <td>
-    200 m ZEL(A+B)
+    200 m ZEL(A-C)
    </td>
    <td>
    </td>
@@ -763,10 +761,10 @@
     19.45
    </td>
    <td>
-    200 m ZE A+B (2)
+    200 m ZE (A-C)
    </td>
-   <td>
-    200m E DLV
+   <td style="background-color: #FF6600">
+    <s>200m ZE DLV</s>
    </td>
    <td>
    </td>
@@ -814,6 +812,27 @@
    <td>
    </td>
   </tr>
+  <tr>
+   <td>
+    20.45
+   </td>
+   <td style="background-color: #FF6600">
+   200m ZEL ab D
+   </td>
+   <td style="background-color: #FF6600">
+   200m ZEL
+   </td>
+   <td>
+   </td>
+   <td style="background-color: #FF6600">
+    200 m ZEL ab D
+   </td>
+   <td style="background-color: #FF6600">
+   200m ZEL
+   </td>
+   <td>
+   </td>
+  </tr>
  </table>
  <p style="text-align: center;">
   VL=Vorlauf, ZVL=Zeitvorlauf,  EL=Endlauf, ZEL=Zeitendläufe, E=Endkampf, VE=Vor/Endkampf
@@ -828,5 +847,11 @@
    Blau markierte Disziplinen sind Gala-Wettbewerbe (mit Preisgeld)
   </strong>
  </p>
+ <p style="background-color: #FF6600;">
+  <strong>
+   Bei Orange markierten Disziplinen gab es Änderungen im Zeitplan
+  </strong>
+ </p>
+ <p>(x) Reihenfolge der Läufe bei mehreren Altersklassen zur selben Startzeit</p>
 
 <?php require("_footer.inc.php"); ?>

@@ -3,7 +3,7 @@
 <?php require("_header.inc.php"); ?>
 
 <h2>Live Stream geplant</h2><br/>
-Auch für die Sparkassen Gala 2015 ist wieder ein Live Stream geplant, dieser wird zum Hauptprogramm der Gala starten.
+Auch für die Sparkassen Gala 2015 gibt es wieder einen Live Stream. Zum Hauptprogramm der Gala ist dieser in diesem Jahr zusätzlich auch noch in der Laufnacht verfügbar.
 <br>
 <br>
 <br />

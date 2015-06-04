@@ -96,17 +96,17 @@
 	</div>
 	<div class="c50r">
 	<div class="subcr">
-	  <a href="http://www.charivari.com/" target="_blank" class="imagelink">
-	  <img src="../images/sponsoren/charivari.gif" width="210" height="67" alt="Charivari" title="Charivari" />	  </a>	</div>
+  <a href="http://www.tvaktuell.com/" target="_blank" class="imagelink">
+  <img src="../images/sponsoren/tva.gif" height="89" width="200" alt="TVA" title="TVA" />  </a>
+</div>
 	</div>
 </div>
 
 <br /><br />
 
 <center>
-  <a href="http://www.tvaktuell.com/" target="_blank" class="imagelink">
-  <img src="../images/sponsoren/tva.gif" height="89" width="200" alt="TVA" title="TVA" />  </a>
-</center>
+	  <a href="http://www.charivari.com/" target="_blank" class="imagelink">
+	  <img src="../images/sponsoren/Charivari_Sparkassengala.jpg" width="150" alt="Charivari" title="Charivari" />	  </a>	</center>
 
 <br />
 
