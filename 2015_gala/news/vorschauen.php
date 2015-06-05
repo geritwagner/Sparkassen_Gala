@@ -2,6 +2,13 @@
  $menu['current'] = "news"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
 
+<h2>Gala-Spezial mit Manuel Leitner (Weitsprung)</h2>
+<p><strong>„In Regensburg herrscht eine Wahnsinns-Stimmung!“</strong></p>
+<p>Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<i>(Franzi Reng) - Manuel, Du bist gerade noch auf Teneriffa. Geht es von dort aus direkt nach Regensburg, oder vorher nochmal kurz in die Heimat?</i><br /><br />
+(Manuel Leitner) - Es geht noch mal kurz in die Heimat. Dort absolviere ich noch zwei Trainingseinheiten mit meinem  Trainer Wolfgang Adler, danach geht die Reise dann nach Regensburg<br /><br /><br />
+<i>Hast Du auf der Insel ununterbrochen trainiert, oder kommt man da nicht in Versuchung, auch ein bisschen die Seele baumeln zu lassen?</i> <a href="news/06-05_spezial_leitner.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
 
 <h2>Gala-Spezial mit Robin Erewa (100m, 200m)</h2>
 <p><strong>„100 Meter bleiben 100 Meter“</strong></p>
