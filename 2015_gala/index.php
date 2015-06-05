@@ -2,6 +2,38 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+
+<h2>Gala-Spezial mit Robin Erewa (100m, 200m)</h2>
+<p><strong>„100 Meter bleiben 100 Meter“</strong></p>
+<p>Regensburg, 05. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<i>(Franzi Reng) - Robin, vor zwei Jahren bist Du in Regensburg über 200 Meter an den Start gegangen,  heuer sollen es die 100 Meter sein – was ist der Unterschied zwischen den beiden Distanzen für Dich? Welche Strecke ist Dir lieber?</i><br /><br />
+
+(Robin Erewa) - Ich laufe dieses Jahr sogar beides. 100 Meter liegen mir leider nicht so, allerdings kann man 200 auch  nur gut rennen, wenn die 100 schnell sind. Deshalb arbeiten wir daran, auch immer wieder diese Strecke bei mir zu verbessern.<br /><br /><br />
+
+<i>Selbst wenn man noch ein bisschen tiefer in den Archiven der Sparkassen-Gala sucht, taucht bereits  im  Jahr 2010 Dein Name in den Ergebnislisten auf. Könnte man sagen Du bist mit dem Meeting groß geworden?</i> <a href="news/06-05_spezial_erewa.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
+
+<h2>Gala-Spezial mit Erik Balnuweit (110m Hürden)</h2>
+<p><strong>„Vielleicht klappt es ja mit der WM-Norm“</strong></p>
+<p>Regensburg, 05. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<i>(Franzi Reng) Erik, letzte Woche bist Du schon beim Kurpfalz-Meeting in Weinheim gestartet. Für Dich 
+
+ein zufriedenstellender Saisonauftakt?</i><br /><br />
+
+(Erik Balnuweit) - Mit meinem Saisoneinstieg bin ich nicht so zufrieden. Derzeit läuft es noch nicht ganz rund. Die 
+
+Vorbereitung verlief nicht so wie gewünscht, aber wir versuchen im Team weiter an gewissen Details 
+
+zu feilen, damit es in den nächsten Rennen und auch in Regensburg wieder schneller wird. Das Ziel ist 
+
+in Regensburg, die Saisonbestleistung weiter zu steigern und Rennerfahrung zu sammeln.<br /><br /><br />
+
+<i>Eine persönliche Bestzeit von 13,44s und eine WM-Norm bei 13,45s – Das klingt doch nach einer 
+
+machbaren Aufgabe, oder? Denkst Du, dass Du am nächsten Wochenende schon die Qualifikation 
+
+abhaken kannst?</i> <a href="news/06-05_spezial_balnuweit.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
 <h2>Topsportler am Start</h2>
 <p><strong>Fast 1000 Athleten aus 30 Nationen</strong></p>
 <p>Regensburg, 05. Juni 2015 (MZ/Wotruba) - Die Idee einer großen Leichtathletik-Veranstaltung hat Tradition in Regensburg. 2006 wuchs die Gala zu einem Meeting von nationalem, ja internationalem Rang. Zum achten Mal geht die Veranstaltung 2015 als Sparkassen-Gala über die Bühne – und wird immer internationaler. Wie bei der Premiere 2006 wird übrigens auch in diesem Jahr die deutsche Nationalmannschaft für die Team-Europameisterschaft am 20./21. Juni im russischen Tscheboksary nominiert. <a href="http://www.mittelbayerische.de/sport/regional/regensburg-nachrichten/sparkassen-gala-topsportler-am-start-21524-art1240446.html" target="_blank">&raquo; Hier</a> geht's weiter bei der MZ ...</p><br />

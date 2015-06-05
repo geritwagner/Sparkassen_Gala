@@ -1,15 +1,15 @@
-<?php $title = "Gala-Spezial mit Erik Balnuweit (110m Hürden)";
+﻿<?php $title = "Gala-Spezial mit Erik Balnuweit (110m Hürden)";
  $menu['current'] = "news"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
 
 <h2>Gala-Spezial mit Erik Balnuweit (110m Hürden)</h2>
 <p><strong>„Vielleicht klappt es ja mit der WM-Norm“</strong></p>
-<p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="../images/inhalt/Orth_Florian_BLV-Langstaffel_2015_Kiefner-Foto.jpg" alt="Florian Orth (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<p>Regensburg, 05. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
 <i>(Franzi Reng) Erik, letzte Woche bist Du schon beim Kurpfalz-Meeting in Weinheim gestartet. Für Dich 
 
 ein zufriedenstellender Saisonauftakt?</i><br /><br />
 
-Mit meinem Saisoneinstieg bin ich nicht so zufrieden. Derzeit läuft es noch nicht ganz rund. Die 
+(Erik Balnuweit) - Mit meinem Saisoneinstieg bin ich nicht so zufrieden. Derzeit läuft es noch nicht ganz rund. Die 
 
 Vorbereitung verlief nicht so wie gewünscht, aber wir versuchen im Team weiter an gewissen Details 
 
