@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
-<title>Livestream - Sparkassen Gala 2014</title>
+<title>Livestream - Sparkassen Gala 2015</title>
 <style type="text/css">
 body { font: 9pt Arial, Helvetica, sans-serif; margin:10px; }
 
@@ -19,10 +19,10 @@ h1 { font-size: 1.7em; color: #E2001A; padding:0; margin: 0; }
 <div id="container">
 
 <center><a href="http://www.sparkassen-gala.de/" target="_blank">
-<h1>Sparkassen Gala 2014</h1>
+<h1>Sparkassen Gala 2015</h1>
 </a></center>
 <br />
-
+<iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/6a7bf2f5-0061-11e5-9476-002590c750be" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <!--   <div align="center">
     <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codeBase='http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab' width='500' height='400'>
       <PARAM NAME='FlashVars' VALUE='token=FFD9426E98A9DFB2C0117B7B3F1862F1'/>
@@ -34,14 +34,12 @@ h1 { font-size: 1.7em; color: #E2001A; padding:0; margin: 0; }
       <embed src='//player.stream5.tv/seltec/player/s5player.swf' width='500' height='400' type='application/x-shockwave-flash' base='http://player.stream5.tv/seltec/player/' allowScriptAccess='always' allowFullscreen='true' flashVars='token=FFD9426E98A9DFB2C0117B7B3F1862F1'>
       </embed>
     </OBJECT>
-
+</div>
 -->
 <!-- IFRAME von 2013 <iframe src="http://new.livestream.com/accounts/1824977/events/2162113/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe> -->
 
-<iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/4a4db368-b84e-11e3-a647-002590c750be" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
     <br />
-</div>
+
 <div id="footnote">Ein Angebot der <a href="http://www.lg-telis-finanz.de/" target="_blank">LG TELIS FINANZ Regensburg</a>, produziert von <a href="http://www.seltec.at/" target="_blank">Seltec</a>,
 unterst&uuml;tzt durch die <a href="http://www.telis-finanz.de/" target="_blank">TELIS FINANZ AG</a>,
 weitere Infos unter <a href="http://www.sparkassen-gala.de/" target="_blank">www.sparkassen-gala.de</a> - Feedback bitte an <script language="JavaScript">

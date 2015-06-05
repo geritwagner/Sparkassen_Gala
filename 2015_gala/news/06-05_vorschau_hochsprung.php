@@ -2,8 +2,6 @@
  $menu['current'] = "news"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
 
-<!-- <img class="float_left" title="Hochsprung (Foto:Kiefner)" src="../images/inhalt/Hoch-Frauen_Gala13_int.jpg" alt="Thea Heim (Foto:Kiefner)" height="180" /> -->
-
 <h2>Wie der Vater so die Tochter</h2>
 <p><strong>Fliegt Katarina Mögenburg erstmals über die 1,90m</strong></p>
 <p>Regensburg, 05. Juni 2015 (orv) – Außer Deutschlands Überfliegerin

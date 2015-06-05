@@ -4,7 +4,7 @@
 
 <h2>Die blaue Stunde gibt es auch bei der Sparkassen Gala</h2>
 <p><strong>Bei den Männern geht Florian Orth auf 1500m WM-Normenjagd</strong></p>
-<p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="../images/inhalt/1500m-Maenner_Orth_Florian_kiefnerfoto.jpg" alt="Florian Orth (Foto:Kiefner)" height="180" />Regensburg, 02. Juni 2015 (orv) – Bei Deutschen Meisterschaften ist jene Stunde, in der die
+<p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="../images/inhalt/1500m-Maenner_Orth_Florian_kiefnerfoto.jpg" alt="Florian Orth (Foto:Kiefner)" height="180" />Regensburg, 01. Juni 2015 (orv) – Bei Deutschen Meisterschaften ist jene Stunde, in der die
 
 Regensburger Telis-Asse ihre Titel hamstern, meist am Sonntagnachmittag. Bei der 
 
