@@ -4,7 +4,7 @@
 
 <h2>Ein Bayer ist Favorit über die 3000m Hindernis</h2>
 <p><strong>Konkurrenz kommt aber auch aus Österreich</strong></p>
-<p><img class="float_left" title="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" src="../images/inhalt/3000m-Hindernis-Maenner_Kellner_Karl_Kiefnerfoto.jpg" alt="Corinna Harrer (Foto:Kiefner)" height="180" />Regensburg, 04. Juni 2015 (orv) – Patrick Karl (TV Ochsenfurt) gehört noch der U20 an und 
+<p><img class="float_left" title="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" src="../images/inhalt/3000m-Hindernis-Maenner_Kellner_Karl_Kiefnerfoto.jpg" alt="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (orv) – Patrick Karl (TV Ochsenfurt) gehört noch der U20 an und 
 
 über die „Böcke“ doch schon international erfahren. Seine Bestzeit von 8:47,20min ist nicht von 
 

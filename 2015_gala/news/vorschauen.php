@@ -1,6 +1,79 @@
 ﻿<?php $title = "Vorschauen";
  $menu['current'] = "news"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
+
+<h2>Wie der Vater so die Tochter</h2>
+<p><strong>Fliegt Katarina Mögenburg erstmals über die 1,90m</strong></p>
+<p>Regensburg, 05. Juni 2015 (orv) – Außer Deutschlands Überfliegerin
+Marie-Laurence Jungfleisch ist bei der Sparkassen Gala im Hochsprung der
+Frauen so ziemlich alles am Start, was in deutschen Landen in dieser
+Disziplin bei den Frauen Rang und Namen hat. Eine der großen Fragen wird
+sein: Überspringt Katarina Mögenburg aus Norwegen, für den TSV 04 Bayer
+Leverkusen startberechtigt, erstmals über die 1,90m. Sie trägt einen
+berühmten Namen und in der Tat ist sie die Tochter von Olympiasieger Dietmar
+Mögenburg. Die gleiche Vorleistung mit 1,88m weist Alexandra Plaza von der
+LT DSHS Köln auf. Dahinter reihen sich im Zentimeterabstand Mona
+Gottschämmer (1,84m), Laura Voss (1,83m) sowie Jossie-Marie Graumann und
+Sophie Frank (beide 1,82m) ein. Internationaler Farbtupfer, sieht man einmal
+von Katarina Mögenburg ab, ist die Tschechin Michaela Galuszkova mit einer
+persönlichen Bestleistung von 1,81m. Im letzten Jahr gewann Sophie Gollner
+aus Österreich mit 1,82m. <a href="06-05_vorschau_hochsprung.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
+<h2>Gala-Spezial mit Silvio Schirrmeister (400m Hürden):</h2>
+<p><strong>„Man kommt wieder in den Race-Modus“</strong></p>
+<p>Regensburg, 5. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br>
+(Franzi Reng) - <i>Im letzten Jahr hast Du schon über eine Zeit unter der 50-Sekunden-Marke jubeln können. Ist das heuer auch drin?</i><br /><br>
+
+(Silvio Schirrmeister) - Mein Anspruch ist es auf jeden Fall eine 49 vor das Komma zu laufen. Vor allem möchte ich aber meine eigene Saisonbestleistung verbessern!<br /><br />
+
+<i>Oder ist am Ende vielleicht noch mehr drin? Wie fühlst Du Dich in den letzten Trainingseinheiten vor dem Meeting in Regensburg?</i><br />
+
+(Silvio Schirrmeister) - Nach den vorangegangen Trainingseinheiten und dem Trainingslager in der USA bin ich einfach froh, dass es endlich  mit den Wettkämpfen losgeht -  man kommt wieder in den "Race Modus"!  <a href="06-05_spezial_schirrmeister.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
+<h2>Gala-Spezial mit Thomas Schneider (400m)</h2>
+<p><strong>„Für mich war Regensburg immer eine Reise wert“</strong></p>
+<p>Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<i>(Franzi Reng) - Wenn man mal ein bisschen länger zurückschaut, findet man Dich schon in den 
+
+Ergebnislisten der Gala aus dem Jahr 2010. Hast Du noch Erinnerungen an damals?</i><br /><br />
+
+(Thomas Schneider) - Für ein paar Erinnerungen musste ich mir ehrlich gesagt nochmal kurz das Video anschauen, um mein 
+
+Gedächtnis aufzufrischen. In meiner Erinnerungen sind eher Ergebnisse als genaue Jahreszahlen 
+
+vorhanden. (lacht) Es war allerdings ein ziemlich gutes Rennen – für mich war Regensburg eigentlich 
+
+immer eine Reise wert und ich freue mich jedes Jahr auf die Gala.<br /><br /><br />
+
+<i>Denkst Du, dass sich das Meeting seitdem in irgendeiner Weise verändert hat, oder kann man sich da 
+
+auf Altbekanntes verlassen?</i>  <a href="06-04_spezial_schneider.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
+<h2>Ein Bayer ist Favorit über die 3000m Hindernis</h2>
+<p><strong>Konkurrenz kommt aber auch aus Österreich</strong></p>
+<p><img class="float_left" title="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" src="../images/inhalt/3000m-Hindernis-Maenner_Kellner_Karl_Kiefnerfoto.jpg" alt="Corinna Harrer (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (orv) – Patrick Karl (TV Ochsenfurt) gehört noch der U20 an und 
+
+über die „Böcke“ doch schon international erfahren. Seine Bestzeit von 8:47,20min ist nicht von 
+
+schlechten Eltern. Die will er nun in der Laufnacht verbessern. Stärkster Konkurrent wird der 
+
+Österreichische Meister Christoph Sander aus Wien sein, der ebenfalls schon 8:47,92min 
+
+gelaufen ist und sich unbedingt für die TM-EM empfehlen will. Felix Hentschel aus Bamberg 
+
+und Maik Wollherr aus Osnabrück sind auch schon unter neun Minuten gelaufen. Eine ganze 
+
+Reihe von jungen Nachwuchsläufern hofft, in Regensburg diese Barriere überwinden zu 
+
+können. Im Rennen selbst wird wie jedes Jahr auch der Bayerische Meister ermittelt. Als 
+
+Lokalmatador startet U23-Athlet Sebastian Viehbeck (LG Telis Finanz), während Teamkollege 
+
+Valentin Unterholzner die 5000m vorzieht. Bei den Frauen werden Ronja Böhrer (SSC Bad 
+
+Sooden Allendorf) und die Jugendliche Tina Donder (Erfurter LAC) um den Sieg kämpfen.</p>
+<br />
+
 <h2>Gala-Spezial mit Florian Orth (1500m)</h2>
 <p><strong>„Schnelle Temporennen oder Taktik mit Spurt – das macht Spaß“</strong></p>
 <p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="../images/inhalt/Orth_Florian_BLV-Langstaffel_2015_Kiefner-Foto.jpg" alt="Florian Orth (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
