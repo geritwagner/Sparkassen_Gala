@@ -2,6 +2,23 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+<h2>Erste Impressionen von Theo Kiefner sind online</h2>
+<p>	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+		  <img src="../photos/kiefner/800m1_FotoKiefner.jpg" width="300px"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Hindernis_FotoKiefner.jpg"  width="300px"/>
+
+          </div>
+    </div>
+</p>
+<p><a href="news/impressionen-kiefner.php">Hier</a> geht's weiter ...</p>
+
+
 <h2>Gala-Spezial mit Manuel Leitner (Weitsprung)</h2>
 <p><strong>„In Regensburg herrscht eine Wahnsinns-Stimmung!“</strong></p>
 <p>Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
