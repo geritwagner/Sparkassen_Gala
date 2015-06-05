@@ -2,6 +2,11 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+<h2>Lukas Abele läuft in 3:48.06 min Junioren-EM Norm</h2>
+<p><strong>Sören Ludolf startet mit lockeren 1:50.44 min in die Saison</strong></p>
+<p><img class="float_left" title="Plinke, Abele, Franz (Foto: Kiefner)" src="photos/kiefner/Plinke_Abele_FotoKiefner.jpg" alt="Plinke, Abele, Franz (Foto: Kiefner)" width="350" />Regensburg, 05. Juni 2015 (gw) - Mit der Junioren-EM Norm von Lukas Abele gibt es eine erste Top-Leistung bei der diesjährigen Laufnacht. Nach er über 1.100 Meter eine präzise Pace vorgelegt hatte, schickte der Regensburger Philipp Pflieger die 1.500m-Läufer auf die letzte Runde: für Lukas Abele ging es um die J-EM Norm, für Felix Plinke und Bastian Franz um die Qualifikation für die Deutschen Meisterschaften in Nürnberg. Letztendlich hatte Felix Plinke (LG Telis Finanz Regensburg, 3:47.97 min) die Nase vorn und zog Lukas Abele (SSC Hanau-Rodenbach, 3:48.06 min) zur Norm für Eskilstuna. Als dritter des Zeitlaufs qualifizierte sich Bastian Franz (VfL Sindelfingen, 3:48.28 min) für die Deutschen Meisterschaften. Über 800m gab Sören Ludolph in 1:50.44 min seinen Saisoneinstand.</p>
+
+
 <h2>Erste Impressionen von Theo Kiefner sind online</h2>
 <p>	<div class="subcolumns">
       <div class="c50l">
