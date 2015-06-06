@@ -1,11 +1,19 @@
 ﻿<?php $title = "Aktuelles";
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
+<h2>Nico Sonnenberg im Alleingang zur Bestzeit</h2>
+<p><strong>Nico Sonnenberg verdiente sich am Freitagabend bei der Laufnacht in Regensburg mit einem couragierten Auftritt ein Sonderlob.</strong></p>
+<p><img class="float_left" title="Nico Sonnenberg (Foto: Kiefner)" src="photos/kiefner/Sonnenberg_Nico-kiefner.jpg" alt="Nico Sonnenberg (Foto: Kiefner)" width="230" />Regensburg, 05. Juni 2015 (leichtathletik.de) - Der Frankfurter nahm trotz der hochsommerlichen Temperaturen auf den 3.000 Meter Hindernis das Heft in die Hand und eilte forsch vorne weg. Die klare Führung verteidigte der 23-Jährige auch bis zum Schluss. Im Alleingang verbesserte er bei diesem couragierten Auftritt seine Bestzeit auf 8:44,33 Minuten.
+
+Sein Ziel, die Norm für die Universiade, verpasste er trotzdem um rund zehn Sekunden: „Am Ende haben ein starker Gegner und auch die Kraft gefehlt. Ich weiß, ich kann läuferisch mehr. Ich brauche möglichst viele Rennen.“
+
+Als Zweiter des Laufs unterbot der Ochsenfurter Patrick Karl mit einer Zeit von 8:52,18 Minuten die U20-EM-Norm von 9:02,00 Minuten deutlich. „Das Ergebnis war sehr gut, das Rennen aber gar nichts“, sagte Deutsche U20-Vize-Meister selbstkritisch. Er kämpfte nicht nur mit einer Allergie, sondern hatte auch  Rhythmusprobleme: „Ich musste vor jedem Hindernis trippeln.“ Entsprechend Potenzial sieht er noch für die nächsten Wochen: „Spätestens bei der U20-EM wird die Bestzeit fallen.“<a href="http://www.leichtathletik.de/news/news/detail/nico-sonnenberg-im-alleingang-zur-bestzeit/" target="_blank">&raquo; Hier</a> geht's weiter ...</p>
+<br />
 
 <h2>Lukas Abele läuft in 3:48.06 min Junioren-EM Norm</h2>
 <p><strong>Sören Ludolf startet mit lockeren 1:50.44 min in die Saison</strong></p>
-<p><img class="float_left" title="Plinke, Abele, Franz (Foto: Kiefner)" src="photos/kiefner/Plinke_Abele_FotoKiefner.jpg" alt="Plinke, Abele, Franz (Foto: Kiefner)" width="350" />Regensburg, 05. Juni 2015 (gw) - Mit der Junioren-EM Norm von Lukas Abele gibt es eine erste Top-Leistung bei der diesjährigen Laufnacht. Nach er über 1.100 Meter eine präzise Pace vorgelegt hatte, schickte der Regensburger Philipp Pflieger die 1.500m-Läufer auf die letzte Runde: für Lukas Abele ging es um die J-EM Norm, für Felix Plinke und Bastian Franz um die Qualifikation für die Deutschen Meisterschaften in Nürnberg. Letztendlich hatte Felix Plinke (LG Telis Finanz Regensburg, 3:47.97 min) die Nase vorn und zog Lukas Abele (SSC Hanau-Rodenbach, 3:48.06 min) zur Norm für Eskilstuna. Als dritter des Zeitlaufs qualifizierte sich Bastian Franz (VfL Sindelfingen, 3:48.28 min) für die Deutschen Meisterschaften. Über 800m gab Sören Ludolph in 1:50.44 min seinen Saisoneinstand.</p>
-
+<p><img class="float_left" title="Plinke, Abele, Franz (Foto: Kiefner)" src="photos/kiefner/Plinke_Abele_FotoKiefner.jpg" alt="Plinke, Abele, Franz (Foto: Kiefner)" width="230" />Regensburg, 05. Juni 2015 (gw) - Mit der Junioren-EM Norm von Lukas Abele gibt es eine erste Top-Leistung bei der diesjährigen Laufnacht. Nach er über 1.100 Meter eine präzise Pace vorgelegt hatte, schickte der Regensburger Philipp Pflieger die 1.500m-Läufer auf die letzte Runde: für Lukas Abele ging es um die J-EM Norm, für Felix Plinke und Bastian Franz um die Qualifikation für die Deutschen Meisterschaften in Nürnberg. Letztendlich hatte Felix Plinke (LG Telis Finanz Regensburg, 3:47.97 min) die Nase vorn und zog Lukas Abele (SSC Hanau-Rodenbach, 3:48.06 min) zur Norm für Eskilstuna. Als dritter des Zeitlaufs qualifizierte sich Bastian Franz (VfL Sindelfingen, 3:48.28 min) für die Deutschen Meisterschaften. Über 800m gab Sören Ludolph in 1:50.44 min seinen Saisoneinstand.</p>
+<br />
 
 <h2>Erste Impressionen von Theo Kiefner sind online</h2>
 <p>	<div class="subcolumns">

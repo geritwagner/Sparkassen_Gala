@@ -3,9 +3,10 @@
 <?php require("_header.inc.php"); ?>
 
 <h2>Live Stream</h2><br/>
-Auch für die Sparkassen Gala 2015 gibt es wieder einen Live Stream. Zusätzlich zum Hauptprogramm der Gala ist dieser in diesem Jahr zusätzlich auch noch in der Laufnacht verfügbar.
+Der Live Stream startet heute wieder pünktlich kurz nach 16 Uhr zum Hauptprogramm der Sparkassen Gala.
+<!--<Auch für die Sparkassen Gala 2015 gibt es wieder einen Live Stream. Zusätzlich zum Hauptprogramm der Gala ist dieser in diesem Jahr zusätzlich auch noch in der Laufnacht verfügbar.
 <br><br /><a href="livestream-popup.php" target="_blank">&raquo;Live-Stream ist online</a>
-<!--<br>
+br>
 <br />
 
 <h2>Highlights der Sparkassen Gala 2014</h2><br/>

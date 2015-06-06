@@ -8,15 +8,68 @@
 <!-- Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impressionen vom Sportfotographen Theo Kiefner.<br /> -->
 <br />
 
+	
 	<div class="subcolumns">
       <div class="c50l">
         <div class="subcl center">
-		  <img src="../photos/kiefner/800m1_FotoKiefner.jpg" width="300px"/></div>
+		  <img src="../photos/kiefner/Pflieger_Philipp-kiefner.jpg"/></div>
       </div>
 
       <div class="c50r">
         <div class="subcr center">
-    	  <img src="../photos/kiefner/Hindernis_FotoKiefner.jpg"  width="300px"/>
+    	  <img src="../photos/kiefner/Reng_Franziska-kiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+	 <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Engelbrecht_Tim-kiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Karl_Hentschel-kiefner.jpg"/></div>
+    </div>
+	<br />
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+		  <img src="../photos/kiefner/Sonnenberg_Nico-kiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Kock_Orth-kiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+	
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+		  <img src="../photos/kiefner/800m1_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Plinke_Abele_FotoKiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/RingChayriguet_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Hindernis_FotoKiefner.jpg"/>
 
           </div>
     </div>
@@ -24,21 +77,15 @@
      <div class="subcolumns">
       <div class="c50l">
         <div class="subcl center">
-          <img src="../photos/kiefner/800m2_FotoKiefner.jpg"  width="300px"/></div>
+          <img src="../photos/kiefner/800m2_FotoKiefner.jpg"/></div>
       </div>
 
       <div class="c50r">
         <div class="subcr center">
-    	  <img src="../photos/kiefner/800mLudolf_FotoKiefner.jpg"  width="300px"/>
+    	  <img src="../photos/kiefner/800mLudolf_FotoKiefner.jpg"/>
 
           </div>
     </div>
 	<br />
-
-	<div class="subcolumns">
-      <div class="center">
-        <div class="center">
-          <img src="../photos/kiefner/RingChayriguet_FotoKiefner.jpg"  width="400px"/></div>
-      </div>
 
 <?php require("../_footer.dir1.inc.php"); ?>

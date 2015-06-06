@@ -9,7 +9,7 @@
 <ul>
   <li><a href="vorschauen.php">Vorschauen</a></li>
   <li><a href="berichte.php">Berichte</a></li>
-  <li><a href="#">Impressionen</a></li>
+  <li><a href="impressionen-kiefner.php">Impressionen</a></li>
   <li><a href="#">Video-Highlights</a></li>
   </ul>
 <?php require("../_footer.dir1.inc.php"); ?>
