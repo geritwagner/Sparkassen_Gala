@@ -8,7 +8,46 @@
 <!-- Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impressionen vom Sportfotographen Theo Kiefner.<br /> -->
 <br />
 
-	
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Bewirtung1_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Bewirtung2_FotoKiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Bewirtung3_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Eingang2_FotoKiefner.jpg"/>
+
+          </div>
+    </div>
+
+	<br />
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Eingang1_FotoKiefner.jpg"/></div>
+      </div>
+	</div>
+
+	<br />
+	<p></p>
+	<h2>Tag 1: Laufnacht</h2>
+	<p></p>
+	<br />
+
 	<div class="subcolumns">
       <div class="c50l">
         <div class="subcl center">
