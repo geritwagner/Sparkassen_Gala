@@ -1,6 +1,25 @@
 ﻿<?php $title = "Aktuelles";
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
+<h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
+<p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>
+<p>Regensburg, 06. Juni 2015 (Franzi Reng) - Nun das letzte Interview mit Startern der diesjährigen Gala.<br />
+<i>(Franzi Reng) - Jenni, im Jahr 2012 warst Du zum letzten Mal in Regensburg. Warum seitdem nicht 
+
+mehr?</i><br /><br />
+
+(Jennifer Wenth) - 2013 bin ich verletzungsbedingt ausgefallen und letztes Jahr war ich zwar nicht bei der Gala am Start, 
+
+aber dafür bin ich bei den Bayerischen Meisterschaften außer Konkurrenz mitgelaufen: Ich habe 
+
+damals mit Maren das 5000m-Limit für die EM geknackt.<br /><br /><br />
+
+<i>Apropos Maren Kock: Das 1500m-Rennen bei der Gala wird ja gerade im Hinblick auf sie und ihre 
+
+Regensburger Teamkollegin Corinna Harrer mit Hochspannung erwartet. Du kennst beide nicht nur 
+
+aus Wettkampf und Training, sondern auch privat. Was unterscheidet die beiden?</i> <a href="news/06-05_spezial_wenth.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
 <h2>Nico Sonnenberg im Alleingang zur Bestzeit</h2>
 <p><strong>Nico Sonnenberg verdiente sich am Freitagabend bei der Laufnacht in Regensburg mit einem couragierten Auftritt ein Sonderlob.</strong></p>
 <p><img class="float_left" title="Nico Sonnenberg (Foto: Kiefner)" src="photos/kiefner/Sonnenberg_Nico-kiefner.jpg" alt="Nico Sonnenberg (Foto: Kiefner)" width="230" />Regensburg, 05. Juni 2015 (leichtathletik.de) - Der Frankfurter nahm trotz der hochsommerlichen Temperaturen auf den 3.000 Meter Hindernis das Heft in die Hand und eilte forsch vorne weg. Die klare Führung verteidigte der 23-Jährige auch bis zum Schluss. Im Alleingang verbesserte er bei diesem couragierten Auftritt seine Bestzeit auf 8:44,33 Minuten.

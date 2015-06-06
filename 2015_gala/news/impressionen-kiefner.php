@@ -7,6 +7,42 @@
 <!-- Eine große Foto-Galerie veröffentlichen wir hier in den nächsten Tagen.<br/><br/> -->
 <!-- Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impressionen vom Sportfotographen Theo Kiefner.<br /> -->
 <br />
+	<h2>Tag 2: Vorprogramm der Sparkassen-Gala</h2>
+	<p></p>
+	<br />
+
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Fenn_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Langhuerden_FotoKiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Hoch_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Hoch2_FotoKiefner.jpg"/>
+
+          </div>
+    </div>
+	<br />
+     <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Spank_FotoKiefner.jpg"/></div>
+      </div>
+	<br />
 
      <div class="subcolumns">
       <div class="c50l">

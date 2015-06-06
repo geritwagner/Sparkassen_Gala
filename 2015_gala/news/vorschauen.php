@@ -2,6 +2,25 @@
  $menu['current'] = "news"; ?>
 <?php require("../_header.dir1.inc.php"); ?>
 
+<h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
+<p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>
+<p>Regensburg, 06. Juni 2015 (Franzi Reng) - Nun das letzte Interview mit Startern der diesjährigen Gala.<br />
+<i>(Franzi Reng) - Jenni, im Jahr 2012 warst Du zum letzten Mal in Regensburg. Warum seitdem nicht 
+
+mehr?</i><br /><br />
+
+(Jennifer Wenth) - 2013 bin ich verletzungsbedingt ausgefallen und letztes Jahr war ich zwar nicht bei der Gala am Start, 
+
+aber dafür bin ich bei den Bayerischen Meisterschaften außer Konkurrenz mitgelaufen: Ich habe 
+
+damals mit Maren das 5000m-Limit für die EM geknackt.<br /><br /><br />
+
+<i>Apropos Maren Kock: Das 1500m-Rennen bei der Gala wird ja gerade im Hinblick auf sie und ihre 
+
+Regensburger Teamkollegin Corinna Harrer mit Hochspannung erwartet. Du kennst beide nicht nur 
+
+aus Wettkampf und Training, sondern auch privat. Was unterscheidet die beiden?</i> <a href="06-05_spezial_wenth.php">&raquo; Hier</a> geht's weiter ...</p><br />
+
 <h2>Gala-Spezial mit Manuel Leitner (Weitsprung)</h2>
 <p><strong>„In Regensburg herrscht eine Wahnsinns-Stimmung!“</strong></p>
 <p>Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />

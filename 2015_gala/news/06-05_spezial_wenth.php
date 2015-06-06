@@ -4,7 +4,7 @@
 
 <h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
 <p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>
-<p>Regensburg, 05. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
+<p>Regensburg, 06. Juni 2015 (Franzi Reng) - Nun das letzte Interview mit Startern der diesjährigen Gala.<br />
 <i>(Franzi Reng) - Jenni, im Jahr 2012 warst Du zum letzten Mal in Regensburg. Warum seitdem nicht 
 
 mehr?</i><br /><br />
