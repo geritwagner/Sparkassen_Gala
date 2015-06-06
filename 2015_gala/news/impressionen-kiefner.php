@@ -14,6 +14,84 @@
     <div class="subcolumns">
       <div class="c50l">
         <div class="subcl center">
+          <img src="../photos/kiefner/HarrerKock3_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/HarrerKock2_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/800m_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/HarrerKock1_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Langhuerden_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Staffel3_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Klopsch_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Spelmeyer_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Staffel2_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Staffel1_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Gaba_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Hoch_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
           <img src="../photos/kiefner/Butzeck_KiefnerFoto.jpg"/></div>
       </div>
 

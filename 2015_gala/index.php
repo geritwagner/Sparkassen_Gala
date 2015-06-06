@@ -2,8 +2,10 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
-<h2>Tatjana Pinto erfüllt WM-Norm</h2>
-<p>Regensburg, 06. Juni 2015 (leichtathletik.de) - Ein weiteres Zeichen mit Blick auf die WM im August in Peking (China) kam im Frauenfinale von der Deutschen Meisterin Tatjana Pinto. Die Münsteranerin biss sich in 11,23 Sekunden gegen Rebekka Haase (LV 90 Erzgebirge; 11,26 sec) und Alexandra Burghardt (MTG Mannheim; 11,34 sec) durch, die beide mit neuen Bestzeiten aufwarteten. Damit war die WM-Norm von 11,25 Sekunden abgehakt. „Die WM-Norm fühlt sich super an. Ich war nicht so gut reingekommen. Ich war auch nicht hierher gekommen, um die Norm zu laufen und hätte nicht gedacht, dass es die WM-Norm wird. Ich bin jetzt umso erleichterter“, sagte Tatjana Pinto. Hochkarätig war das U20-Rennen der weiblichen Jugend. Angeführt von der Paderbornerin Chantal Butzek (11,62 sec) blieben alle fünf Erstplatzierten unter der Norm für die U20-EM. <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+<h2>Regensburger Doppelsieg über 1.500m</h2>
+<p><strong>Maren Kock mit neuer Bestzeit: 4:09,45 min</strong></p>
+<p><img class="float_left" title="Maren Kock und Corinna Harrer (Foto: Kiefner)" src="photos/kiefner/HarrerKock3_Kiefnerfoto.jpg" alt="Maren Kock und Corinna Harrer (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Einen Regensburger Doppelsieg durch Maren Kock (4:09,45 min) und Corinna Harrer (4:10,04 min) gab es auf den 1.500 Metern zu bejubeln. Maren Kock überzeugte auf dem Weg zu ihrer ersten Zeit unter 4:10 Minuten mit den größeren Reserven auf den letzten 100 Metern. „Es ist gut, dass wir uns gegenseitig pushen können“, sagte Maren Kock. Corinna Harrer meinte zu ihrem zweiten Platz: „Ich bin schon zufrieden. Aber ich merke, dass ich noch etwas Arbeit zu tun habe.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier </a> geht's weiter ... </p> <br><br>
+
 
 <h2>Sven Knipphals stürmt zu 10,13 Sekunden</h2>
 <p><strong>Eike Onnen hinterlässt guten Eindruck</strong></p>
