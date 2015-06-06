@@ -2,6 +2,13 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
+<h2>Tatjana Pinto erfüllt WM-Norm</h2>
+<p>Regensburg, 06. Juni 2015 (leichtathletik.de) - Ein weiteres Zeichen mit Blick auf die WM im August in Peking (China) kam im Frauenfinale von der Deutschen Meisterin Tatjana Pinto. Die Münsteranerin biss sich in 11,23 Sekunden gegen Rebekka Haase (LV 90 Erzgebirge; 11,26 sec) und Alexandra Burghardt (MTG Mannheim; 11,34 sec) durch, die beide mit neuen Bestzeiten aufwarteten. Damit war die WM-Norm von 11,25 Sekunden abgehakt. „Die WM-Norm fühlt sich super an. Ich war nicht so gut reingekommen. Ich war auch nicht hierher gekommen, um die Norm zu laufen und hätte nicht gedacht, dass es die WM-Norm wird. Ich bin jetzt umso erleichterter“, sagte Tatjana Pinto. Hochkarätig war das U20-Rennen der weiblichen Jugend. Angeführt von der Paderbornerin Chantal Butzek (11,62 sec) blieben alle fünf Erstplatzierten unter der Norm für die U20-EM. <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+
+<h2>Sven Knipphals stürmt zu 10,13 Sekunden</h2>
+<p><strong>Eike Onnen hinterlässt guten Eindruck</strong></p>
+<p><img class="float_left" title="Sven Knipphals (Foto: Kiefner)" src="photos/kiefner/Knipphals_KiefnerFotos.jpg" alt="Sven Knipphals (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Der Wolfsburger Sprinter nutzte die Vorläufe über 100 Meter zu einer Steigerung seiner persönlichen Bestzeit um sechs Hundertstel auf 10,13 Sekunden. Dabei war der Rückenwind mit 1,9 Metern pro Sekunde ideal. Routinier Eike Onnen bestimmte den Hochsprung. Alle Höhen einschließlich der 2,24 Meter nahm er im ersten Versuch. Erst bei der WM-Norm von 2,30 Metern war dann Schluss für den Hannoveraner. „Es war von der Qualität her ein hochwertiger Wettkampf bei einem super Wetter“, sagte Eike Onnen, „es ärgert mich ein bisschen, dass ich an der WM-Norm gescheitert bin. Ich will mich erst einmal wieder herantasten. Das Niveau ist wieder höher. Es macht wieder mehr Spaß. Der Kopf ist freier.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+
 <h2>... die Impressionen der Laufnacht von Kristian Volke sind online</h2>
 <p>	<div class="subcolumns">
       <div class="center">
@@ -11,9 +18,6 @@
 </p>
 <p><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">Hier</a> geht's weiter ...</p>
 
-<h2>Sven Knipphals stürmt zu 10,13 Sekunden</h2>
-<p><strong>Eike Onnen hinterlässt guten Eindruck</strong></p>
-<p><img class="float_left" title="Sven Knipphals (Foto: Kiefner)" src="photos/kiefner/Knipphals_KiefnerFotos.jpg" alt="Sven Knipphals (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Der Wolfsburger Sprinter nutzte die Vorläufe über 100 Meter zu einer Steigerung seiner persönlichen Bestzeit um sechs Hundertstel auf 10,13 Sekunden. Dabei war der Rückenwind mit 1,9 Metern pro Sekunde ideal. Routinier Eike Onnen bestimmte den Hochsprung. Alle Höhen einschließlich der 2,24 Meter nahm er im ersten Versuch. Erst bei der WM-Norm von 2,30 Metern war dann Schluss für den Hannoveraner. „Es war von der Qualität her ein hochwertiger Wettkampf bei einem super Wetter“, sagte Eike Onnen, „es ärgert mich ein bisschen, dass ich an der WM-Norm gescheitert bin. Ich will mich erst einmal wieder herantasten. Das Niveau ist wieder höher. Es macht wieder mehr Spaß. Der Kopf ist freier.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
 
 <h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
 <p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>

@@ -7,8 +7,48 @@
 <!-- Eine große Foto-Galerie veröffentlichen wir hier in den nächsten Tagen.<br/><br/> -->
 <!-- Hier finden Sie im Laufe der Veranstaltung regelmäßig aktualisierte Impressionen vom Sportfotographen Theo Kiefner.<br /> -->
 <br />
-	<h2>Tag 2: Vorprogramm der Sparkassen-Gala</h2>
+	<h2>Tag 2: Sparkassen-Gala</h2>
 	<p></p>
+
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Butzeck_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Pinto_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Hofmann_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Huerden_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Eroeffnung1_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Eroeffnung2_KiefnerFoto.JPG"/>
+          </div>
+    </div>
+	
 
 	<br />
     <div class="subcolumns">
