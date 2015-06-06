@@ -9,6 +9,59 @@
 <br />
 	<h2>Tag 2: Vorprogramm der Sparkassen-Gala</h2>
 	<p></p>
+
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Knipphals_KiefnerFotos.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Knipphals2_KiefnerFotos.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Hering_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Pinto_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/HaaseButzek_KiefnerFoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Kwadwo_KiefnerFoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+    <div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Nopper_FotoKiefner.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Onnen_FotoKiefner.jpg"/>
+          </div>
+    </div>
+
 	<br />
 
      <div class="subcolumns">

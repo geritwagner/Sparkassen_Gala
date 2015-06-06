@@ -1,24 +1,26 @@
 ﻿<?php $title = "Aktuelles";
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
+
+<h2>... die Impressionen der Laufnacht von Kristian Volke sind online</h2>
+<p>	<div class="subcolumns">
+      <div class="center">
+          <img src="../photos/EnglbrechtBoch_FotoVolke.jpg" width="300px"/>
+      </div>
+	</div>
+</p>
+<p><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">Hier</a> geht's weiter ...</p>
+
+<h2>Sven Knipphals stürmt zu 10,13 Sekunden</h2>
+<p><strong>Eike Onnen hinterlässt guten Eindruck</strong></p>
+<p><img class="float_left" title="Sven Knipphals (Foto: Kiefner)" src="photos/kiefner/Knipphals_KiefnerFotos.jpg" alt="Sven Knipphals (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Der Wolfsburger Sprinter nutzte die Vorläufe über 100 Meter zu einer Steigerung seiner persönlichen Bestzeit um sechs Hundertstel auf 10,13 Sekunden. Dabei war der Rückenwind mit 1,9 Metern pro Sekunde ideal. Routinier Eike Onnen bestimmte den Hochsprung. Alle Höhen einschließlich der 2,24 Meter nahm er im ersten Versuch. Erst bei der WM-Norm von 2,30 Metern war dann Schluss für den Hannoveraner. „Es war von der Qualität her ein hochwertiger Wettkampf bei einem super Wetter“, sagte Eike Onnen, „es ärgert mich ein bisschen, dass ich an der WM-Norm gescheitert bin. Ich will mich erst einmal wieder herantasten. Das Niveau ist wieder höher. Es macht wieder mehr Spaß. Der Kopf ist freier.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+
 <h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
 <p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>
 <p>Regensburg, 06. Juni 2015 (Franzi Reng) - Nun das letzte Interview mit Startern der diesjährigen Gala.<br />
-<i>(Franzi Reng) - Jenni, im Jahr 2012 warst Du zum letzten Mal in Regensburg. Warum seitdem nicht 
-
-mehr?</i><br /><br />
-
-(Jennifer Wenth) - 2013 bin ich verletzungsbedingt ausgefallen und letztes Jahr war ich zwar nicht bei der Gala am Start, 
-
-aber dafür bin ich bei den Bayerischen Meisterschaften außer Konkurrenz mitgelaufen: Ich habe 
-
-damals mit Maren das 5000m-Limit für die EM geknackt.<br /><br /><br />
-
-<i>Apropos Maren Kock: Das 1500m-Rennen bei der Gala wird ja gerade im Hinblick auf sie und ihre 
-
-Regensburger Teamkollegin Corinna Harrer mit Hochspannung erwartet. Du kennst beide nicht nur 
-
-aus Wettkampf und Training, sondern auch privat. Was unterscheidet die beiden?</i> <a href="news/06-05_spezial_wenth.php">&raquo; Hier</a> geht's weiter ...</p><br />
+<i>(Franzi Reng) - Jenni, im Jahr 2012 warst Du zum letzten Mal in Regensburg. Warum seitdem nicht mehr?</i><br /><br />
+(Jennifer Wenth) - 2013 bin ich verletzungsbedingt ausgefallen und letztes Jahr war ich zwar nicht bei der Gala am Start, aber dafür bin ich bei den Bayerischen Meisterschaften außer Konkurrenz mitgelaufen: Ich habe damals mit Maren das 5000m-Limit für die EM geknackt.<br /><br /><br />
+<i>Apropos Maren Kock: Das 1500m-Rennen bei der Gala wird ja gerade im Hinblick auf sie und ihre Regensburger Teamkollegin Corinna Harrer mit Hochspannung erwartet. Du kennst beide nicht nur aus Wettkampf und Training, sondern auch privat. Was unterscheidet die beiden?</i> <a href="news/06-05_spezial_wenth.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
 <h2>Nico Sonnenberg im Alleingang zur Bestzeit</h2>
 <p><strong>Nico Sonnenberg verdiente sich am Freitagabend bei der Laufnacht in Regensburg mit einem couragierten Auftritt ein Sonderlob.</strong></p>
