@@ -38,6 +38,9 @@
 * Marketing mit TELIS: Facebook?
 * Zeitplan: doc -> html: zeitplan_generator (python skript)
 * Zeitplan: Aufpassen, dass nicht mehr "Domspitzmilch-Gala" im PDF-Ausdruck steht (im Word-file, unter Dokumenteigenschaften ändern
+* Banner austauschen, Werbe-Banner: neue Sponsoren bzw. alte aktuell?
+* Jahreszahl auf den Seiten aktualisieren, z.B. livestream-popup
+* Rückblick: menü-link und übersicht aktualisieren
 
 ## Während der Gala
 * Social-Media Kanäle
@@ -48,7 +51,7 @@
 ## Nach der Gala
 * Video-Bestellungen:
 	```
-	letztes Jahr haben wir die Videos wie folgt abgewickelt. 
+	letztes Jahr haben wir die Videos wie folgt abgewickelt.
 	Im Prinzip leite dem Niels die Anfragen weiter und kläre mit Kurt die Gebühren ab. Niels muss darüber informiert sein, da er die Anfrage rausschickt und der Kontakt zwischen Niels und Otto muss auch hergestellt werden, damit die Rechnung gestellt wird.
 
 
@@ -66,4 +69,4 @@
 	Gerne stehe ich Ihnen bei weiteren Fragen zur Verfügung.
 
 	Mit freundlichen Grüßen
-	``` 
+	```
