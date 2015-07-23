@@ -38,6 +38,7 @@
 * Marketing mit TELIS: Facebook?
 * Zeitplan: doc -> html: zeitplan_generator (python skript)
 * Zeitplan: Aufpassen, dass nicht mehr "Domspitzmilch-Gala" im PDF-Ausdruck steht (im Word-file, unter Dokumenteigenschaften ändern
+* Internet: auf korrekte Einrichtung des Netzwerks achten (keine Verwendung statischer IPs, kein Hosten eigener WLAN-Hotspots)
 
 ## Während der Gala
 * Social-Media Kanäle
