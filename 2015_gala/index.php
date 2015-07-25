@@ -10,6 +10,10 @@ Auf das Finale verzichtete Sven Knipphals. Dort setzte sich dann Sydney Siame au
 Ein weiteres Zeichen mit Blick auf die WM im August in Peking (China) kam im Frauenfinale von der Deutschen Meisterin Tatjana Pinto. Die Münsteranerin biss sich in 11,23 Sekunden gegen Rebekka Haase (LV 90 Erzgebirge; 11,26 sec) und Alexandra Burghardt (MTG Mannheim; 11,34 sec) durch, die beide mit neuen Bestzeiten aufwarteten. Damit ist für Tatjana Pinto die WM-Norm von 11,25 Sekunden abgehakt. <a href="https://www.leichtathletik.de/news/news/detail/sprinter-setzen-glanzlichter-in-regensburg/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
 <br />
 
+<h2>Regensburger Doppelsieg über 1.500m</h2>
+<p><strong>Maren Kock mit neuer Bestzeit: 4:09,45 min</strong></p>
+<p><img class="float_left" title="Maren Kock und Corinna Harrer (Foto: Kiefner)" src="photos/kiefner/HarrerKock3_Kiefnerfoto.jpg" alt="Maren Kock und Corinna Harrer (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Einen Regensburger Doppelsieg durch Maren Kock (4:09,45 min) und Corinna Harrer (4:10,04 min) gab es auf den 1.500 Metern zu bejubeln. Maren Kock überzeugte auf dem Weg zu ihrer ersten Zeit unter 4:10 Minuten mit den größeren Reserven auf den letzten 100 Metern. „Es ist gut, dass wir uns gegenseitig pushen können“, sagte Maren Kock. Corinna Harrer meinte zu ihrem zweiten Platz: „Ich bin schon zufrieden. Aber ich merke, dass ich noch etwas Arbeit zu tun habe.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier </a> geht's weiter ... </p> <br><br>
+
 <h2>Regensburger Läufer sorgen für Höhepunkte</h2>
 <p><strong>Maren Kock jubelt vor Teamkollegin Corinna Harrer und durchbricht die 4:10-Schallmauer. Florian Orth gewinnt im Alleingang.</strong></p>
 <p><img class="float_left" title="Maren Kock und Corinna Harrer (Foto: Kiefner)" src="photos/kiefner/HarrerKock3_Kiefnerfoto.jpg" alt="Maren Kock und Corinna Harrer (Foto: Kiefner)" width="220" />Regensburg, 06. Juni 2015 (MZ/ Wotruba) - Erst auf der Zielgeraden setzte Maren Kock an zum Überholvorgang. Darauf hatte die bestens gefüllte Haupttribüne nur gewartet: Ein Regensburger Duell um Platz eins! Am Ende lag Kock, LG Telis Finanz, 4:09,45 Minuten, vor Corinna Harrer, LG Telis Finanz, 4:10:04. Der Doppelsieg sorgte für Stimmung unter den insgesamt rund 1500 Zuschauern. Die Tempoarbeit hatte zwar für mehr, sprich die für das WM-Ticket geforderten 4:06, nicht gereicht – und doch strahlte Kock, als sie die Ziellinie überquerte. Erstmals durchbrach sie die 4:10-Schallmauer. „Das war überfällig. Diesem Ziel bin ich zwei, drei Jahre hinterhergejagt“, sagte Kock strahlend. „Ich konnte einfach meinen Schritt laufen.“
@@ -85,21 +89,21 @@ Als Zweiter des Laufs unterbot der Ochsenfurter Patrick Karl mit einer Zeit von 
 <h2>Gala-Spezial mit Erik Balnuweit (110m Hürden)</h2>
 <p><strong>„Vielleicht klappt es ja mit der WM-Norm“</strong></p>
 <p>Regensburg, 05. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) Erik, letzte Woche bist Du schon beim Kurpfalz-Meeting in Weinheim gestartet. Für Dich 
+<i>(Franzi Reng) Erik, letzte Woche bist Du schon beim Kurpfalz-Meeting in Weinheim gestartet. Für Dich
 
 ein zufriedenstellender Saisonauftakt?</i><br /><br />
 
-(Erik Balnuweit) - Mit meinem Saisoneinstieg bin ich nicht so zufrieden. Derzeit läuft es noch nicht ganz rund. Die 
+(Erik Balnuweit) - Mit meinem Saisoneinstieg bin ich nicht so zufrieden. Derzeit läuft es noch nicht ganz rund. Die
 
-Vorbereitung verlief nicht so wie gewünscht, aber wir versuchen im Team weiter an gewissen Details 
+Vorbereitung verlief nicht so wie gewünscht, aber wir versuchen im Team weiter an gewissen Details
 
-zu feilen, damit es in den nächsten Rennen und auch in Regensburg wieder schneller wird. Das Ziel ist 
+zu feilen, damit es in den nächsten Rennen und auch in Regensburg wieder schneller wird. Das Ziel ist
 
 in Regensburg, die Saisonbestleistung weiter zu steigern und Rennerfahrung zu sammeln.<br /><br /><br />
 
-<i>Eine persönliche Bestzeit von 13,44s und eine WM-Norm bei 13,45s – Das klingt doch nach einer 
+<i>Eine persönliche Bestzeit von 13,44s und eine WM-Norm bei 13,45s – Das klingt doch nach einer
 
-machbaren Aufgabe, oder? Denkst Du, dass Du am nächsten Wochenende schon die Qualifikation 
+machbaren Aufgabe, oder? Denkst Du, dass Du am nächsten Wochenende schon die Qualifikation
 
 abhaken kannst?</i> <a href="news/06-05_spezial_balnuweit.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
@@ -166,44 +170,44 @@ Meeting Direktor Kurt Ring dann doch noch ein wenig ein. <a href="news/06-05_vor
 <h2>Gala-Spezial mit Thomas Schneider (400m)</h2>
 <p><strong>„Für mich war Regensburg immer eine Reise wert“</strong></p>
 <p>Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Wenn man mal ein bisschen länger zurückschaut, findet man Dich schon in den 
+<i>(Franzi Reng) - Wenn man mal ein bisschen länger zurückschaut, findet man Dich schon in den
 
 Ergebnislisten der Gala aus dem Jahr 2010. Hast Du noch Erinnerungen an damals?</i><br /><br />
 
-(Thomas Schneider) - Für ein paar Erinnerungen musste ich mir ehrlich gesagt nochmal kurz das Video anschauen, um mein 
+(Thomas Schneider) - Für ein paar Erinnerungen musste ich mir ehrlich gesagt nochmal kurz das Video anschauen, um mein
 
-Gedächtnis aufzufrischen. In meiner Erinnerungen sind eher Ergebnisse als genaue Jahreszahlen 
+Gedächtnis aufzufrischen. In meiner Erinnerungen sind eher Ergebnisse als genaue Jahreszahlen
 
-vorhanden. (lacht) Es war allerdings ein ziemlich gutes Rennen – für mich war Regensburg eigentlich 
+vorhanden. (lacht) Es war allerdings ein ziemlich gutes Rennen – für mich war Regensburg eigentlich
 
 immer eine Reise wert und ich freue mich jedes Jahr auf die Gala.<br /><br /><br />
 
-<i>Denkst Du, dass sich das Meeting seitdem in irgendeiner Weise verändert hat, oder kann man sich da 
+<i>Denkst Du, dass sich das Meeting seitdem in irgendeiner Weise verändert hat, oder kann man sich da
 
 auf Altbekanntes verlassen?</i>  <a href="news/06-04_spezial_schneider.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
 
 <h2>Ein Bayer ist Favorit über die 3000m Hindernis</h2>
 <p><strong>Konkurrenz kommt aber auch aus Österreich</strong></p>
-<p><img class="float_left" title="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" src="images/inhalt/3000m-Hindernis-Maenner_Kellner_Karl_Kiefnerfoto.jpg" alt="Corinna Harrer (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (orv) – Patrick Karl (TV Ochsenfurt) gehört noch der U20 an und 
+<p><img class="float_left" title="Patrick Karl vor Lukas Kellner (Foto:Kiefner)" src="images/inhalt/3000m-Hindernis-Maenner_Kellner_Karl_Kiefnerfoto.jpg" alt="Corinna Harrer (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (orv) – Patrick Karl (TV Ochsenfurt) gehört noch der U20 an und
 
-über die „Böcke“ doch schon international erfahren. Seine Bestzeit von 8:47,20min ist nicht von 
+über die „Böcke“ doch schon international erfahren. Seine Bestzeit von 8:47,20min ist nicht von
 
-schlechten Eltern. Die will er nun in der Laufnacht verbessern. Stärkster Konkurrent wird der 
+schlechten Eltern. Die will er nun in der Laufnacht verbessern. Stärkster Konkurrent wird der
 
-Österreichische Meister Christoph Sander aus Wien sein, der ebenfalls schon 8:47,92min 
+Österreichische Meister Christoph Sander aus Wien sein, der ebenfalls schon 8:47,92min
 
-gelaufen ist und sich unbedingt für die TM-EM empfehlen will. Felix Hentschel aus Bamberg 
+gelaufen ist und sich unbedingt für die TM-EM empfehlen will. Felix Hentschel aus Bamberg
 
-und Maik Wollherr aus Osnabrück sind auch schon unter neun Minuten gelaufen. Eine ganze 
+und Maik Wollherr aus Osnabrück sind auch schon unter neun Minuten gelaufen. Eine ganze
 
-Reihe von jungen Nachwuchsläufern hofft, in Regensburg diese Barriere überwinden zu 
+Reihe von jungen Nachwuchsläufern hofft, in Regensburg diese Barriere überwinden zu
 
-können. Im Rennen selbst wird wie jedes Jahr auch der Bayerische Meister ermittelt. Als 
+können. Im Rennen selbst wird wie jedes Jahr auch der Bayerische Meister ermittelt. Als
 
-Lokalmatador startet U23-Athlet Sebastian Viehbeck (LG Telis Finanz), während Teamkollege 
+Lokalmatador startet U23-Athlet Sebastian Viehbeck (LG Telis Finanz), während Teamkollege
 
-Valentin Unterholzner die 5000m vorzieht. Bei den Frauen werden Ronja Böhrer (SSC Bad 
+Valentin Unterholzner die 5000m vorzieht. Bei den Frauen werden Ronja Böhrer (SSC Bad
 
 Sooden Allendorf) und die Jugendliche Tina Donder (Erfurter LAC) um den Sieg kämpfen.</p>
 <br />
@@ -211,25 +215,25 @@ Sooden Allendorf) und die Jugendliche Tina Donder (Erfurter LAC) um den Sieg kä
 <h2>Gala-Spezial mit Florian Orth (1500m)</h2>
 <p><strong>„Schnelle Temporennen oder Taktik mit Spurt – das macht Spaß“</strong></p>
 <p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="images/inhalt/Orth_Florian_BLV-Langstaffel_2015_Kiefner-Foto.jpg" alt="Florian Orth (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Flo, zunächst 3x1000m-Staffel, dann 3000m beim Rolf-Watter-Meeting und zuletzt 
+<i>(Franzi Reng) - Flo, zunächst 3x1000m-Staffel, dann 3000m beim Rolf-Watter-Meeting und zuletzt
 
-sogar ein Start über 5000m in Belgien. Du begibst Dich in der letzten Zeit anscheinend gern auf 
+sogar ein Start über 5000m in Belgien. Du begibst Dich in der letzten Zeit anscheinend gern auf
 
 fremdes Terrain. Wie kommt’s?</i><br /><br />
 
-(Florian Orth) - Naja, so fremd ist das Terrain ja gar nicht. In der diesjährigen Hallensaison bin ich bei der Hallen-EM 
+(Florian Orth) - Naja, so fremd ist das Terrain ja gar nicht. In der diesjährigen Hallensaison bin ich bei der Hallen-EM
 
-in Prag ja auch schon über 3000m unterwegs gewesen und 3x1000m Staffel laufe ich immer gerne 
+in Prag ja auch schon über 3000m unterwegs gewesen und 3x1000m Staffel laufe ich immer gerne
 
-mit unserem Team, wenn Sie zustande kommt. Gut, die 5000m sind für mich wirklich noch fremdes 
+mit unserem Team, wenn Sie zustande kommt. Gut, die 5000m sind für mich wirklich noch fremdes
 
-Terrain. Bei meinem Debüt in Belgien war ich absoluter Neuling auf dieser Strecke, aber das ist mir - 
+Terrain. Bei meinem Debüt in Belgien war ich absoluter Neuling auf dieser Strecke, aber das ist mir -
 
-glaube ich - ganz gut gelungen (lacht) Viele sehen hier ja auch meine Zukunft. Für mich ist es erstmal 
+glaube ich - ganz gut gelungen (lacht) Viele sehen hier ja auch meine Zukunft. Für mich ist es erstmal
 
 nur eine Option mehr.<br /><br />
 
-<i>Bei der Gala sollen es dann aber doch wieder die guten alten 1500m sein. Bist Du erleichtert, oder hat 
+<i>Bei der Gala sollen es dann aber doch wieder die guten alten 1500m sein. Bist Du erleichtert, oder hat
 
 der kleine „Ausflug“ in die anderen Distanzen auch ganz gut getan?</i> <a href="news/06-04_spezial_orth.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
@@ -237,19 +241,19 @@ der kleine „Ausflug“ in die anderen Distanzen auch ganz gut getan?</i> <a hr
 <p><strong>Deutschlands Nachwuchs will sich über 5000m für höhere Aufgaben empfehlen</strong></p>
 <p><img class="float_left" title="Felix Plinke und Philipp Pflieger (Foto:Kiefner)" src="images/inhalt/5000m-Maenner_Plinke_Pflieger_Kiefnerfoto.jpg" alt="Felix Plinke und Philipp Pflieger (Foto:Kiefner)" height="220" />Regensburg, 04. Juni 2015 (orv) – Die Zielzeit ist klar definiert: In Regensburg bei der Laufnacht
 
-soll die 14 Minuten Barriere attackiert werden. Für die Pace werden immerhin zwei große 
+soll die 14 Minuten Barriere attackiert werden. Für die Pace werden immerhin zwei große
 
-deutsche Langstreckler sorgen: Philipp Pflieger (LG Telis Finanz Regensburg), der Deutsche 
+deutsche Langstreckler sorgen: Philipp Pflieger (LG Telis Finanz Regensburg), der Deutsche
 
-Halbmarathonmeister 2015 und André Pollmächer (rhein-marathon Düsseldorf), EM-Achter im 
+Halbmarathonmeister 2015 und André Pollmächer (rhein-marathon Düsseldorf), EM-Achter im
 
-Marathon. Beide haben dieses Tempo perfekt im Griff, weisen sie doch Bestleistungen um die 
+Marathon. Beide haben dieses Tempo perfekt im Griff, weisen sie doch Bestleistungen um die
 
-13:30min auf. Für den Deutschen 10.000m Meister Mitku Seboka (LAC Quelle Fürth) geht’s im 
+13:30min auf. Für den Deutschen 10.000m Meister Mitku Seboka (LAC Quelle Fürth) geht’s im
 
-Rennen um die erste 13er-Zeit, für den Ex-Regensburger Julian Flügel (TSG 08 Roth) vielleicht 
+Rennen um die erste 13er-Zeit, für den Ex-Regensburger Julian Flügel (TSG 08 Roth) vielleicht
 
-um den Sieg, für die beiden U23-Junioren Frederik Unewisse (LG Region Karlsruhe) und Tim 
+um den Sieg, für die beiden U23-Junioren Frederik Unewisse (LG Region Karlsruhe) und Tim
 
 Ramdane Cherif (LG Telis Finanz) um jene magische Zeit von 14:04,00min, die sie zu den U23-
 
@@ -257,9 +261,9 @@ Europameisterschaften nach Tallinn bringen würde und für etliche Jungs der U20
 
 Zeiten auf dem Weg zur den U20-Europameisterschaften. Bei den Frauen ist die EM-
 
-Teilnehmerin im Marathon Patricia Morceli aus der Schweiz klare Favoritin. Dahinter will sich 
+Teilnehmerin im Marathon Patricia Morceli aus der Schweiz klare Favoritin. Dahinter will sich
 
-Lokalmatadorin Franziska Reng (LG Telis Finanz), noch der U20 angehörend, zusammen mit 
+Lokalmatadorin Franziska Reng (LG Telis Finanz), noch der U20 angehörend, zusammen mit
 
 ihren Teamkolleginnen Anna Plinke und Monika Rausch in Szene setzen.</p>
 <br />
@@ -267,15 +271,15 @@ ihren Teamkolleginnen Anna Plinke und Monika Rausch in Szene setzen.</p>
 <h2>Gala-Spezial mit Lena Malkus (Weitsprung)</h2>
 <p><strong>„Zur Einstimmung schaue ich mir gerne die anderen Wettbewerbe an“</strong></p>
 <p><img class="float_left" title="Lena Malkus (Foto:Kiefner)" src="http://www.sparkassen-gala.de/2014/photos/kiefner/36.jpg" alt="Lena Malkus (Foto:Kiefner)" height="200" />Regensburg, 03. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Zunächst einmal herzlichen Glückwunsch zu Deinem Sieg beim Kurpfalz-Meeting in 
+<i>(Franzi Reng) - Zunächst einmal herzlichen Glückwunsch zu Deinem Sieg beim Kurpfalz-Meeting in
 
-Weinheim! 6,94m – Das ist gleich persönliche Bestleistung so früh am Saisonanfang. War das zu 
+Weinheim! 6,94m – Das ist gleich persönliche Bestleistung so früh am Saisonanfang. War das zu
 
 erwarten?</i><br /><br />
 
-(Lena Malkus) - Um ehrlich zu sein: Nein. Es hat sich im Training auf jeden Fall angedeutet, dass ich gut drauf bin, 
+(Lena Malkus) - Um ehrlich zu sein: Nein. Es hat sich im Training auf jeden Fall angedeutet, dass ich gut drauf bin,
 
-daher habe ich schon auf die WM-Norm von 6,70m geschielt. Aber dass es so weit geht - und das so 
+daher habe ich schon auf die WM-Norm von 6,70m geschielt. Aber dass es so weit geht - und das so
 
 früh in der Saison - damit habe ich nicht gerechnet.<br /><br /><br />
 
@@ -294,25 +298,25 @@ statt, der der Männer aber erst um 21.30 Uhr.<br />
 
 <h2>Wie nahe kommen die Frauen den 2:00min über 800m?</h2>
 <p><strong>Fabienne Kohlmanns Saisoneinstieg in Dessau macht Lust auf mehr</strong></p>
-<p><img class="float_left" title="Thea Heim (Foto:Kiefner)" src="images/inhalt/800m-Frauen_Heim_Thea_kiefnerfoto.jpg" alt="Thea Heim (Foto:Kiefner)" height="180" />Regensburg, 03. Juni 2015 (orv) – Um die 2:01 oder 2:2min ist man bei der Sparkassen Gala 
+<p><img class="float_left" title="Thea Heim (Foto:Kiefner)" src="images/inhalt/800m-Frauen_Heim_Thea_kiefnerfoto.jpg" alt="Thea Heim (Foto:Kiefner)" height="180" />Regensburg, 03. Juni 2015 (orv) – Um die 2:01 oder 2:2min ist man bei der Sparkassen Gala
 
-schon oft gelaufen. Erst im letzten Jahr war es die ehemalige Deutsche Meisterin Fabienne 
+schon oft gelaufen. Erst im letzten Jahr war es die ehemalige Deutsche Meisterin Fabienne
 
-Kohlmann (LG Karlstadt-Gambach-Lohr), die eine 2:01er-Zeit auspackte und auch Coco Harrer 
+Kohlmann (LG Karlstadt-Gambach-Lohr), die eine 2:01er-Zeit auspackte und auch Coco Harrer
 
 ist 2012 eine 2:01,60min gelaufen. Fabienne Kohlmanns Leistungsexplosion mit dem Dessau-
 
-Sieg in 2:01,61min macht nun bei der Sparkassen Gala Lust nach mehr. Wie weit geht es 
+Sieg in 2:01,61min macht nun bei der Sparkassen Gala Lust nach mehr. Wie weit geht es
 
-Richtung 2:00,00min oder vielleicht sogar drunter? Adelle Tracey aus Irland (pB 2:01,40min) 
+Richtung 2:00,00min oder vielleicht sogar drunter? Adelle Tracey aus Irland (pB 2:01,40min)
 
-Emily Dudgeon aus Großbritannien, die Rumänin Florinna Pierevara (pB 2:02,53), die Polin 
+Emily Dudgeon aus Großbritannien, die Rumänin Florinna Pierevara (pB 2:02,53), die Polin
 
-Paulina Mikiewicz (pB 2:02,36), die Irin Katie Kirk (pB 2:02,63) werden ihr das Siegen schwer 
+Paulina Mikiewicz (pB 2:02,36), die Irin Katie Kirk (pB 2:02,63) werden ihr das Siegen schwer
 
-machen. Das kann auch die Russin Yulia Stepanova (derzeitige Bestzeit 2:02,68min). Sie ist 
+machen. Das kann auch die Russin Yulia Stepanova (derzeitige Bestzeit 2:02,68min). Sie ist
 
-wohl die schillerndste Figur in diesem Klassefeld. Hat sie doch im letzten Jahr mit ihren 
+wohl die schillerndste Figur in diesem Klassefeld. Hat sie doch im letzten Jahr mit ihren
 
 Enthüllungen den russischen Doping-Skandal ins Rollen gebracht.</p>
 <br />
@@ -321,29 +325,29 @@ Enthüllungen den russischen Doping-Skandal ins Rollen gebracht.</p>
 <p><strong>Maren Kock und Corinna Harrer wollen möglichst nah an die WM-Norm heranlaufen</strong></p>
 <p><img class="float_left" title="Corinna Harrer (Foto:Kiefner)" src="images/inhalt/1500m-Frauen_Harrer_Corinna_kiefnerfoto.jpg" alt="Corinna Harrer (Foto:Kiefner)" height="180" />Regensburg, 02. Juni 2015 (orv) – 4:06,00min heißt die magische Zeit, die wohl die beiden
 
-1500m-Asse Maren Kock und Corinna Harrer die ganze Saison bis zu den Deutschen 
+1500m-Asse Maren Kock und Corinna Harrer die ganze Saison bis zu den Deutschen
 
-Meisterschaften im Kopf haben werden. Es ist die vom Deutschen Leichtathletik-Verband 
+Meisterschaften im Kopf haben werden. Es ist die vom Deutschen Leichtathletik-Verband
 
-geforderte WM-Norm für Peking. Beide haben schon 5 Frauentitel auf dieser Strecke in die 
+geforderte WM-Norm für Peking. Beide haben schon 5 Frauentitel auf dieser Strecke in die
 
-Domstadt geholt und Corinna Harrer ist im ihrem Olympiajahr schon mehrmals schneller 
+Domstadt geholt und Corinna Harrer ist im ihrem Olympiajahr schon mehrmals schneller
 
-gelaufen. Diese 4:06,00min werden derzeit in europäischen Rennen nur ganz selten 
+gelaufen. Diese 4:06,00min werden derzeit in europäischen Rennen nur ganz selten
 
-unterboten. Tempomacherinnen sind da, doch auf der letzten Runde werden die beiden 
+unterboten. Tempomacherinnen sind da, doch auf der letzten Runde werden die beiden
 
-Regensburgerinnen alleine auf sich gestellt sein. Gegnerische Unterstützung bei der Pace 
+Regensburgerinnen alleine auf sich gestellt sein. Gegnerische Unterstützung bei der Pace
 
-erhofft man sich von der Tschechin Tereza Capkova, der Äthiopierin Tizita Bogale, der 
+erhofft man sich von der Tschechin Tereza Capkova, der Äthiopierin Tizita Bogale, der
 
-serbischen U23-Europameisterin Amela Terzic, der Österreichischen Meisterin Jenni Wenth 
+serbischen U23-Europameisterin Amela Terzic, der Österreichischen Meisterin Jenni Wenth
 
-und von der ehemaligen Deutschen 1500m Meisterin Denise Krebs. Locker bleiben heißt es für 
+und von der ehemaligen Deutschen 1500m Meisterin Denise Krebs. Locker bleiben heißt es für
 
-die local heroes, nur nicht verkrampfen, die Saison ist noch lang und allein schon der Sieg vor 
+die local heroes, nur nicht verkrampfen, die Saison ist noch lang und allein schon der Sieg vor
 
-eigenem Publikum ist auch schon sehr viel wert. Doch wenn’s läuft, dann läuft es. Das haben 
+eigenem Publikum ist auch schon sehr viel wert. Doch wenn’s läuft, dann läuft es. Das haben
 
 die beiden Telis-Asse schon so oft bewiesen.</p><br />
 
@@ -365,23 +369,23 @@ werden diesen Geistesblitz am Samstag umsetzen. <a href="news/06-02_sprint_weite
 <p><strong>Wer schlägt den Brasilianer Cesario Cleiton Abrao?</strong></p>
 <p><img class="float_left" title="Andreas Vojta (Foto:Kiefner)" src="images/inhalt/800m-Maenner_Vojta_Andreas_kiefnerfoto.jpg" alt="Andreas Vojta (Foto:Kiefner)" height="180" />Regensburg, 02. Juni 2015 (orv) – Die Deutschen Andreas Lange (LG Braunschweig) und
 
-Dennis Krüger (1. VfL Fortuna Marzahn) wollen die WM-Norm von 1:45,50min knacken. Sollten 
+Dennis Krüger (1. VfL Fortuna Marzahn) wollen die WM-Norm von 1:45,50min knacken. Sollten
 
-sie im Bereich ihrer bisherigen Bestzeiten bleiben, werden sie es mit dem Brasilianer Cesario 
+sie im Bereich ihrer bisherigen Bestzeiten bleiben, werden sie es mit dem Brasilianer Cesario
 
-Cleiton Abrao zu tun bekommen, der immerhin eine 1:45,59min mitbringt. Das Feld der 11 
+Cleiton Abrao zu tun bekommen, der immerhin eine 1:45,59min mitbringt. Das Feld der 11
 
-1:47min-Läufer führt Regensburgs „local heroe“ Benedikt Huber (LG Telis Finanz) mit seiner 
+1:47min-Läufer führt Regensburgs „local heroe“ Benedikt Huber (LG Telis Finanz) mit seiner
 
-persönlichen Bestleistung von 1:47,20min an. Er träumt von einem Einsatz bei der diesjährigen 
+persönlichen Bestleistung von 1:47,20min an. Er träumt von einem Einsatz bei der diesjährigen
 
-Universiade in Korea. Dafür braucht er möglichst bald eine Zeit im 1:46er Bereich. Dass er das 
+Universiade in Korea. Dafür braucht er möglichst bald eine Zeit im 1:46er Bereich. Dass er das
 
-im Verlauf der Saison kann, steht außer Frage, doch ob er es schon bei der Sparkassen Gala 
+im Verlauf der Saison kann, steht außer Frage, doch ob er es schon bei der Sparkassen Gala
 
-zeigt, bleibt abzuwarten. Vielleicht trägt ihn das heimische Publikum zu ungeahnten Leistungen. 
+zeigt, bleibt abzuwarten. Vielleicht trägt ihn das heimische Publikum zu ungeahnten Leistungen.
 
-Schön wär’s, wenn auch Benedikt Huber seinen Beitrag zur „blauen Stunde“ der Asse der LG 
+Schön wär’s, wenn auch Benedikt Huber seinen Beitrag zur „blauen Stunde“ der Asse der LG
 
 Telis Finanz beitragen könnte.</p>
 
@@ -390,23 +394,23 @@ Telis Finanz beitragen könnte.</p>
 <p>Regensburg, 01. Juni 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
 <i>(Franzi Reng) - Tobias, im letzten Jahr ging es im Hochsprung der Männer ja nicht bis zur 2,20m-Höhe.
 
-Du als damals noch U20-Jugendlicher hast mit Deinen 2,22m die Großen deswegen schon das 
+Du als damals noch U20-Jugendlicher hast mit Deinen 2,22m die Großen deswegen schon das
 
-Fürchten gelehrt. Heuer wirst Du in der Männer-Wertung sicherlich auch den Gesamtsieg in Angriff 
+Fürchten gelehrt. Heuer wirst Du in der Männer-Wertung sicherlich auch den Gesamtsieg in Angriff
 
 nehmen, oder?</i><br /><br />
 
-(Tobias Potye) - Letztes Jahr war Regensburg ein Saison-Highlight für mich. Die 2,22 m waren auf jeden Fall eine 
+(Tobias Potye) - Letztes Jahr war Regensburg ein Saison-Highlight für mich. Die 2,22 m waren auf jeden Fall eine
 
-Bestätigung meiner Topform und haben bestimmt einen guten Eindruck hinterlassen. Dieses Jahr 
+Bestätigung meiner Topform und haben bestimmt einen guten Eindruck hinterlassen. Dieses Jahr
 
-habe dafür ich in der unmittelbaren Vorbereitung mit einer Verletzung zu kämpfen. Das heißt aber 
+habe dafür ich in der unmittelbaren Vorbereitung mit einer Verletzung zu kämpfen. Das heißt aber
 
-nicht, das ich mich deshalb davor schon geschlagen gebe: Die Form ist ja nach meinen 
+nicht, das ich mich deshalb davor schon geschlagen gebe: Die Form ist ja nach meinen
 
 Trainingslagern in Südafrika und der Türkei da, nur die Routine fehlt - ich spüre das!<br /><br /><br />
 
-<i>Als 20-jähriger gehörst du ja trotzdem immer noch zu den „Jungen Wilden“ im Starterfeld. Siehst Du 
+<i>Als 20-jähriger gehörst du ja trotzdem immer noch zu den „Jungen Wilden“ im Starterfeld. Siehst Du
 
 das eher als Vor- oder Nachteil?</i> <a href="news/06-01_spezial_potye.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
@@ -414,27 +418,27 @@ das eher als Vor- oder Nachteil?</i> <a href="news/06-01_spezial_potye.php">&raq
 <p><strong>Bei den Männern geht Florian Orth auf 1500m WM-Normenjagd</strong></p>
 <p><img class="float_left" title="Florian Orth (Foto:Kiefner)" src="images/inhalt/1500m-Maenner_Orth_Florian_kiefnerfoto.jpg" alt="Florian Orth (Foto:Kiefner)" height="180" />Regensburg, 01. Juni 2015 (orv) – Bei Deutschen Meisterschaften ist jene Stunde, in der die
 
-Regensburger Telis-Asse ihre Titel hamstern, meist am Sonntagnachmittag. Bei der 
+Regensburger Telis-Asse ihre Titel hamstern, meist am Sonntagnachmittag. Bei der
 
-Sparkassen Gala gibt es diese blaue Stunde auch: Dann, zum Beispiel, wenn Florian Orth (LG 
+Sparkassen Gala gibt es diese blaue Stunde auch: Dann, zum Beispiel, wenn Florian Orth (LG
 
-Telis Finanz am kommenden Samstag, um 20.05 Uhr die WM-Norm von 3:35,50min jagt. Das 
+Telis Finanz am kommenden Samstag, um 20.05 Uhr die WM-Norm von 3:35,50min jagt. Das
 
-ist keine Zeit, die man im Vorübergehen läuft, das ist eine echte Klasseherausforderung für den 
+ist keine Zeit, die man im Vorübergehen läuft, das ist eine echte Klasseherausforderung für den
 
-Regensburger und in seinem ersten 1500m Rennen der Saison fast unlösbar. Trotzdem hat im 
+Regensburger und in seinem ersten 1500m Rennen der Saison fast unlösbar. Trotzdem hat im
 
-der ausrichtende Club mit Meeting Direktor und Telis-Teamchef Kurt Ring ein erlesenes Feld 
+der ausrichtende Club mit Meeting Direktor und Telis-Teamchef Kurt Ring ein erlesenes Feld
 
-auf die Bahn gestellt zuzüglich zwei Tempomachern: Kamil Gurdak, Artur Ostrowski (beide 
+auf die Bahn gestellt zuzüglich zwei Tempomachern: Kamil Gurdak, Artur Ostrowski (beide
 
-Polen), Jerry Motsan (Südafrika), Andreas Bueno (Dänemark), Eion Everad (Irland) und 
+Polen), Jerry Motsan (Südafrika), Andreas Bueno (Dänemark), Eion Everad (Irland) und
 
-Sebastian Keiner aus Erfurt, allesamt schon dicke unter 3:40min gelaufen, sollen den 
+Sebastian Keiner aus Erfurt, allesamt schon dicke unter 3:40min gelaufen, sollen den
 
-Regensburger zur Norm treiben. Immerhin ist Florian Orth auch Titelverteidiger bei der 
+Regensburger zur Norm treiben. Immerhin ist Florian Orth auch Titelverteidiger bei der
 
-Sparkassen Gala und schon zweimal im Uni-Stadion 3:38er-Zeiten gelaufen. Es sollte einer der 
+Sparkassen Gala und schon zweimal im Uni-Stadion 3:38er-Zeiten gelaufen. Es sollte einer der
 
 besten Wettbewerbe der Sparkassen Gala werden.</p>
 <br />
@@ -443,17 +447,17 @@ besten Wettbewerbe der Sparkassen Gala werden.</p>
 <p><strong>Fällt bei den Männern bei der Sparkassen Gala die WM-Norm?</strong></p>
 <p><img class="float_left" title="Franziska Hofmann (Foto:Kiefner)" src="images/inhalt/100m-Huerden-Frauen_Hofmann_Franziska_Kiefnerfoto.jpg" alt="Franziska Hofmann (Foto:Kiefner)" height="180" />Regensburg, 01. Juni 2015 (orv) – Regensburg, 30. Mai 2015 (orv) – Franziska Hofmann (LAC Erdgas Chemnitz) und Pamela
 
-Dutkiewicz (TV Wattenscheid 01) wissen, wie es sich anfühlt, wenn man die 100m Hürden unter 
+Dutkiewicz (TV Wattenscheid 01) wissen, wie es sich anfühlt, wenn man die 100m Hürden unter
 
-13 Sekunden gelaufen ist. Beide haben Hausrekorde von 12,87sec und 12,93sec stehen. Die 
+13 Sekunden gelaufen ist. Beide haben Hausrekorde von 12,87sec und 12,93sec stehen. Die
 
-Chemnitzerin überraschte schon im Vorjahr bei der Sparkassen Gala alle Experten mit einem 
+Chemnitzerin überraschte schon im Vorjahr bei der Sparkassen Gala alle Experten mit einem
 
-starken Auftritt. Im letzten Jahr mussten die Kurzhürdlerinnen noch mit dem Gegenwind 
+starken Auftritt. Im letzten Jahr mussten die Kurzhürdlerinnen noch mit dem Gegenwind
 
-kämpfen. Heuer wird bei entsprechenden Windverhältnissen auch ihr Rennen einfach 
+kämpfen. Heuer wird bei entsprechenden Windverhältnissen auch ihr Rennen einfach
 
-umgedreht: Also garantierter Rückenwind! Stärkste Konkurrentin wird die Tschechin Lucie 
+umgedreht: Also garantierter Rückenwind! Stärkste Konkurrentin wird die Tschechin Lucie
 
 Koudelova (pB 13,15sec) sein. <a href="news/06-01_vorschau_kurzhuerden.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
@@ -470,28 +474,28 @@ Koudelova (pB 13,15sec) sein. <a href="news/06-01_vorschau_kurzhuerden.php">&raq
 <h2>Gala-Spezial mit Ruth Sophia Spelmeyer (400m)</h2>
 <p><strong>„Ich wage mich erstmals wieder über die 400m-Distanz“</strong></p>
 <p><img class="float_left" title="Ruth Sophia Spelmeyer (Foto:Kiefner)" src="http://www.sparkassen-gala.de/2014/photos/kiefner/27.jpg" alt="Ruth Sophia Spelmeyer (Foto:Kiefner)" width="180" />Regensburg, 31. Mai 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Ruth, im letzten Jahr hast Du in Regensburg ja schon eine Top-Leistung gleich zum 
+<i>(Franzi Reng) - Ruth, im letzten Jahr hast Du in Regensburg ja schon eine Top-Leistung gleich zum
 
 Saisonbeginn abgeliefert. Hattest Du damit gerechnet?</i><br /><br />
 
-(Ruth Sophia Spelmeyer) - Nein, das hätte ich so nicht gedacht. Das war ja eines der allerersten 400m-Rennen des Sommers und 
+(Ruth Sophia Spelmeyer) - Nein, das hätte ich so nicht gedacht. Das war ja eines der allerersten 400m-Rennen des Sommers und
 
-ich war natürlich sehr froh, dass ich gleich so gut an meine Bestzeit vom vorherigen Jahr heranlaufen 
+ich war natürlich sehr froh, dass ich gleich so gut an meine Bestzeit vom vorherigen Jahr heranlaufen
 
 konnte.<br /><br /><br />
 
-<i>Bist Du wegen dieses Erfolges heuer wieder am Start, oder gibt es da noch andere Beweggründe, die 
+<i>Bist Du wegen dieses Erfolges heuer wieder am Start, oder gibt es da noch andere Beweggründe, die
 
 für die Sparkassen Gala sprechen?</i><a href="news/05-31_spezial_spelmeyer.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
 <h2>Gala-Spezial mit Christiane Klopsch (400m Hürden)</h2>
 <p><strong>„Ich führe momentan ein Doppelleben“</strong></p>
 <p><img class="float_left" title="Christiane Klopsch (Foto:Kiefner)" src="http://www.sparkassen-gala.de/2014/photos/kiefner/22.jpg" alt="Christiane Klopsch (Foto:Kiefner)" width="180" />Regensburg, 30. Mai 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Christiane, man sagt ja, auf der Rundbahn in Regensburg hätte man 300 Meter 
+<i>(Franzi Reng) - Christiane, man sagt ja, auf der Rundbahn in Regensburg hätte man 300 Meter
 
 Rückenwind. Kannst Du das aus eigener Erfahrung bestätigen?</i><br /><br />
 
-(Christiane Klopsch) - Auf jeden Fall. Ich bin hier in den letzten Jahren immer Bestzeiten gelaufen und dazu war meistens 
+(Christiane Klopsch) - Auf jeden Fall. Ich bin hier in den letzten Jahren immer Bestzeiten gelaufen und dazu war meistens
 
 auch noch super Wetter. Da kommt man natürlich immer wieder gerne!<br /><br /><br />
 
@@ -500,38 +504,38 @@ auch noch super Wetter. Da kommt man natürlich immer wieder gerne!<br /><br /><
 <h2>Gala-Spezial mit Georg Fleischhauer (400m Hürden)</h2>
 <p><strong>„Ich will mit nach Cheboksary“</strong></p>
 <p>Regensburg, 30. Mai 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br />
-<i>(Franzi Reng) - Georg, die letzten Jahre gab es in Regensburg ja immer viel starke Konkurrenz über die 
+<i>(Franzi Reng) - Georg, die letzten Jahre gab es in Regensburg ja immer viel starke Konkurrenz über die
 
 400m-Hürden für Dich. Warst Du mit Deinen Leistungen zufrieden?</i><br /><br />
 
-(Georg Fleischhauer) - Nein, in den letzten Jahren war ich eher nicht zufrieden, weil ich meine Leistungen nicht meinen 
+(Georg Fleischhauer) - Nein, in den letzten Jahren war ich eher nicht zufrieden, weil ich meine Leistungen nicht meinen
 
-Vorstellungen entsprochen hatten. Dieses Jahr möchte ich endlich wieder an meine alte Stärke 
+Vorstellungen entsprochen hatten. Dieses Jahr möchte ich endlich wieder an meine alte Stärke
 
 anknüpfen und Entsprechendes abliefern.<br /><br /><br />
 
-<i>Wie ist Deine Saisonvorbereitung bisher verlaufen? Fühlst Du Dich nach Deinem Saisoneinstieg 
+<i>Wie ist Deine Saisonvorbereitung bisher verlaufen? Fühlst Du Dich nach Deinem Saisoneinstieg
 
-in Pliezhausen und München schon fit für einen starken Sommer, oder muss da noch ein bisschen was 
+in Pliezhausen und München schon fit für einen starken Sommer, oder muss da noch ein bisschen was
 
 getan werden?</i><a href="news/05-30_spezial_fleischhauer.php">&raquo; Hier</a> geht's weiter ...</p><br />
 
 <h2>Gala-Spezial mit Jackie Baumann (400m Hürden)</h2>
 <p><strong>„Ich will wieder mein Bestes zeigen“</strong></p>
 <p>Regensburg, 29. Mai 2015 (Franzi Reng) - Im Laufe der nächsten Tage werden wir an dieser Stelle immer wieder Interviews mit Startern der diesjährigen Gala veröffentlichen.<br /><br />
-<i>(Franzi Reng) - Jackie, an Pfingsten hast Du mit einer neuen Bestzeit schon für einen fulminanten 
+<i>(Franzi Reng) - Jackie, an Pfingsten hast Du mit einer neuen Bestzeit schon für einen fulminanten
 
-Saison-Einstieg gesorgt. Überwiegt momentan noch die Zufriedenheit oder wird jetzt erst richtig 
+Saison-Einstieg gesorgt. Überwiegt momentan noch die Zufriedenheit oder wird jetzt erst richtig
 
 losgelegt?</i><br /><br />
 
-(Jackie Baumann) - Gerade überwiegt noch die Zufriedenheit aber natürlich will ich in den nächsten Rennen auch wieder 
+(Jackie Baumann) - Gerade überwiegt noch die Zufriedenheit aber natürlich will ich in den nächsten Rennen auch wieder
 
 mein Bestes zeigen und mich hoffentlich noch weiter verbessern.<br /><br /><br />
 
-<i>Am kommenden Samstag wirst Du mit Christiane Klopsch unter anderem eine Deutsche Meisterin als 
+<i>Am kommenden Samstag wirst Du mit Christiane Klopsch unter anderem eine Deutsche Meisterin als
 
-direkte Konkurrenz auf einer der Nebenbahnen haben. Willst Du sie gleich mal ein bisschen ärgern, 
+direkte Konkurrenz auf einer der Nebenbahnen haben. Willst Du sie gleich mal ein bisschen ärgern,
 
 oder liegt da deiner Meinung nach noch einiges dazwischen?</i><br />
  <a href="news/05-29_spezial_baumann.php">&raquo; Hier</a> geht's weiter ...</p><br />

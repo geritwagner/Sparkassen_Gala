@@ -41,6 +41,7 @@
 * Banner austauschen, Werbe-Banner: neue Sponsoren bzw. alte aktuell?
 * Jahreszahl auf den Seiten aktualisieren, z.B. livestream-popup
 * Rückblick: menü-link und übersicht aktualisieren
+* Internet: auf korrekte Einrichtung des Netzwerks achten (keine Verwendung statischer IPs, kein Hosten eigener WLAN-Hotspots)
 
 ## Während der Gala
 * Social-Media Kanäle
