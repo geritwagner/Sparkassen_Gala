@@ -2,12 +2,20 @@
  $menu['current'] = "aktuelles"; ?>
 <?php require("_header.inc.php"); ?>
 
-<h2>Tatjana Pinto erfüllt WM-Norm</h2>
-<p>Regensburg, 06. Juni 2015 (leichtathletik.de) - Ein weiteres Zeichen mit Blick auf die WM im August in Peking (China) kam im Frauenfinale von der Deutschen Meisterin Tatjana Pinto. Die Münsteranerin biss sich in 11,23 Sekunden gegen Rebekka Haase (LV 90 Erzgebirge; 11,26 sec) und Alexandra Burghardt (MTG Mannheim; 11,34 sec) durch, die beide mit neuen Bestzeiten aufwarteten. Damit war die WM-Norm von 11,25 Sekunden abgehakt. „Die WM-Norm fühlt sich super an. Ich war nicht so gut reingekommen. Ich war auch nicht hierher gekommen, um die Norm zu laufen und hätte nicht gedacht, dass es die WM-Norm wird. Ich bin jetzt umso erleichterter“, sagte Tatjana Pinto. Hochkarätig war das U20-Rennen der weiblichen Jugend. Angeführt von der Paderbornerin Chantal Butzek (11,62 sec) blieben alle fünf Erstplatzierten unter der Norm für die U20-EM. <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+<h2>Sprinter setzen Glanzlichter in Regensburg</h2><br />
+<p><img class="float_left" title="Sven Knipphals (Foto: Kiefner)" src="photos/kiefner/Knipphals_KiefnerFotos.jpg" alt="Sven Knipphals (Foto: Kiefner)" width="220" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Die deutschen Sprint-Asse münzten am Samstag bei der Sparkassen-Gala in Regensburg die für sie idealen Bedingungen in glänzende Leistungen um. Sven Knipphals und Tatjana Pinto konnten sich über 100 Meter für die WM in Peking (China) empfehlen. Mit Blick zur U20-EM kam ein Ausrufezeichen von Gina Lückenkemper.<br />
+Der Wolfsburger Sven Knipphals nutzte die Vorläufe über 100 Meter zu einer Steigerung seiner persönlichen Bestzeit um sechs Hundertstel auf 10,13 Sekunden. Dabei war der Rückenwind mit 1,9 Metern pro Sekunde ideal. „Das ist schon die Form, die ich mir vorgestellt hatte“, sagte er zufrieden mit Blick auf die bestätigte WM-Norm.
+Auf das Finale verzichtete Sven Knipphals. Dort setzte sich dann Sydney Siame aus Sambia (10,18 sec) durch.
+<br /><br />
+Ein weiteres Zeichen mit Blick auf die WM im August in Peking (China) kam im Frauenfinale von der Deutschen Meisterin Tatjana Pinto. Die Münsteranerin biss sich in 11,23 Sekunden gegen Rebekka Haase (LV 90 Erzgebirge; 11,26 sec) und Alexandra Burghardt (MTG Mannheim; 11,34 sec) durch, die beide mit neuen Bestzeiten aufwarteten. Damit ist für Tatjana Pinto die WM-Norm von 11,25 Sekunden abgehakt. <a href="https://www.leichtathletik.de/news/news/detail/sprinter-setzen-glanzlichter-in-regensburg/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+<br />
 
-<h2>Sven Knipphals stürmt zu 10,13 Sekunden</h2>
-<p><strong>Eike Onnen hinterlässt guten Eindruck</strong></p>
-<p><img class="float_left" title="Sven Knipphals (Foto: Kiefner)" src="photos/kiefner/Knipphals_KiefnerFotos.jpg" alt="Sven Knipphals (Foto: Kiefner)" width="300" />Regensburg, 06. Juni 2015 (leichtathletik.de) - Der Wolfsburger Sprinter nutzte die Vorläufe über 100 Meter zu einer Steigerung seiner persönlichen Bestzeit um sechs Hundertstel auf 10,13 Sekunden. Dabei war der Rückenwind mit 1,9 Metern pro Sekunde ideal. Routinier Eike Onnen bestimmte den Hochsprung. Alle Höhen einschließlich der 2,24 Meter nahm er im ersten Versuch. Erst bei der WM-Norm von 2,30 Metern war dann Schluss für den Hannoveraner. „Es war von der Qualität her ein hochwertiger Wettkampf bei einem super Wetter“, sagte Eike Onnen, „es ärgert mich ein bisschen, dass ich an der WM-Norm gescheitert bin. Ich will mich erst einmal wieder herantasten. Das Niveau ist wieder höher. Es macht wieder mehr Spaß. Der Kopf ist freier.“ <a href="http://www.leichtathletik.de/news/news/detail/sven-knipphals-stuermt-zu-1013-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ... </p>
+<h2>Regensburger Läufer sorgen für Höhepunkte</h2>
+<p><strong>Maren Kock jubelt vor Teamkollegin Corinna Harrer und durchbricht die 4:10-Schallmauer. Florian Orth gewinnt im Alleingang.</strong></p>
+<p><img class="float_left" title="Maren Kock und Corinna Harrer (Foto: Kiefner)" src="photos/kiefner/HarrerKock3_Kiefnerfoto.jpg" alt="Maren Kock und Corinna Harrer (Foto: Kiefner)" width="220" />Regensburg, 06. Juni 2015 (MZ/ Wotruba) - Erst auf der Zielgeraden setzte Maren Kock an zum Überholvorgang. Darauf hatte die bestens gefüllte Haupttribüne nur gewartet: Ein Regensburger Duell um Platz eins! Am Ende lag Kock, LG Telis Finanz, 4:09,45 Minuten, vor Corinna Harrer, LG Telis Finanz, 4:10:04. Der Doppelsieg sorgte für Stimmung unter den insgesamt rund 1500 Zuschauern. Die Tempoarbeit hatte zwar für mehr, sprich die für das WM-Ticket geforderten 4:06, nicht gereicht – und doch strahlte Kock, als sie die Ziellinie überquerte. Erstmals durchbrach sie die 4:10-Schallmauer. „Das war überfällig. Diesem Ziel bin ich zwei, drei Jahre hinterhergejagt“, sagte Kock strahlend. „Ich konnte einfach meinen Schritt laufen.“
+<br />
+Auch ihr Lebenspartner Florian Orth gewann eine Stünde später, war damit aber weniger glücklich als Kock: Zwar sind seine 3:38,78 Minuten ebenfalls deutsche Jahresbestzeit, doch halt auch noch über drei Sekunden von der WM-Norm weg. „Hinten raus konnte ich nicht mehr beschleunigen. Für die schwülen Bedingungen war es aber okay“, meinte der 25-Jährige. <a href="http://www.mittelbayerische.de/sport/regional/regensburg-nachrichten/regensburger-laeufer-sorgen-fuer-hoehepunkte-21524-art1242630.html" target="_blank">Hier </a> geht's weiter ... </p><br>
+<br />
 
 <h2>... die Impressionen der Laufnacht von Kristian Volke sind online</h2>
 <p>	<div class="subcolumns">
@@ -17,7 +25,7 @@
 	</div>
 </p>
 <p><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">Hier</a> geht's weiter ...</p>
-
+<br />
 
 <h2>Gala-Spezial mit Jennifer Wenth (1500m)</h2>
 <p><strong>„Ich muss mit dem 1500er bei der Gala noch meinen Frieden schließen“</strong></p>

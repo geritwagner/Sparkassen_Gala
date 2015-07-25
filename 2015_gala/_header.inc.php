@@ -56,20 +56,21 @@ $mA = $menu['active'];
 				    <ul>
 				      <li><a href="news/vorschauen.php">Vorschauen</a></li>
 				      <li><a href="news/berichte.php">Berichte</a></li>
-				      <li><a href="">Impressionen <!--&nbsp; &raquo;--></a>
+				      <li><a href="">Impressionen &nbsp; &raquo;</a>
 						<ul id="navImpressionen">
 						  <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
-						  <!--<li><a href="news/impressionen-lutz.php">von Ludwig Lutz</a></li>
-						  <li><a href="news/impressionen-bruessel.php">von Christian Brüssel</a></li>-->
+						  <li><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">von Kristian Volke</a></li>
+						  <li><a href="https://www.pictrs.com/sportlich-belichtet/8059759/laufnacht-zur-sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Laufnacht)</a></li>
+						  <li><a href="https://www.pictrs.com/sportlich-belichtet/9405370/sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Gala)</a></li>
 						</ul>
 					  </li>
-				      <!--<li><a href="">Video-Highlights &nbsp; &raquo;</a>
-						<ul id="navImpressionen">
-					      <!--<li><a href="http://www.leichtathletik.tv/events/view/id/3579" target="_blank">Video Highlights</a></li>
+				      <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video-Highlights<!-- &nbsp; &raquo;--></a>
+						<!--<ul id="navImpressionen">
+					      <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video Highlights</a></li>
 						<li><a href="http://www.tvaktuell.com/default.aspx?ID=5164&showNews=743627" target="_blank">TV Aktuell</a></li>
 						  <li><a href="http://www.mittelbayerische.de/index.cfm?pid=10166&bcpid=55010322001&bclid=51364751001&bctid=90266147001" target="_blank">mittelbayerische.de</a></li>
-						</ul>
-					  </li>-->
+						</ul>-->
+					  </li>
 				    </ul>
 				  </li>
 				  <li<? if($m == 'infos') echo $mA; ?>><a href="infos/">Infos</a>
@@ -141,5 +142,5 @@ $mA = $menu['active'];
 					<!-- skip anchor: content -->
 					<a id="content" name="content"></a><br />
 <!-- Besonderes	-->
-<h4 class="hinweis" style="text-align:center;"><!--<a href="livestream-popup.php" target="_blank">&raquo;Live-Stream</a> und --><a href="livestream-popup.php" target="_blank">&raquo;Live-Stream</a> und <a href="ergebnisse.php">Live Ergebnisse</a> der Gala sind online</h4>
+<h4 class="hinweis" style="text-align:center;"><a href="news/impressionen-kiefner.php">&raquo;Kiefner Impressionen</a>, <a href="ergebnisse.php">&raquo;Gesamtergebnisliste</a> und <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">&raquo;erste Videos</a> sind online</h4>
 <br />
