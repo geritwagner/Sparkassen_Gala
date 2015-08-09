@@ -11,6 +11,63 @@
 	<p></p>
 
 	<br />
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/800m_Frauen_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/200m_Frauen2_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/200m_Frauen_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/200_Maenner2_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/200_Maenner_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Orth_Florian_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+	<div class="subcolumns">
+      <div class="c50l">
+        <div class="subcl center">
+          <img src="../photos/kiefner/Orth_Florian_1500m_Kiefnerfoto.jpg"/></div>
+      </div>
+
+      <div class="c50r">
+        <div class="subcr center">
+    	  <img src="../photos/kiefner/Harrer_Kick_Kiefnerfoto.jpg"/>
+          </div>
+    </div>
+	
+	<br />
+	
+	
+	
+	
+	
     <div class="subcolumns">
       <div class="c50l">
         <div class="subcl center">
