@@ -4,7 +4,7 @@ TCL-Skript von Martin Weinberger martin-weinberger[ät]web[dot]de
 ## Teilnehmerlisten
 1. TCL installieren ([TCL-Download](http://www.activestate.com/activetcl/downloads))
 2. Folgende Dateien müssen im gleichen Verzeichnis liegen:
-	1. Das Skript (SeltecHTMLSorter.tcl) 
+	1. Das Skript (SeltecHTMLSorter.tcl)
 	2. Die Header-Datei (Sparkassen_Gala_201X_Teilnehmerliste_header.htm)
 	3. Unformatierte Version der Teilnehmerliste (Sparkassen_Gala_201X_ Teilnehmerliste_org.htm)
 3. Im Skript muss das Jahr aktualisiert werden, die Dateinamen müssen das gleiche Jahr enthalten (ggf. umbenennen)
@@ -12,6 +12,7 @@ TCL-Skript von Martin Weinberger martin-weinberger[ät]web[dot]de
 5. Das Skript (per Doppelklick) ausführen
 6. Die fertige htm Datei wird erzeugt: Sparkassen_Gala_2012_Teilnehmerliste.htm
 7. ggf. Jahr, Veranstaltungsnamen und Teilnehmer- vs. Ergebnisliste überprüfen
+8. von ISO nach utf-8 konvertieren und charset im header aktualisieren
 
 ## Ergebnislisten
 wie Teilnehmerlisten, nur mit dem Skript für Ergebnislisten
