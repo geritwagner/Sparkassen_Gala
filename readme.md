@@ -19,7 +19,28 @@
 	* Symbolic-Links (SSH) einrichten: zu den alten Seiten (im Rückblick)
 	```
 	Jahre:
-	ln -s ../20XY_gala/ 20XY
+
+	# start script in directory: ~/gala
+
+	for d in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	cd ${d}_gala
+	for i in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	rm $i
+	ln -s ../${i}_gala/ ${i}
+	done
+	cd ..
+	done
+
+
+	# remove all year-symlinks:
+	for i in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	rm $i
+	done
+
+	# rm & renew symlink:
+	rm 2001
+	ln -s ../2001_gala/ 2001
+
 	Impressionen:
 	ln -s ../../media/images/gala/20XY_impressionen/ impressionen
 	```
