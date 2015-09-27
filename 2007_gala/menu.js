@@ -51,9 +51,22 @@ submenu['wettkaempfe'][5] = menuItem('Impressionen','impressionen.php','');
 submenu['wettkaempfe'][6] = menuItem('Normen 2007','normen.php','');
 
 submenu['rueckblick'] = new Array();
-submenu['rueckblick'][0] = menuItem('Domspitzmilch Gala 2006','http://www.lg-regensburg.de/2006_gala/','_blank');
-submenu['rueckblick'][1] = menuItem('Domspitzmilch Gala 2005','gala05.php','');
-submenu['rueckblick'][2] = menuItem('Domspitzmilch Gala 2004','gala04.php','');
+submenu['rueckblick'][0] = menuItem('Sparkassen-Gala 2015', 'http://www.sparkassen-gala.de/2015/','');
+submenu['rueckblick'][1] = menuItem('Sparkassen-Gala 2014', 'http://www.sparkassen-gala.de/2014/','');
+submenu['rueckblick'][2] = menuItem('Sparkassen-Gala 2013', 'http://www.sparkassen-gala.de/2013/','');
+submenu['rueckblick'][3] = menuItem('Sparkassen-Gala 2012', 'http://www.sparkassen-gala.de/2012/','');
+submenu['rueckblick'][4] = menuItem('Sparkassen-Gala 2011', 'http://www.sparkassen-gala.de/2011/','');
+submenu['rueckblick'][5] = menuItem('Sparkassen-Gala 2010', 'http://www.sparkassen-gala.de/2010/','');
+submenu['rueckblick'][6] = menuItem('Sparkassen-Gala 2009', 'http://www.sparkassen-gala.de/2009/','');
+submenu['rueckblick'][7] = menuItem('Sparkassen-Gala 2008', 'http://www.sparkassen-gala.de/2008/','');
+submenu['rueckblick'][8] = menuItem('Domspitzmilch-Gala 2007', 'http://www.sparkassen-gala.de/2007/','');
+submenu['rueckblick'][9] = menuItem('Domspitzmilch-Gala 2006', 'http://www.sparkassen-gala.de/2006/','');
+submenu['rueckblick'][10] = menuItem('Domspitzmilch-Gala 2005', 'http://www.sparkassen-gala.de/2005/','');
+submenu['rueckblick'][11] = menuItem('Domspitzmilch-Gala 2004', 'http://www.sparkassen-gala.de/2004/','');
+submenu['rueckblick'][12] = menuItem('Domspitzmilch-Gala 2003', 'http://www.sparkassen-gala.de/2003/','');
+submenu['rueckblick'][13] = menuItem('Domspitzmilch-Gala 2002', 'http://www.sparkassen-gala.de/2002/','');
+submenu['rueckblick'][14] = menuItem('Domspitzmilch-Gala 2001', 'http://www.sparkassen-gala.de/2001/','');
+submenu['rueckblick'][15] = menuItem('Domspitzmilch-Gala 1999', 'http://www.sparkassen-gala.de/1999/','');
 
 //build or unhide submenu div...
 function buildSubmenu(obj){

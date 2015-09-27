@@ -75,11 +75,6 @@
             <td width="40">
               <img src="images/logo/spacer.gif" width="54" height="25" alt=" " />
             </td>
-            <td width="66">
-              <a href="ticketservice.php">
-                <img src="images/logo/tickets.gif" alt="" width="50" height="25" border="0" />
-              </a>
-            </td>
             <td width="15">
               <img src="images/logo/spacer.gif" width="75" height="25" alt=" " />
             </td>
@@ -97,7 +92,7 @@
 
               <p>
                 <a href="http://www.lg-regensburg.de/2006_ausschreibungen/index.htm" target="_blank">
-                  <img src="../images_alt/LK06-la.jpg" alt="Leichtathletik-Ausschreibungskalender der LG Domspitzmilch Regensburg" width="99" height="140" border="0">
+                  <img src="images/LK06-la.jpg" alt="Leichtathletik-Ausschreibungskalender der LG Domspitzmilch Regensburg" width="99" height="140" border="0">
                 </a>
               </p>
               <p> </p>

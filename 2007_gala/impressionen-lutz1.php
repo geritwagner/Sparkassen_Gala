@@ -20,60 +20,60 @@
           <tr>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3935_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3935_bearbeitet.jpg" width="190" height="263" />
               </div>
             </td>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3946_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3946_bearbeitet.jpg" width="190" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3956.jpg" width="175" height="263" />
+                <img src="lutz/IMG_3956.jpg" width="175" height="263" />
               </div>
             </td>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3959_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3959_bearbeitet.jpg" width="190" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3968.jpg" width="175" height="263" />
+                <img src="lutz/IMG_3968.jpg" width="175" height="263" />
               </div>
             </td>
             <td align="center">
               <div align="center">
-                <img src="photos/lutz/IMG_3972_bearbeitet.jpg" width="202" height="263" />
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td align="right">
-              <div align="center">
-                <img src="photos/lutz/IMG_3976_bearbeitet.jpg" width="260" height="188" />
-              </div>
-            </td>
-            <td align="left">
-              <div align="center">
-                <img src="photos/lutz/IMG_3978_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3972_bearbeitet.jpg" width="202" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="right">
               <div align="center">
-                <img src="photos/lutz/IMG_3988_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3976_bearbeitet.jpg" width="260" height="188" />
               </div>
             </td>
             <td align="left">
               <div align="center">
-                <img src="photos/lutz/IMG_4000_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/IMG_3978_bearbeitet.jpg" width="190" height="263" />
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td align="right">
+              <div align="center">
+                <img src="lutz/IMG_3988_bearbeitet.jpg" width="190" height="263" />
+              </div>
+            </td>
+            <td align="left">
+              <div align="center">
+                <img src="lutz/IMG_4000_bearbeitet.jpg" width="190" height="263" />
               </div>
             </td>
           </tr>

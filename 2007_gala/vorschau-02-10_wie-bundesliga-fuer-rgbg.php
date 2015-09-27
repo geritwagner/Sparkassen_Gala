@@ -16,7 +16,7 @@
         <br />
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="http://www.lg-regensburg.de/photos/Mockenhaupt_Ring1-Gala06-kiefner.jpg" width="151" height="214" align="left" vspace="2" hspace="6" />
+            <img src="images/Mockenhaupt_Ring1-Gala06-kiefner.jpg" width="151" height="214" align="left" vspace="2" hspace="6" />
           </font>Regensburg, 10. Februar 2007 (mz) - Im Vorjahr stieß die Sommer-Gala der LG Domspitzmilch Regensburg in neue Größenordnungen vor. Die komplette nationale Elite maß damals am 17. Juni im Universitätsstadion die Kräfte. Auch 2007, diesmal am 9. Juni soll die Veranstaltung ihren herausragenden Charakter behalten – am besten viele Jahre darüber hinaus. MZ-Redakteur Claus Wotruba sprach mit Kurt Ring, dem sportlichen Leiter, über das größte Dauer-Veranstaltungsprojekt der LG Domspitzmilch.</p>
         <p>
           <em>Herr Ring, ist es tatsächlich möglich, das Niveau der Vorjahres-Veranstaltung auf Dauer zu halten?</em>

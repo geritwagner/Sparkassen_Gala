@@ -82,7 +82,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Blum,Christian4_int.jpg" width="140" height="200" hspace="6" vspace="2" align="right" />Schon im Winter hat Christian Blum die Muskeln spielen lassen. Der Münchner, kaum der Jugendklasse entwachsen, holte sich auf Anhieb den Männertitel über 60 m in der Halle und verfehlte nur um Tausendstel den Einzug ins Hallen-EM-Finale. Unvergessen der Jubel eines Ronny Ostwald, als er im letzten Jahr bei der Gala mit 10,24 deutsche Jahresbestleistung lief, damit auf den EM-Zug aufsprang und tatsächlich ins Finale kam. Heuer hat der Münchner Jungspunt schon eine deutliche Duftmarke abgsetzt. Bei exakt 10,26 blieben die Uhren in Weinheim stehen, die WM-Norm von 10,21 seitdem kein Unding mehr. Christian Blum will nach Osaka, die anderen auch, zumindest mit der Staffel. Die Meldeliste mit den alten Recken Marius Broening und Marc Blume, aber auch den jungen Himmelsstürmer um Alexis Platini Menga und Julia Reus, beihaltet die gesamte deutsche Elite.</font>
+            <img src="images/Blum,Christian4_int.jpg" width="140" height="200" hspace="6" vspace="2" align="right" />Schon im Winter hat Christian Blum die Muskeln spielen lassen. Der Münchner, kaum der Jugendklasse entwachsen, holte sich auf Anhieb den Männertitel über 60 m in der Halle und verfehlte nur um Tausendstel den Einzug ins Hallen-EM-Finale. Unvergessen der Jubel eines Ronny Ostwald, als er im letzten Jahr bei der Gala mit 10,24 deutsche Jahresbestleistung lief, damit auf den EM-Zug aufsprang und tatsächlich ins Finale kam. Heuer hat der Münchner Jungspunt schon eine deutliche Duftmarke abgsetzt. Bei exakt 10,26 blieben die Uhren in Weinheim stehen, die WM-Norm von 10,21 seitdem kein Unding mehr. Christian Blum will nach Osaka, die anderen auch, zumindest mit der Staffel. Die Meldeliste mit den alten Recken Marius Broening und Marc Blume, aber auch den jungen Himmelsstürmer um Alexis Platini Menga und Julia Reus, beihaltet die gesamte deutsche Elite.</font>
         </p>
         <p>
           <font size="1" face="Arial, Helvetica, sans-serif" class="note">Foto: Christian Blum </font>
@@ -96,7 +96,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Unger,Tobias1_200m-maenner_int.jpg" width="148" height="210" hspace="6" vspace="2" align="right" />
+            <img src="images/Unger,Tobias1_200m-maenner_int.jpg" width="148" height="210" hspace="6" vspace="2" align="right" />
           </font>Er war der uneingeschränkte Sprintstar der letztjährigen Gala. Unnachahmlich, wie der Schwabenpfeil bei seinen 20,65 durch die Kurve der Uni-Bahn flitzte. Es sollte nur der erste Auftakt für eine erfolgreiche EM-Saison sein. Sein Körper sagte dann aber nein. Eine langwierige Verletzung verhinderte weitere Wettkämpfe. Jetzt ist er wieder im Geschäft. Tobias Unger begann 2007 mit einer 20,57 und unterbot auf Anhieb die WM-Norm. In Regensburg soll der zweite Streich folgen. Sebastian Ernst ist solche Zeiten im Olympiajahr 2004 auch schon gelaufen. Seitdem tut er sich ein wenig schwer. Auch Daniel Schnelting kann Richtung 20,59 laufen. Das hat er 2005 als U20-Junioren-Europameister bewiesen. Hecht im Karpfenteich will der Südafrikaner Hannes Dreer sowohl über die 100 m als auch über die 200 m sein. Der ehemalige Weltmeister über die 200 m und Unter-Zwanzig-Sekunden-Mann Frankie Fredericks aus Namibia, seit kurzem Co-Coach der deutschen Sprinter wird auch in Regensburg
           weilen.</p>
         <p>
@@ -111,7 +111,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Schultz,Ingo11_int.jpg" width="150" height="213" hspace="6" vspace="2" align="right" />
+            <img src="images/Schultz,Ingo11_int.jpg" width="150" height="213" hspace="6" vspace="2" align="right" />
           </font>Bastian Swillims war auf der Stadionrunde von Jugend an ein sehr Guter. Trotzdem, 45er Zeiten waren auch für ihn nicht einfach. In diesem Winter scheint nun der Knoten geplatzt zu sein. Mit einer Steigerung auf 45,62 holte sich der Wattenscheider in Birminham auf den engen Hallenkurven EM-Silber und nur ein dummer Rempler verhinderte Gold mit der 4x400 m Staffel. Im letzten Jahr bei der Gala noch unauffällig, könnte er diesmal einer der Stars im Uni-Stadion werden. Kommt Ingo Schultz, der Europameister von 2004? Sein Manager stellte dies durchaus in Aussicht. Der Zwei-Meter-Schlacks, ein ganz Ruhiger im Geschäft will im Sommer deutlich schneller laufen als in der Halle. Der dritte starke Deutsche ist Simon Kirsch, ebenfalls schon unter 46 Sekunden gelaufen. Der Tscheche Filip Klvana, aber auch die beiden Südafrikaner Johan Hanekom und Wouter Le Roux sollten nicht ganz diese Klasse erreichen könen. Mit im Rennen der deutsche 800 m Meister René Herms, der sich aber
           dennoch noch eine kleine Option für seine Spezialstrecke freihält.</p>
         <p>
@@ -126,7 +126,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Stewart,Jason3_800m_int.jpg" width="142" height="202" hspace="6" vspace="2" align="right" />
+            <img src="images/Stewart,Jason3_800m_int.jpg" width="142" height="202" hspace="6" vspace="2" align="right" />
           </font>Der neuseeländische „Bayer“ im Domspitzmilch-Trikot, immerhin 2004 Olympia- und 2005 WM-Teilnehmer hat ein Heimspiel. 1:46,24 hat er stehen, 1:46,00 muss er laufen, um für Neuseeland bei der WM in Osaka am Start zu stehen. Seine nicht unbezwingbaren Gegner sind der Erfurter Andreas Freimann, der exakt im gleichen Rennen wie der Regensburger seine Bestmarke von 1:46,36 aufgestellt hat (Kassel 2004). Den beiden die Suppe versalzen wollen das „ewige Talent“ René Bauschinger, der sich im letzten Jahr aber dennoch still und leise mit seinen 1:47,04 an die 1:46er Zeiten herangeschlichen hat, und der Dortmunder Steffen Co, der solches eigentlich auch können müsste. Der Rest des Feldes wird sich wie im letzten Jahr irgendwo bei immer noch hochwertigen 1:48 einordnen. Ganz sicher wird es kein Parforcerennen eines René Herms des letzten Jahres geben, als der Neu-Braunschweiger im Allein gangzu einer 1:45,81 stürmte, es sei denn, er steht doch noch im letzten Moment an der Startlinie</p>
         <p>
           <font size="1" face="Arial, Helvetica, sans-serif" class="note">Foto: Jason Stewart</font>
@@ -140,7 +140,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Eberhardt,Stefan4_int.jpg" width="170" height="241" hspace="6" vspace="2" align="right" />
+            <img src="images/Eberhardt,Stefan4_int.jpg" width="170" height="241" hspace="6" vspace="2" align="right" />
           </font>Stefan Eberhardt, der mehrmalige deutsche Mittelstreckenmeister, steht mit seiner letztjährigen Gala-Zeit von 3:39,93 an der Spitze der Meldeliste. Dahinter in Lauerstellung der Vierte vom vorigen Jahr, Christian Neuhäuserer aus Südtirol (3:40,57), der ehemalige deutsche Juniorenmeister Toni Mohr, auch schon in der vergangenen Jahren unter der 3:40 angesiedelt gewesen, und natürlich Wolfram Müller. Der Pirnaer, immer wieder hin und her springend zwischen internationaler Klasse und Leistungs-/Verletzungstief ist schon mal eine 3:35 gelaufen und galt lnge Zeit als Nachfolger Dieter Baumanns. Torben Grothaus ist einer, der sich in den letzten Jahren kontinuierlich bis zu einer 3:42 ,57 gesteigert hat.</p>
         <p>
           <font size="1" face="Arial, Helvetica, sans-serif" class="note">Foto: Stefan Eberhardt</font>
@@ -154,7 +154,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Balzer_Burkhardt1_int.jpg" width="219" height="181" hspace="6" vspace="2" align="right" />
+            <img src="images/Balzer_Burkhardt1_int.jpg" width="219" height="181" hspace="6" vspace="2" align="right" />
           </font>Namen im deutschen Hürdensprint um die Jahrtausendwende hatten in der Welt Klang und Bedeutung. Die Zeiten haben sich geändert. Einzig der Gala-Sieger des letzten Jahres Thomas Blaschek, seines Zeichens Silbermedaillengewinner der EM, kann da mit einer 13,33 anschließen. Mit Jens Werrmann hat ein ganz Junger in Göteborg angedeutet, dass da wieder was kommen könnte. Immerhin lief der im Endlauf der EM von Göteborg eine 13,60 bei 1,1 m/sec Gegenwind, und wurde dafür mit Platz sechs belohnt. Bei günstigeren Verhältnissen kann man da schon über die WM-Norm von 13,59 nachdenken. Regensburg ist da eine Option. Die nationale Elite, außer Blaschek, ist jedenfalls in Gesamtheit am Start.</p>
         <p> </p>
         <a name="m400h"></a>
@@ -173,7 +173,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Ghirmai,Filmon6_int.jpg" width="158" height="225" hspace="6" vspace="2" align="right" />
+            <img src="images/Ghirmai,Filmon6_int.jpg" width="158" height="225" hspace="6" vspace="2" align="right" />
           </font>Im letzten Jahr lief Filmon Ghirmai bei der Gala deutsche Jahresbestleistung mit 8:33,76, der Dritte der deutschen Bestenliste, Stefan Hohl, seinen Jahreshausrekord von 8:34 ebenfalls in Regensburg. Ghirmai hat die Saison 07 nun in Rehlingen mit einem Sieg in 8:28 gegonnen, Hohl den Hindernissen ganz ade gesagt. Die 8:24 als WM-Norm sind wie im letzten Jahr eine hohe Hürde. In die ganz schnellen Rennen kommen die Deutschen selten rein, bei den anderen Events fehlt oft die europäische Konkurrenz. Irgendwie sind sie sich aber auch nicht einig. Zu viert, zu fünft, denjenigen, der an diesem, einen Tag sich als Bester herausstellt, ist gar nicht so schwer. Steffen Uliczka, der deutsche Juniorenmeister mit einer 8:37,65 wird’s
           nicht leicht haben, unter die 8:30 zu kommen.</p>
         <p> </p>
@@ -201,7 +201,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Koenig,Oliver1_int.jpg" width="142" height="202" hspace="6" vspace="2" align="right" />
+            <img src="images/Koenig,Oliver1_int.jpg" width="142" height="202" hspace="6" vspace="2" align="right" />
           </font>Acht-Meter-Sprünge sind bei deutschen Weitspringern eine Seltenheit geworden. Oliver König war im letzten Jahr der einzige. Bei genau 8,01 landete er bei der Gala. 2007 ist er wieder dabei. Diesmal hat er Konkurrenz aus Tschechien bekommen. Stepan Wagner hat immerhin schon eine 8,1 stehen, dahinter tut sich mit Roman Nowotny (Tschechien/7,92), Christian Reif (7,91), Christian Kaczmarek (2005 mit einer 8,11 notiert, 2007/7,87), dem Altmeister Kofi Amoah Prah (ebenfalls schon über 8,00 gesprungen) und Peter Rapp (7,89) einiges. Mit am Start auch die drei Lokalmatadoren Bayernmeister Christoph Lehner (7,41), Altmeister Peter Hargasser (7,20) und Neu-Sieben-Meter-Mann Phillipp Sellack.</p>
         <p>
           <font size="1" face="Arial, Helvetica, sans-serif" class="note">Foto: Oliver König </font>
@@ -215,7 +215,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Stolle_stab-maenner_int.jpg" width="139" height="198" hspace="6" vspace="2" align="right" />
+            <img src="images/Stolle_stab-maenner_int.jpg" width="139" height="198" hspace="6" vspace="2" align="right" />
           </font>Die Konstellation des letztjährigen Gala-Wettbewerbes wird Regensburg so schnell nicht mehr sehen. Deutschlands „teuerste“ Disziplin ist ohne den Druck der einmaligen EC-Qualifikationsform nicht zu bezahlen. Das Feld der diesjährigen Gala ist trotzdem nicht ohne. Der Engländer Steven Lewis hat eine 5,60 stehen, mit einem Amerikaner (Bestleistung 5,70) stehen die Verhandlungen gut und Athleten wie Alexander Straub, Oliver Frey und Patrick Schütz können durchaus in Bereiche von 5,60 vorstoßen. Gibt es vor Regensburg im Stabhoch-Nominierungspoker für den Europacup keine klaren Tendenzen, wird sicher der eine oder andere deutsche Spitzenmann ganz kurzfristig in der Domstadt aufkreuzen.</p>
         <p> </p>
         <a name="mkugelspeer"></a>
@@ -235,7 +235,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Sailer,Verena1_100m_int.jpg" width="138" height="196" hspace="6" vspace="2" align="right" />
+            <img src="images/Sailer,Verena1_100m_int.jpg" width="138" height="196" hspace="6" vspace="2" align="right" />
           </font>Alles aber auch alles scheint sich auf das große Duell Verena Sailer kontra Glamourgirl Sina Schielke zu fokusieren. 11.30 als WM-Norm sind eine hohe Hürde. Von der Bayerin sind solche Werte noch nie erzielt worden, für Sina Schilke liegt das schon einige Zeit zurück. In Regensburg wollen beide in solche Regionen vorstoßen. Dahinter reihen sich Vorjahressiegerin Katja Wakan (11,37), die mehrmalige deutsche Meisterin Marion Wagner und Cathleen Tschirch ein. Wer wird am Ende die Nase
           vorn haben? Eine spannende Frage.</p>
         <p>
@@ -250,7 +250,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Moeller,Sandra_int.jpg" width="139" height="198" hspace="6" vspace="2" align="right" />
+            <img src="/Moeller,Sandra_int.jpg" width="139" height="198" hspace="6" vspace="2" align="right" />
           </font>Quai als letzte Hinterlassenschaft ließ die inzwischen zurückgetretene Birgit Rockmeier ihre 22,94 in Regensburg zurück. 23,10 sollten aber auch für Jala Gangnus, Cathleen Tschirch und Sina Schielke machbar sein, sofern der Wind ihnen im erlaubten Rahmen in den Rücken bläst. Die Welt der Klasseläuferinnen über 200 m beginnt jenseits dieser 23 Sekunden. Regensburg ist für so ein Unternehmen ein wirklich gutes Pflaster. Lassen wir uns überraschen, wer die deutsche Vorherrschaft im Langsprint
           der Frauen beansprucht.</p>
         <p>
@@ -263,7 +263,7 @@
           <br />
           <span style="font-weight: bold">
             <font face="Arial, Helvetica, sans-serif" size="2">
-              <img src="photos/Hoffmann,Claudia1_int.jpg" width="140" height="200" hspace="6" vspace="2" align="right" />
+              <img src="images/Hoffmann,Claudia1_int.jpg" width="140" height="200" hspace="6" vspace="2" align="right" />
             </font>Claudia Hoffmann hofft auf eine erneute Zeit unter 52 Sekunden</span>
         </p>
         <p>51er Zeiten auf der Stadionrunde von deutschen Frauen erzielt können nicht all zu oft vermerkt werden. Claudia Hoffmann hat es im letzten Jahr bei der Gala mit 51,88 vorgemacht. Zumindest Korinna Fink kann solche Zeiten auch in Betracht ziehen. Sicher wollen sich Anja Pollmächer und Anja Neubert auch noch mit guten Zeiten unter 53 Sekunden für die Europacup 4x400 m Staffel empfehlen.</p>
@@ -280,7 +280,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Duerrenmatt_Hartmann1__int.jpg" width="141" height="198" hspace="6" vspace="2" align="right" />
+            <img src="images/Duerrenmatt_Hartmann1__int.jpg" width="141" height="198" hspace="6" vspace="2" align="right" />
           </font>Die 800 m sind nicht gerade eine starke Disziplin des DLV. Seitdem Claudia Gesell nicht mehr die Kunststoffbahnen der Welt umkreist, ist auch nicht mehr an Zeiten unter zwei Minuten zu denken. Monika Gratzki, ihre designierte Nachfolgerin, ist solche Zeiten bisher schuldig geblieben. Den Titel in der Halle hat überraschend Jana Hartmann gewonnen und auch gleich noch dafür in Birmingham bei der EM an den Start gehen dürfen. In Regensburg muss die Neu-Dortmunderin vor allem die Südtirolerin
           Oberstolz und die Tschechin Veronika Mrackova in Schach halten. Eine Zeit unter 2:03 könnte im Bereich des Möglichen liegen.</p>
         <p>
@@ -295,7 +295,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Krebs,Denise1_int.jpg" width="140" height="199" hspace="6" vspace="2" align="right" />
+            <img src="images/Krebs,Denise1_int.jpg" width="140" height="199" hspace="6" vspace="2" align="right" />
           </font>In einer Disziplin, in der es in Deutschland praktisch keine Spezialistin mehr gibt, könnte plötzlich eine ganz Junge den Ton angeben. Denise Krebs, im letzten Jahr immerhin im Uni-Stadion eine 4:18 gelaufen, durfte daraufhin zur Junioren-WM nach Peking mitfahren. Ihr Trainer Jens Boyde ist Regensburg-Fanatiker: „Hier ist Denise noch immer Bestzeit gelaufen. Die Junioren-Gala in Potsdam ist für uns ohne Bedeutung. Wir möchten in Regensburg starten.“ Am ehesten Paroli bieten sollte
           ihr die Tschechin Marcela Lustigova.</p>
         <p>
@@ -319,7 +319,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/huerden-frauen2_int.jpg" width="198" height="139" hspace="6" vspace="2" align="right" />
+            <img src="images/huerden-frauen2_int.jpg" width="198" height="139" hspace="6" vspace="2" align="right" />
           </font>Die EM-Zweite Kirsten Bolm war in Regensburg ein Thema. Die geforderten Gagen nicht. Die Gala-Macher sind noch nicht in der Lage, solche Summen auf den Tisch zu legen. So kommt denn die restliche deutsche Spitze, ohne Kirsten Bolm. An erster Stelle wäre da Judith Ritz zu nennen. Der Bundestrainer sagt, sie wäre fit, die Managerin klagt über „eine Verletzung vom Trainingslager“. Letztendlich werden wir wohl erst am 9. Juni wissen, was Sache ist und ob ihre 13,11 vom Vorjahr dann der Vergangenheit angehören. Genauso stark dürfte die Sindelfingerin Tina Klein (13,29) und Nadine Hentschke einzuschätzen sein. Beide sind schon mal unter 13 Sekunden gelaufen. Wie sich Lokalmatadorin Karin Ertl nach Götzis-Erkältung und vor dem ultimativen Mehrkampfstart in Ratingen schlägt, bleibt eine weitere interessante Frage. Auch ihre bayerische Dauerkonkurrentin Carolin Bogenrieder wird in Regensburg in die Saison einsteigen. Mit Naomi Schellekens und Pamela Spindler schickt die LG Domspitzmilch noch zwei weitere Hürdlerinnen ins Rennen, die schon unter 14 Sekunden gelaufen sind.</p>
         <p> </p>
         <a name="f3000h"></a>
@@ -330,7 +330,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Tschurtschenthaler_Bultmann_3hindernis-frauen_int.jpg" width="153" height="218" hspace="6" vspace="2" align="right" />
+            <img src="images/Tschurtschenthaler_Bultmann_3hindernis-frauen_int.jpg" width="153" height="218" hspace="6" vspace="2" align="right" />
           </font>Für die 3000 m Hindernisläuferinnen gibt es in diesem Jahr mehrere Optionen. Die erst wäre die U23-EM in Debrecen, die mit Verena Dreier, Julia Hiller, der Domspitzmilch-Läuferin Susi Lutz und Carolin Lang aus Freiburg gleich vier ansteuern können. Bleiben tatsächlich alle Vier unter den geforderten 10:08,00, muss die schlechteste zu Hause bleiben. Verena Dreier, die EM-Teilnehmerin des letzten Jahres und Ranglistenführende von 2006 mit 9:48, hat schon mal mit einer 10:03 vorgelegt. Das dürfte für Debrecen reichen. Für die EC-Karte muss sie Julia Hiller, die Aufsteigerin der letzten Saison in Schach halten, für die WM ist eine Zeit von 9:48,00 gefordert. Mit im Rennen die österreichische WM-Kandidatin Andrea Mayr, schon unter zehn Minuten gelaufen, Asli Cakir aus der Türkei, die immer noch den deutschen Rekord haltende Melanie Schulz aus Erfurt und Lenka Packova aus Pilsen. </p>
         <p> </p>
         <a name="f4x100"></a>
@@ -357,7 +357,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/van B++hren,Kathrin3_weit-frauen_int.jpg" width="149" height="211" hspace="6" vspace="2" align="right" />
+            <img src="images/van Bhren,Kathrin3_weit-frauen_int.jpg" width="149" height="211" hspace="6" vspace="2" align="right" />
           </font>Dreimal die „Sechs“ hat die 29-jährige Tschechin Martina Darmovzalova in ihrer Bestlesitung stehen. Da fehlen zur WM-Norm auch nur noch vier Zentimeter. Den Sieg streitig machen will ihr Urszula Gutowicz-Westhof aus Berlin, die auch schon mal auf eine 6,62 hinausgeflogen ist. 6,54 lautet die Bestmarke von Nadine Jajobs vom TSV Bayer 04 Leverkusen und auch Bianca Dürr aus Bregenz und Sofia Schulte können mit ihren angegebenen 6,34 bzw. 6,29 satt über sechs Meter springen. Letztere
           sprang schon 2005 6,60 weit und verfehlte die WM in Helsinki nur ganz knapp.</p>
         <p>
@@ -372,7 +372,7 @@
         </p>
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="photos/Hingst,Carolin3_int.jpg" width="152" height="214" hspace="6" vspace="2" align="right" />
+            <img src="images/Hingst,Carolin3_int.jpg" width="152" height="214" hspace="6" vspace="2" align="right" />
           </font>Im letzten Jahr kassierten gleich vier Springerinnen bei der Gala die EM-Prämie für die damals geforderten 4,40. Für Osaka sind diesmal 4,45 gefordert. Betrachtet man das Starterinnenfeld mit den beiden 4,70 Frauen Caroline Hingst und Yvonne Buschbaum, sowie den dahinter postierten Julia Hütter (4,55), Martina Strutz (4,50), Anna Battke (4,45) und Floe Kühnert (4,42). Nach ihren erneut aufgetretenen Beinproblemen steht hinter Yvonne Buschbaum noch ein großes Fragezeichen. Die Regensburger Farben vertritt „Weltenbummlerin“ Iris Hill, ihres Zeichens Senioren-Weltmeisterin und mit einer letztjährig übersprungenen 4,20 immer noch gut im Geschäft.</p>
         <p>
           <font size="1" face="Arial, Helvetica, sans-serif" class="note">Foto: Caroline Hingst </font>

@@ -20,77 +20,77 @@
           <tr>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7678.jpg" width="320" height="213" />
+                <img src="lutz/_MG_7678.jpg" width="320" height="213" />
               </div>
             </td>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7675.jpg" width="175" height="263" />
+                <img src="lutz/_MG_7675.jpg" width="175" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7687.jpg" width="175" height="263" />
+                <img src="lutz/_MG_7687.jpg" width="175" height="263" />
               </div>
             </td>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7698.jpg" width="175" height="263" />
+                <img src="lutz/_MG_7698.jpg" width="175" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7753.jpg" width="175" height="263" />
+                <img src="lutz/_MG_7753.jpg" width="175" height="263" />
               </div>
             </td>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7761_bearbeitet.jpg" width="189" height="263" />
+                <img src="lutz/_MG_7761_bearbeitet.jpg" width="189" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7785_bearbeitet.jpg" width="320" height="231" />
+                <img src="lutz/_MG_7785_bearbeitet.jpg" width="320" height="231" />
               </div>
             </td>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7796_bearbeitet.jpg" width="189" height="263" />
+                <img src="lutz/_MG_7796_bearbeitet.jpg" width="189" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7833_bearbeitet.jpg" width="320" height="231" />
+                <img src="lutz/_MG_7833_bearbeitet.jpg" width="320" height="231" />
               </div>
             </td>
             <td align="center" valign="middle">
               <div align="center">
-                <img src="photos/lutz/_MG_7813_bearbeitet.jpg" width="190" height="263" />
+                <img src="lutz/_MG_7813_bearbeitet.jpg" width="190" height="263" />
               </div>
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
-              <img src="photos/lutz/_MG_7823-1.jpg" width="320" height="213" />
+              <img src="lutz/_MG_7823-1.jpg" width="320" height="213" />
             </td>
             <td align="center" valign="middle">
-              <img src="photos/lutz/_MG_7824_bearbeitet.jpg" width="189" height="263" />
+              <img src="lutz/_MG_7824_bearbeitet.jpg" width="189" height="263" />
             </td>
           </tr>
           <tr>
             <td align="center" valign="middle">
-              <img src="photos/lutz/_MG_7831_bearbeitet.jpg" width="320" height="231" />
+              <img src="lutz/_MG_7831_bearbeitet.jpg" width="320" height="231" />
             </td>
             <td align="center" valign="middle">
-              <img src="photos/lutz/_MG_7808_bearbeitet.jpg" width="190" height="263" />
+              <img src="lutz/_MG_7808_bearbeitet.jpg" width="190" height="263" />
             </td>
           </tr>
         </table>

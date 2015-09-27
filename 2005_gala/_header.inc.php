@@ -57,22 +57,9 @@ $mA = $menu['active'];
           <div id="nav_main">
             <ul class="adxm menu">
               <li<? if($m=='aktuelles' ) echo $mA; ?>><a href="index.php">Aktuelles</a></li>
-                <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="rueckblick/">Rückblick</a>
-                  <ul>
-                    <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2011/" target="_blank">Jahr 2011</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2010/" target="_blank">Jahr 2010</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2009/" target="_blank">Jahr 2009</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Jahr 2008</a></li>
-                    <li><a href="http://www.sparkassen-gala.de/2007/" target="_blank">Jahr 2007</a></li>
-                    <li><a href="http://www.lg-regensburg.de/2006_gala/" target="_blank">Jahr 2006</a></li>
-                    <li><a href="rueckblick/2005.php">Jahr 2005</a></li>
-                    <li><a href="rueckblick/2004.php">Jahr 2004</a></li>
-                  </ul>
+              <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="rueckblick.php">Rückblick</a>
+                <?php require("rueckblick_alle.php"); ?>
                   </li>
-
             </ul>
           </div>
         </div>

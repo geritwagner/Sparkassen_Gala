@@ -1,21 +1,4 @@
 <?php require("_header.inc.php"); ?>
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="images/kreis.gif" height="20" alt="" />
-      </td>
-      <td width="83%" class="newsTitle">Große Foto-Galerie von Theo Kiefner ist online</td>
-      <td width="17%" class="newsDate">23. Juni 2006</td>
-      <td>
-        <img src="images/kreis-rechts.gif" height="20" alt="" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" class="news">
-        <br /> Sportfotograph Theo Kiefner hat eine zweite Galerie erstellt, zu dieser gelangen Sie <a href="http://www.lg-regensburg.de/kiefner/gala_06-2/index.htm" target="_blank">hier</a> ...
-      </td>
-    </tr>
-  </table>
   <br>
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -31,24 +14,6 @@
     <tr>
       <td colspan="4" class="news">
         <br /> Zu einer weiteren Fotogalerie von Jörg Behrendt gelangen Sie <a href="http://www.joergbehrendt.de/Fotos/Fotos_Regensburg_17062006/index.html" target="_blank">hier</a> ...
-      </td>
-    </tr>
-  </table>
-  <br>
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="images/kreis.gif" height="20" alt="" />
-      </td>
-      <td width="83%" class="newsTitle">Große Foto-Galerie von Theo Kiefner ist online</td>
-      <td width="17%" class="newsDate">19. Juni 2006</td>
-      <td>
-        <img src="images/kreis-rechts.gif" height="20" alt="" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" class="news">
-        <br /> Zu den Bildern vom Sportfotographen Theo Kiefner gelangen Sie <a href="http://www.lg-regensburg.de/kiefner/gala_06/index.htm" target="_blank">hier</a> ...
       </td>
     </tr>
   </table>

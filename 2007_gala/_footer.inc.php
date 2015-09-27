@@ -11,7 +11,7 @@
 	</td>
 </tr>
 <tr align="center">
-	<td class="copy">© 2005 - <a href="impressum.php" class="copy">Impressum</a></td>
+	<td class="copy">© 2007 - <a href="impressum.php" class="copy">Impressum</a></td>
 </tr>
 </table>
 </body>

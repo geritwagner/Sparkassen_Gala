@@ -13,27 +13,8 @@
     <tr>
       <td colspan="4" class="news">
         <br />
-        <font size="2" face="Arial, Helvetica, sans-serif">Soeben haben wir vom Sportfotografen Ludwig Lutz eine große Auswahl an Bildern zur Domspitzmilch Gala zur Verfügung gestellt bekommen. <a href="http://www.lg-regensburg.de/lutz/2007_gala/index.html" target="_blank">Hier</a> geht's weiter zur großen
+        <font size="2" face="Arial, Helvetica, sans-serif">Soeben haben wir vom Sportfotografen Ludwig Lutz eine große Auswahl an Bildern zur Domspitzmilch Gala zur Verfügung gestellt bekommen. <a href="http://www.lg-telis-finanz.de/lutz/2007_gala/index.htm" target="_blank">Hier</a> geht's weiter zur großen
           Galerie ...</font>
-      </td>
-    </tr>
-  </table>
-  <br />
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="images/kreis.gif" height="20" alt="" />
-      </td>
-      <td width="83%" class="newsTitle">Große Fotogalerie ist online </td>
-      <td width="17%" class="newsDate">10. Juni 2007</td>
-      <td>
-        <img src="images/kreis-rechts.gif" height="20" alt="" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" class="news">
-        <br />
-        <font size="2" face="Arial, Helvetica, sans-serif">Sportfotograf Theo Kiefner hat uns wieder eine große Auswahl an Bildern zur Domspitzmilch Gala zur Verfügung gestellt. <a href="http://www.lg-regensburg.de/kiefner/gala_07/index.html" target="_blank">Hier</a> geht's weiter zur großen Galerie ...</font>
       </td>
     </tr>
   </table>

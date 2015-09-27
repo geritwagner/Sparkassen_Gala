@@ -20,7 +20,6 @@
 					<li><a href="anfahrt.php">Anreise</a></li>
 					<li><a href="unterkunft.php">Unterkünfte</a></li>
 					<li><a href="http://www.leichtathletik.de/dokumente/medienservice/login.asp" target="_blank">Akkreditierung</a></li>
-					<li><a href="ticketservice-formular.php">Ticketbestellung</a></li>
 				</menu>
 			</td>
 		</tr>

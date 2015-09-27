@@ -16,7 +16,7 @@
         <br />
         <p>
           <font face="Arial, Helvetica, sans-serif" size="2">
-            <img src="http://www.lg-regensburg.de/photos/Unger,Tobias1-Gala06-kiefner.jpg" width="197" height="280" hspace="6" vspace="2" align="left" />Regensburg, 09. Mai 2007 (orv) – Alle Zeichen standen Richtung EM, damals bei der Europacupausscheidung an jenem 17. Juni im Regensburger Uni Stadion. Alles schien für Deutschlands Ausnahmesprinter Tobias Unger glatt zu laufen. Trotz leichtem Gegenwind machte er über 200 m mit 20,65 eine Punktlandung mit einer hundertstelgenauen Normerfüllung. Alles schien gerichtet, doch Tobias Ungers Körper sagte nein. Eine langwierige Verletzung zwang ihn zur einjährigen Pause. Aus der Traum
+            <img src="images/Unger,Tobias1-Gala06-kiefner.jpg" width="197" height="280" hspace="6" vspace="2" align="left" />Regensburg, 09. Mai 2007 (orv) – Alle Zeichen standen Richtung EM, damals bei der Europacupausscheidung an jenem 17. Juni im Regensburger Uni Stadion. Alles schien für Deutschlands Ausnahmesprinter Tobias Unger glatt zu laufen. Trotz leichtem Gegenwind machte er über 200 m mit 20,65 eine Punktlandung mit einer hundertstelgenauen Normerfüllung. Alles schien gerichtet, doch Tobias Ungers Körper sagte nein. Eine langwierige Verletzung zwang ihn zur einjährigen Pause. Aus der Traum
             vom Europameistertitel. </font>
         </p>
         <p>
