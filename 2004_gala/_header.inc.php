@@ -11,9 +11,9 @@ $mA = $menu['active'];
 
   <head>
     <title>
-      <?php if (!empty($title)) echo $title." - "; ?>Sparkassen Gala 2015</title>
+      <?php if (!empty($title)) echo $title." - "; ?>Domspitzmilch-Gala 2004</title>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Sparkassen Gala 2015, Sparkassen-Gala, German Meeting, Regensburg, Leichtathletik, Top-Meeting, Leichtathletik-Elite, Sprint, Hindernis, Hürden" />
+    <meta name="keywords" content="Domspitzmilch Gala 2004, Domspitzmilch-Gala, German Meeting, Regensburg, Leichtathletik, Top-Meeting, Leichtathletik-Elite, Sprint, Hindernis, Hürden" />
     <?php if (!empty($description)) echo "<meta name=\"description\" content=\"$description\" />"; ?>
       <?php /*if ($menu['current']=="live-ticker" && !empty($refresh)) echo $refresh."\n"; */?>
         <meta name="language" content="de" />
@@ -47,7 +47,7 @@ $mA = $menu['active'];
             <!-- end: skip link navigation -->
           </div>
           <div id="flashHeader">
-            <img src="images/design/header.jpg" width="900" height="245" alt="Sparkassen Gala 2015" />
+            <img src="images/design/header.png" width="900" height="245" alt="Domspitzmilch Gala 2004" />
           </div>
         </div>
         <!-- begin: main navigation #nav -->
@@ -57,65 +57,22 @@ $mA = $menu['active'];
           <div id="nav_main">
             <ul class="adxm menu">
               <li<? if($m=='aktuelles' ) echo $mA; ?>><a href="index.php">Aktuelles</a></li>
-                <li<? if($m=='news' ) echo $mA; ?>><a href="news/">News</a>
+                <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="rueckblick/">Rückblick</a>
                   <ul>
-                    <li><a href="news/vorschauen.php">Vorschauen</a></li>
-                    <li><a href="news/berichte.php">Berichte</a></li>
-                    <li><a href="">Impressionen   »</a>
-                      <ul id="navImpressionen">
-                        <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
-                        <li><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">von Kristian Volke</a></li>
-                        <li><a href="https://www.pictrs.com/sportlich-belichtet/8059759/laufnacht-zur-sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Laufnacht)</a></li>
-                        <li><a href="https://www.pictrs.com/sportlich-belichtet/9405370/sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Gala)</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video-Highlights<!--   »--></a>
-                      <!--<ul id="navImpressionen">
-					      <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video Highlights</a></li>
-						<li><a href="http://www.tvaktuell.com/default.aspx?ID=5164&showNews=743627" target="_blank">TV Aktuell</a></li>
-						  <li><a href="http://www.mittelbayerische.de/index.cfm?pid=10166&bcpid=55010322001&bclid=51364751001&bctid=90266147001" target="_blank">mittelbayerische.de</a></li>
-						</ul>-->
-                    </li>
+                    <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2011/" target="_blank">Jahr 2011</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2010/" target="_blank">Jahr 2010</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2009/" target="_blank">Jahr 2009</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Jahr 2008</a></li>
+                    <li><a href="http://www.sparkassen-gala.de/2007/" target="_blank">Jahr 2007</a></li>
+                    <li><a href="http://www.lg-regensburg.de/2006_gala/" target="_blank">Jahr 2006</a></li>
+                    <li><a href="rueckblick/2005.php">Jahr 2005</a></li>
+                    <li><a href="rueckblick/2004.php">Jahr 2004</a></li>
                   </ul>
                   </li>
-                  <li<? if($m=='infos' ) echo $mA; ?>><a href="infos/">Infos</a>
-                    <ul>
-                      <li><a href="infos/wissenswertes.php">Wissenswertes / <br />Important notes</a></li>
-                      <li><a href="infos/stadt-regensburg.php">Stadt Regensburg</a></li>
-                      <li><a href="infos/anreise.php">Anreise / Anfahrt</a></li>
-                      <li><a href="infos/eintrittspreise.php">Eintrittspreise</a></li>
-                      <li><a href="infos/unterkuenfte.php">Unterkünfte</a></li>
-                      <li><a href="infos/kontakt.php">Kontakt</a></li>
-                      <li><a href="infos/akkreditierung.php">Presse</a></li>
-                      <li><a href="http://tinyurl.com/6zgldm" target="_blank">Wetter</a></li>
-                    </ul>
-                    </li>
-                    <li<? if($m=='ausschreibung' ) echo $mA; ?>><a href="ausschreibung.php">Ausschreibung</a></li>
-                      <li<? if($m=='zeitplan' ) echo $mA; ?>><a href="zeitplan.php">Zeitplan</a></li>
-                        <li<? if($m=='teilnehmer' ) echo $mA; ?>><a href="teilnehmer.php">Teilnehmer</a></li>
-                          <li<? if($m=='livestream' ) echo $mA; ?>><a href="live-stream.php">Livestream</a></li>
-                            <li<? if($m=='ergebnisse' ) echo $mA; ?>><a href="ergebnisse.php">Ergebnisse</a></li>
-                              <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="rueckblick/">Rückblick</a>
-                                <ul>
-                                  <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2011/" target="_blank">Jahr 2011</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2010/" target="_blank">Jahr 2010</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2009/" target="_blank">Jahr 2009</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Jahr 2008</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2007/" target="_blank">Jahr 2007</a></li>
-                                  <li><a href="http://www.lg-regensburg.de/2006_gala/" target="_blank">Jahr 2006</a></li>
-                                  <li><a href="rueckblick/2005.php">Jahr 2005</a></li>
-                                  <li><a href="rueckblick/2004.php">Jahr 2004</a></li>
-                                </ul>
-                                </li>
-                                <li<? if($m=='sponsoren' ) echo $mA; ?>><a href="sponsoren/">Sponsoren</a></li>
-                                  <li<? if($m=='english' ) echo $mA; ?>>
-                                    <a href="download/sparkassen_gala_2015_english.pdf" target="blank">
-                                      <img src="images/design/british-flag.jpg"></img>
-                                    </a>
-                                    </li>
+
             </ul>
           </div>
         </div>
@@ -127,19 +84,6 @@ $mA = $menu['active'];
             <div id="col1_content" class="clearfix">
 
               <br />
-              <p>
-                <strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2015_ausschreibungen/06-05_laufnacht.pdf">Infos</a>):
-                  <br>Freitag, 05. Juni 2015</strong>
-              </p>
-              <h4>Sponsoren</h4>
-
-              <br />
-              <a href="http://www.sparkasse-regensburg.de/" target="_blank" class="imagelink" title="Sparkasse Regensburg">
-                <img src="images/sponsoren/col1/sparkasse-regensburg.gif" width="200" height="90" alt="Sparkasse Regensburg" />
-              </a>
-              <br />
-
-              <iframe name="sponsoren" width="190" height="350" frameborder="0" src="sponsoren/iframe.html" scrolling="no"></iframe>
 
             </div>
           </div>
@@ -156,7 +100,5 @@ $mA = $menu['active'];
               <!-- skip anchor: content -->
               <a id="content" name="content"></a>
               <br />
-              <!-- Besonderes	-->
-              <h4 class="hinweis" style="text-align:center;"><a href="news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="ergebnisse.php">»Gesamtergebnisliste</a> und <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
-                target="_blank">»erste Videos</a> sind online</h4>
+
               <br />

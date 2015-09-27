@@ -9,7 +9,6 @@
 <!-- begin: #footer -->
 </div>
 <div id="copyright">© 2005 athletics SPORT GmbH</div>
-<!-- Google Analytics -->
 
 </body>
 

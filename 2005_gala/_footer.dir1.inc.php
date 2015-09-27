@@ -8,8 +8,6 @@
 <!-- end: #main -->
 <!-- begin: #footer -->
 
-<!-- end: #footer -->
-</div>
 </div>
 <div id="copyright">© 2005 athletics SPORT GmbH</div>
 

@@ -22,12 +22,13 @@
 
 	# start script in directory: ~/gala
 
-	for d in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	for d in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
 	cd ${d}_gala
-	for i in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	for i in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
 	rm $i
 	ln -s ../${i}_gala/ ${i}
 	done
+	ln -s ../rueckblick_alle.php rueckblick_alle.php
 	cd ..
 	done
 
@@ -44,6 +45,13 @@
 	Impressionen:
 	ln -s ../../media/images/gala/20XY_impressionen/ impressionen
 	```
+
+Der Rückblick wird über folgendes Skript abgebildet:
+	```
+	<li<? if($m=='rueckblick' ) echo $mA; ?>><a href="../rueckblick.php">Rückblick</a>
+		<?php require("rueckblick_alle.php"); ?>
+			</li>
+		```
 * Neues Banner einfügen
 * Menü/Rückblick um das letzte Jahr erweitern
 * Alte Daten löschen (Downloads, etc.), Hinweise einfügen

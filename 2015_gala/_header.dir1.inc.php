@@ -91,27 +91,15 @@ $mA = $menu['active'];
                         <li<? if($m=='teilnehmer' ) echo $mA; ?>><a href="../teilnehmer.php">Teilnehmer</a></li>
                           <li<? if($m=='livestream' ) echo $mA; ?>><a href="../live-stream.php">Livestream</a></li>
                             <li<? if($m=='ergebnisse' ) echo $mA; ?>><a href="../ergebnisse.php">Ergebnisse</a></li>
-                              <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="../rueckblick/">Rückblick</a>
-                                <ul>
-                                  <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2011/" target="_blank">Jahr 2011</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2010/" target="_blank">Jahr 2010</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2009/" target="_blank">Jahr 2009</a></li>
-                                  <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Jahr 2008</a></li>
-                                  <li><a href="http://www.domspitzmilch-gala.de/" target="_blank">Jahr 2007</a></li>
-                                  <li><a href="http://www.lg-regensburg.de/2006_gala/" target="_blank">Jahr 2006</a></li>
-                                  <li><a href="rueckblick/2005.php">Jahr 2005</a></li>
-                                  <li><a href="rueckblick/2004.php">Jahr 2004</a></li>
-                                </ul>
-                                </li>
-                                <li<? if($m=='sponsoren' ) echo $mA; ?>><a href="../sponsoren/">Sponsoren</a></li>
-                                  <li<? if($m=='english' ) echo $mA; ?>>
-                                    <a href="../download/sparkassen_gala_2015_english.pdf" target="blank">
-                                      <img src="../images/design/british-flag.gjpg"></img>
-                                    </a>
-                                    </li>
+                              <li<? if($m=='rueckblick' ) echo $mA; ?>><a href="../rueckblick.php">Rückblick</a>
+                                <?php require("rueckblick_alle.php"); ?>
+                                  </li>
+                                  <li<? if($m=='sponsoren' ) echo $mA; ?>><a href="../sponsoren/">Sponsoren</a></li>
+                                    <li<? if($m=='english' ) echo $mA; ?>>
+                                      <a href="../download/sparkassen_gala_2015_english.pdf" target="blank">
+                                        <img src="../images/design/british-flag.gjpg"></img>
+                                      </a>
+                                      </li>
             </ul>
           </div>
         </div>
