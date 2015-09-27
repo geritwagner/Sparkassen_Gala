@@ -4,6 +4,6 @@ if(is_file($teilnehmerliste)) {
   require($teilnehmerliste);
 }
 else {
-  echo "Falscher Link, bitte gehen Sie zur offiziellen Seite zurück: <a href=\"http://www.sparkassen-gala.de/teilnehmer.php\">Sparkassen Gala 2008</a>";
+  echo "Falscher Link, bitte gehen Sie zur offiziellen Seite zurÃ¼ck: <a href=\"http://www.sparkassen-gala.de/teilnehmer.php\">Sparkassen Gala 2008</a>";
 }
 ?>

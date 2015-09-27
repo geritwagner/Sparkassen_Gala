@@ -6,7 +6,7 @@
 <strong>Stand: 03. Juni 2010</strong><br />
 <br />
 
-<p>Zur Teilnehmerliste der Sparkassen Gala 2010 gelangen Sie hier: <a href="download/teilnehmer.htm" target="_blank">&raquo; Teilnehmerliste</a><br />
+<p>Zur Teilnehmerliste der Sparkassen Gala 2010 gelangen Sie hier: <a href="download/teilnehmer.htm" target="_blank">» Teilnehmerliste</a><br />
 </p>
 
 <br />

@@ -4,7 +4,7 @@
 <?php require("../_header.dir1.inc.php"); ?>
 
 <h2>Rückblick</h2>
-<strong>&nbsp;</strong>
+<strong> </strong>
 <br />
 <ul>
   <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Sparkassen Gala 2009</a></li>

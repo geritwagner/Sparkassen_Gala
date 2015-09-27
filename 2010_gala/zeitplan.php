@@ -26,36 +26,36 @@
     </tr>
     <tr>
       <th >9.30</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >100 m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >9.35</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >100 m ZEL</td>
     </tr>
     <tr>
       <th >9.50</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >1000 m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >10.00</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >800 m ZEL(2)</td>
       <td >800 m ZEL(2)</td>
       <td >800 m ZEL(1)<br />
@@ -63,12 +63,12 @@
     </tr>
     <tr>
       <th >10.20</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >200 m ZEL</td>
       <td >200 m ZEL </td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >10.55</th>
@@ -76,139 +76,139 @@
           ZEL</td>
       <td >200 m
           ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td>&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td> </td>
     </tr>
     <tr>
       <th >11.30</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >400 m Hü ZEL*</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >11.35</th>
       <td >400 m Hü ZEL*</td>
       <td >400 m Hü ZEL*</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >Weit  wJA
           (NP)</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >11.40</th>
-      <td >&nbsp;</td>
+      <td > </td>
       <td >Hoch
           E</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >11.50</th>
-      <td >&nbsp;</td>
+      <td > </td>
       <td>Weit mJB VE</td>
-      <td >&nbsp;</td>
+      <td > </td>
       <td >400 m
           ZEL</td>
       <td >400 m ZEL </td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >12.05</th>
       <td >400 m ZEL </td>
       <td >400 m ZEL </td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >12.40</th>
       <td >800 m ZEL</td>
       <td >800 m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >13.05</th>
       <td >Hoch  VE</td>
       <td >100m mJA/B ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >Weit wJB (NP)</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >13.35</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >100 m ZEL</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >13.55</th>
       <td >Weit B-W.</td>
       <td >Weit mJA VE</td>
-      <td >&nbsp;</td>
+      <td > </td>
       <td >100 m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >14.10</th>
       <td >100 m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >14.30</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >Weit VE (NP)</td>
       <td >100 m Hü VL</td>
       <td >100 m Hü ZEL*</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >14.45</th>
       <td >110 m Hü VL</td>
       <td >110 m Hü ZEL*</td>
-      <td >&nbsp;</td>
+      <td > </td>
       <td >Stabhoch E</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >15.00</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >100 m VL (A-C)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >15.10</th>
       <td >100 m VL (A-F)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
 	</table>
 	
@@ -233,173 +233,173 @@
       <td >110 m
           Hü EL</td>
       <td >110 m Hü DLV U20*</td>
-      <td >&nbsp;</td>
+      <td > </td>
       <td >Weit
           VE</td>
-      <td >&nbsp;</td>
-	  <td >&nbsp;</td>
+      <td > </td>
+	  <td > </td>
     </tr>
     <tr>
       <th >16.10</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >100 m
           Hü EL</td>
       <td >100 m Hü DLV U20*</td>
-      <td >&nbsp;</td>
+      <td > </td>
     </tr>
     <tr>
       <th >16.20</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >100 m
           EL(A+B)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >16.30</th>
       <td >100 m
           EL(A+B)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >16.40</th>
       <td >1500 m
           ZEL (A+B)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >17.00</th>
       <td >400m
           (A+B) * </td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >17.15</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >4x100
           m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >17.25</th>
       <td >4x100
           m ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >Hoch E</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >17.35</th>
       <td >Stabhoch
           E</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >400 m
           ZEL(A-B) * </td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >17.50</th>
       <td >Weit
           VE</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
       <td >1500m
           ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >18.10</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >200 m
           ZEL(A-C)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >18.30</th>
       <td >800 m
           ZEL(A+B)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >18.45</th>
       <td >200 m
           ZEL(A-C)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >19.05</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >800 m
           ZEL(A+B)</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >19.20</th>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
       <td >3000 m
           Hi ZEL ** </td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >19.40</th>
       <td >400 m
           H ZEL * </td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
     <tr>
       <th >19.45</th>
       <td >5000 m
           ZEL</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
-      <td >&nbsp;</td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
+      <td > </td>
     </tr>
   </table>
   
@@ -419,29 +419,29 @@
 	    <th>20.05</th>
 	    <td>3000 m
 	      Hi ** </td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
 	    </tr>
 	  <tr>
 	    <th >20.25</th>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
 	    <td >1500 m C-D</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
+	    <td > </td>
+	    <td > </td>
 	    </tr>
 	  <tr>
 	    <th >20.40</th>
 	    <td >1500 m C-F</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
-	    <td >&nbsp;</td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
+	    <td > </td>
 	    </tr>
 	  </table>
 	<br />
