@@ -18,31 +18,31 @@
       <tr>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Dreier,Verena1.JPG" width="300" height="200" />
+            <img src="photos/kiefner/Dreier,Verena1.jpg" width="300" height="200" />
           </div>
         </td>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Dreier,Verena2.JPG" width="200" height="300" />
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div align="center">
-            <img src="photos/kiefner/Lutz,Susi1.JPG" width="200" height="300" />
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            <img src="photos/kiefner/Lutz,Susi2.JPG" width="200" height="300" />
+            <img src="photos/kiefner/Dreier,Verena2.jpg" width="200" height="300" />
           </div>
         </td>
       </tr>
       <tr>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Hering,Robert1.JPG" width="200" height="300" />
+            <img src="photos/kiefner/Lutz,Susi1.jpg" width="200" height="300" />
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <img src="photos/kiefner/Lutz,Susi2.jpg" width="200" height="300" />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <img src="photos/kiefner/Hering,Robert1.jpg" width="200" height="300" />
           </div>
         </td>
         <td>
@@ -59,19 +59,19 @@
         </td>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Nwachukwu,Sorin1.JPG" width="200" height="300" />
+            <img src="photos/kiefner/Nwachukwu,Sorin1.jpg" width="200" height="300" />
           </div>
         </td>
       </tr>
       <tr>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Harrer,Corina1.JPG" width="200" height="300" />
+            <img src="photos/kiefner/Harrer,Corina1.jpg" width="200" height="300" />
           </div>
         </td>
         <td>
           <div align="center">
-            <img src="photos/kiefner/Unger,Tobias1.JPG" width="200" height="300" />
+            <img src="photos/kiefner/Unger,Tobias1.jpg" width="200" height="300" />
           </div>
         </td>
       </tr>
@@ -218,7 +218,7 @@
       <tr>
         <td>
           <div align="center">
-            <img src="photos/kiefner/klopsch_christiane-kiefner.JPG" width="200" height="300" />
+            <img src="photos/kiefner/klopsch_christiane-kiefner.jpg" width="200" height="300" />
           </div>
         </td>
         <td>

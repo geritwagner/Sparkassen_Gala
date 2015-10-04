@@ -22,7 +22,7 @@
       <div class="c50r">
         <div class="subcr center">
           <!-- Inhalt rechter Block -->
-          <img src="../photos/kiefner/2.JPG" />
+          <img src="../photos/kiefner/2.jpg" />
 
         </div>
       </div>
@@ -38,7 +38,7 @@
         <div class="c50r">
           <div class="subcr center">
             <!-- Inhalt rechter Block -->
-            <img src="../photos/kiefner/4.JPG" />
+            <img src="../photos/kiefner/4.jpg" />
 
           </div>
         </div>

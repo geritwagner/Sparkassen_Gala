@@ -195,7 +195,7 @@
 
                               <div class="c50r">
                                 <div class="subcr center">
-                                  <img src="../photos/kiefner/Eroeffnung2_KiefnerFoto.JPG" />
+                                  <img src="../photos/kiefner/Eroeffnung2_KiefnerFoto.jpg" />
                                 </div>
                               </div>
 

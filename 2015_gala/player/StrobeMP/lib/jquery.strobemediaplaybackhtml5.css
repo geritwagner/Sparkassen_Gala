@@ -9,7 +9,7 @@
 	width: 100%;
 	height: 50px;
 	bottom:0;
-	background: url(../html5-images/SMP_Tablet_InCon_Background.PNG) left top repeat-x;
+	background: url(../html5-images/SMP_Tablet_InCon_Background.png) left top repeat-x;
 }
 
 .html5player .icon{
@@ -125,7 +125,7 @@
 	color: white;
 	width: 100%;
 	text-align: center;
-	background: url(../html5-images/SMP_Tablet_InCon_Background.PNG) left top repeat-x;
+	background: url(../html5-images/SMP_Tablet_InCon_Background.png) left top repeat-x;
 	padding: 10px 0;
 	font-weight: bold;
 }

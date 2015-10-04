@@ -19,7 +19,7 @@
     <h2>Olympia-Normen in Regensburg</h2>
     <br>
     <p>
-      <img src="http://www.lg-telis-finanz.de/images/stories/2012/John_kiefner_2.JPG" height="120" class="float_left" title="Silvio Schirmeister (Kiefner-Foto)" />Regensburg, 02. Juni 2012 (leichtathletik.de) - Das Unistadion in Regensburg bietet am Samstag mit der Sparkassen-Gala eine Bühne für die deutschen Leichtathleten auf dem Weg zur EM in Helsinki (Finnland) und die Olympischen Spiele in London (Großbritannien).
+      <img src="http://www.lg-telis-finanz.de/images/stories/2012/John_kiefner_2.jpg" height="120" class="float_left" title="Silvio Schirmeister (Kiefner-Foto)" />Regensburg, 02. Juni 2012 (leichtathletik.de) - Das Unistadion in Regensburg bietet am Samstag mit der Sparkassen-Gala eine Bühne für die deutschen Leichtathleten auf dem Weg zur EM in Helsinki (Finnland) und die Olympischen Spiele in London (Großbritannien).
       Diese nutzten allen anderen voran die Hürden-Asse Alexander John (LAZ Leipzig) und Silvio Schirrmeister (LAC Erdgas Chemnitz) mit Olympia-Normen. Einen starken Auftritt zeigte Hürdensprinter Alexander John bereits im Vorlauf über 110 Meter Hürden.
       In 13,45 Sekunden unterbot der Leipziger die Olympia-Norm um vier Hundertstel. Bis auf eine Zehntel lief der 26-Jährige an seine persönliche Bestzeit heran. Im Finale legte er dann 13,46 Sekunden bei 2,6 Metern pro Sekunde Rückenwind nach und siegte damit vor dem Hamburger Helge Schwarzer (13,56 sec). <a href="http://www.leichtathletik.de/index.php?NavID=1&SiteID=28&NewsID=38462" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ...</p>
     <br>
@@ -35,7 +35,7 @@
       <strong>49,21 s bei der Sparkassen-Gala 2012</strong>
     </p>
     <p>
-      <img src="impressionen/kiefner/37.JPG" height="120" class="float_left" title="Silvio Schirmeister (Kiefner-Foto)" />Regensburg, 02. Juni 2012 - Silvio Schirmeister profitiert vom starken 400mH-Feld in Regensburg. Varg Königsmark und Tobias Giehl legten stark vor und machten auf den ersten Meter Druck. In der Kurve ging Silvio Schirmeister in Führung und kämpfte bis zur Ziellinie. Belohnt wurde er mit einer deutschen Jahresbestleistung: 49,21 s standen am Ende zu Buche. Damit qualifiziert er sich für die Olympischen Spiele in London.</p>
+      <img src="impressionen/kiefner/37.jpg" height="120" class="float_left" title="Silvio Schirmeister (Kiefner-Foto)" />Regensburg, 02. Juni 2012 - Silvio Schirmeister profitiert vom starken 400mH-Feld in Regensburg. Varg Königsmark und Tobias Giehl legten stark vor und machten auf den ersten Meter Druck. In der Kurve ging Silvio Schirmeister in Führung und kämpfte bis zur Ziellinie. Belohnt wurde er mit einer deutschen Jahresbestleistung: 49,21 s standen am Ende zu Buche. Damit qualifiziert er sich für die Olympischen Spiele in London.</p>
     <br>
 
 
@@ -45,7 +45,7 @@
       <strong>Christian Blum nachträglich disqualifiziert </strong>
     </p>
     <p>
-      <img src="impressionen/kiefner/31.JPG" width="300" height="201" />
+      <img src="impressionen/kiefner/31.jpg" width="300" height="201" />
     </p>
     <p>
       <br>
@@ -60,7 +60,7 @@
         <strong>13,45 s im Unistadion sind das Ticket nach London</strong>
       </p>
       <p>
-        <img class="float_left" title="Alexander John (Kiefner-Foto)" src="impressionen/kiefner/27.JPG" width="120" />Regensburg, 02. Juni 2012 (leichtathletik.de) - Das Unistadion in Regensburg bietet am Samstag mit der Sparkassen-Gala eine Bühne für die deutschen Leichtathleten auf dem Weg zur EM in Helsinki (Finnland) und die Olympischen Spiele in London (Großbritannien).
+        <img class="float_left" title="Alexander John (Kiefner-Foto)" src="impressionen/kiefner/27.jpg" width="120" />Regensburg, 02. Juni 2012 (leichtathletik.de) - Das Unistadion in Regensburg bietet am Samstag mit der Sparkassen-Gala eine Bühne für die deutschen Leichtathleten auf dem Weg zur EM in Helsinki (Finnland) und die Olympischen Spiele in London (Großbritannien).
         Einen starken Auftritt zeigte Hürdensprinter Alexander John bereits im Vorlauf über 110 Meter Hürden. In 13,45 Sekunden unterbot der Leipziger die Olympia-Norm um vier Hundertstel. Bis auf eine Zehntel lief der 26-Jährige an seine persönliche Bestzeit heran. <a href="http://www.leichtathletik.de/index.php?NavID=1&SiteID=28&NewsID=38462" target="blank">Hier</a> geht's weiter ...</p>
       <br>
 
@@ -224,7 +224,7 @@
       <h2>Letzte Startmöglichkeit für DM geht über Regensburg</h2>
 
       <p>
-        <img class="float_left" title="Sparkassen Gala macht DM Start möglich (Foto: Kiefner)" alt="sailer_gala_2011" src="http://www.lg-telis-finanz.de/images/stories/2011/Corinna_Harrer_gala_2011.JPG" width="170" />Regensburg, 11. April 2012 (orv) - Der Deutsche Leichtathletik Verband hat in seiner neuesten Ausschreibung für die diesjährigen Deutschen Meisterschaften (16./17. Juni in Wattenscheid) seinen Meldeschluss verändert. Meldungen können nun bis Sonntag, 3. Juni abgegeben werden. Damit ist eine Qualifikation in allen angebotenen Disziplinen der diesjährigen Regensburger Sparkassen Gala (2. Juni) noch möglich. Die Regensburger Organisatoren werden den dafür in Frage kommenden deutschen Athleten/Innen so weit wie möglich entgegen kommen, bitten jenes Kientel jedoch, rechtzeitig zu melden, da wie in all den Jahren zuvor wegen Überfüllung der Felder mit einem vorzeitigem Meldeschluss zu rechnen ist.</p>
+        <img class="float_left" title="Sparkassen Gala macht DM Start möglich (Foto: Kiefner)" alt="sailer_gala_2011" src="http://www.lg-telis-finanz.de/images/stories/2011/Corinna_Harrer_gala_2011.jpg" width="170" />Regensburg, 11. April 2012 (orv) - Der Deutsche Leichtathletik Verband hat in seiner neuesten Ausschreibung für die diesjährigen Deutschen Meisterschaften (16./17. Juni in Wattenscheid) seinen Meldeschluss verändert. Meldungen können nun bis Sonntag, 3. Juni abgegeben werden. Damit ist eine Qualifikation in allen angebotenen Disziplinen der diesjährigen Regensburger Sparkassen Gala (2. Juni) noch möglich. Die Regensburger Organisatoren werden den dafür in Frage kommenden deutschen Athleten/Innen so weit wie möglich entgegen kommen, bitten jenes Kientel jedoch, rechtzeitig zu melden, da wie in all den Jahren zuvor wegen Überfüllung der Felder mit einem vorzeitigem Meldeschluss zu rechnen ist.</p>
       <br />
       <br />
       <br />

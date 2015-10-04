@@ -84,7 +84,7 @@
     <br />
     <br/>
     <p>
-      <img src="http://www.sparkassen-gala.de/photos/kiefner_sprint.JPG" width="300px" class="float_left">Regensburg, 08. Juni 2013 (gw) - Wie vom Meetingdirektor prognostiziert bietet die diesjährige Sparkassen-Gala den AthletInnen beste Bedingungen: Sonnenschein und sommerliche Temparaturen. Die ersten Läufe sind unterwegs, die <a href="http://www.sparkassen-gala.de/ergebnisse.php">Live-Ergebnisse</a>      sind online und zum Hauptprogramm ab 15.45 Uhr wird der Livestream gestartet. Regensburg freut sich auf einen spannenden Wettkampf.
+      <img src="http://www.sparkassen-gala.de/photos/kiefner_sprint.jpg" width="300px" class="float_left">Regensburg, 08. Juni 2013 (gw) - Wie vom Meetingdirektor prognostiziert bietet die diesjährige Sparkassen-Gala den AthletInnen beste Bedingungen: Sonnenschein und sommerliche Temparaturen. Die ersten Läufe sind unterwegs, die <a href="http://www.sparkassen-gala.de/ergebnisse.php">Live-Ergebnisse</a>      sind online und zum Hauptprogramm ab 15.45 Uhr wird der Livestream gestartet. Regensburg freut sich auf einen spannenden Wettkampf.
       <br />
       <br />
       <br />
@@ -128,7 +128,7 @@
     <br />
     <br/>
     <p>
-      <img src="http://lg-telis-finanz.de/images/stories/2012/Corinna_Harrer_Helsinki_Kiefner.JPG" height="150px" class="float_left">Regensburg, 03. Juni 2013 (leichtathletik.de) - Über den geplanten Starts der aktuellen Woche stand bis heute ein Fragezeichen: Eine Lebensmittel-Vergiftung hatte Mittelstrecklerin Corinna Harrer (LG Telis Finanz Regensburg) eine Woche lang ans Bett gefesselt. Am Montag konnte sie aber bei einer Pressekonferenz zur Gala in Regensburg (8. Juni) verkünden, dass sie in dieser Woche sowohl in Rom (Italien) als auch bei ihrem Heim-Meeting an den Start gehen wird.. <a target="_blank" href="http://leichtathletik.de/index.php?NavID=1&SiteID=28&NewsID=43410">Hier</a>      geht's weiter bei leichtathletik.de ...
+      <img src="http://lg-telis-finanz.de/images/stories/2012/Corinna_Harrer_Helsinki_Kiefner.jpg" height="150px" class="float_left">Regensburg, 03. Juni 2013 (leichtathletik.de) - Über den geplanten Starts der aktuellen Woche stand bis heute ein Fragezeichen: Eine Lebensmittel-Vergiftung hatte Mittelstrecklerin Corinna Harrer (LG Telis Finanz Regensburg) eine Woche lang ans Bett gefesselt. Am Montag konnte sie aber bei einer Pressekonferenz zur Gala in Regensburg (8. Juni) verkünden, dass sie in dieser Woche sowohl in Rom (Italien) als auch bei ihrem Heim-Meeting an den Start gehen wird.. <a target="_blank" href="http://leichtathletik.de/index.php?NavID=1&SiteID=28&NewsID=43410">Hier</a>      geht's weiter bei leichtathletik.de ...
       <br />
       <br/>
       <br/>

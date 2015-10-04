@@ -191,7 +191,7 @@
     <h2>Lokalmatadorin Corinna Harrer gewinnt die 800m</h2>
     <br />
     <p class="floatbox">
-      <img src="photos/kiefner/Harrer,Corina1.JPG" alt="" width="140" height="210" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Lokalmatadorin Corinna Harrer (LG TELIS FINANZ Regensburg) gewann die 800m der Frauen mit neuer persönlichen Bestzeit von 2:04,14 min, in ihrem Sog steigerte sich Sarah Biedermann (LAC Erdgas Chemnitz) auf 2:05,13 min und hat somit die Norm auch in der Tasche.
+      <img src="photos/kiefner/Harrer,Corina1.jpg" alt="" width="140" height="210" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Lokalmatadorin Corinna Harrer (LG TELIS FINANZ Regensburg) gewann die 800m der Frauen mit neuer persönlichen Bestzeit von 2:04,14 min, in ihrem Sog steigerte sich Sarah Biedermann (LAC Erdgas Chemnitz) auf 2:05,13 min und hat somit die Norm auch in der Tasche.
       <br /> Über 3000m Hindernis der Frauen gewann Verena Dreier (LG Sieg) mit 10:03,88 min vor Susi Lutz (LG TELIS FINANZ Regensburg) mit 10:12,85 min.
     </p>
     <br />
@@ -202,12 +202,12 @@
     <h2>Robert Hering gewinnt 200m der Männer</h2>
     <br />
     <p class="floatbox">
-      <img src="photos/kiefner/Hering,Robert1.JPG" alt="" width="144" height="216" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Schnellster Läufer über die 200m der Männer war mit 20,67 der Junior Robert Hering, er qualifiziert sich damit auch für Novi Sad, auf den Plätzen folgten Alexander Kosenkow (20,76) und Till Helmke (20,88). Bei den Frauen gewann Anne Möllinger mit 23,64 was Platz 2 in der aktuellen Deutschen Bestenliste bedeutet.</p>
+      <img src="photos/kiefner/Hering,Robert1.jpg" alt="" width="144" height="216" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Schnellster Läufer über die 200m der Männer war mit 20,67 der Junior Robert Hering, er qualifiziert sich damit auch für Novi Sad, auf den Plätzen folgten Alexander Kosenkow (20,76) und Till Helmke (20,88). Bei den Frauen gewann Anne Möllinger mit 23,64 was Platz 2 in der aktuellen Deutschen Bestenliste bedeutet.</p>
     <br />
     <h2>Sorina Nwachukwu läuft neue Deutsche Jahresbestzeit über 400m</h2>
     <br />
     <p class="floatbox">
-      <img src="photos/kiefner/Nwachukwu,Sorin1.JPG" alt="" width="153" height="229" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Sorina Nwachukwu (TSV Bayer 04 Leverkusen) hat die Regenpause am besten überstanden, sie lief über die 400m mit 52.25 Sekunden eine neue Deutsche Jahresbestzeit. Bei den Männern gewann Michael Mathieu von den Bahamas mit 46,42 Sekunden.</p>
+      <img src="photos/kiefner/Nwachukwu,Sorin1.jpg" alt="" width="153" height="229" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Sorina Nwachukwu (TSV Bayer 04 Leverkusen) hat die Regenpause am besten überstanden, sie lief über die 400m mit 52.25 Sekunden eine neue Deutsche Jahresbestzeit. Bei den Männern gewann Michael Mathieu von den Bahamas mit 46,42 Sekunden.</p>
     <br />
     <h2>Als der Regen kam</h2>
     <br />
@@ -258,7 +258,7 @@
     <h2>Christiane Klopsch läuft neue A-Jugend Bestmarke</h2>
     <br />
     <p class="floatbox">
-      <img src="photos/kiefner/klopsch_christiane-kiefner.JPG" alt="" width="132" height="198" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Eine weitere hervorragende Leistung im Vorprogramm lieferte Christiane Klopsch (TSV Friedberg-Fauerbach). Sie lief bei der weiblichen Jugend A über 400m 54,36 Sekunden, schneller ist in diesem Jahr noch keine A-Jugendliche gelaufen. Maral Feizbakhsh (USC Mainz) wurde hier mit 54,37 Sekunden knapp geschlagene Zweite und liegt damit in Deutschland bei der Jugend auf Platz 2. Wieder einmal wird Regensburg dem Ruf seiner schnellen Bahn gerecht. Den 1.500m
+      <img src="photos/kiefner/klopsch_christiane-kiefner.jpg" alt="" width="132" height="198" class="float_left" />Regensburg, 07. Juni 2009 (Köhler) - Eine weitere hervorragende Leistung im Vorprogramm lieferte Christiane Klopsch (TSV Friedberg-Fauerbach). Sie lief bei der weiblichen Jugend A über 400m 54,36 Sekunden, schneller ist in diesem Jahr noch keine A-Jugendliche gelaufen. Maral Feizbakhsh (USC Mainz) wurde hier mit 54,37 Sekunden knapp geschlagene Zweite und liegt damit in Deutschland bei der Jugend auf Platz 2. Wieder einmal wird Regensburg dem Ruf seiner schnellen Bahn gerecht. Den 1.500m
       Lauf der Männer gewann Andreas Vojta (Team2012.at) in 3:51,71 min.
       <br />
       <br />

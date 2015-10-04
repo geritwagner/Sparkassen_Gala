@@ -22,7 +22,7 @@
       <div class="c50r">
         <div class="subcr center">
           <!-- Inhalt rechter Block -->
-          <img src="../impressionen/kiefner/Foto(46).JPG" />
+          <img src="../impressionen/kiefner/Foto(46).jpg" />
 
         </div>
       </div>
@@ -38,7 +38,7 @@
         <div class="c50r">
           <div class="subcr center">
             <!-- Inhalt rechter Block -->
-            <img src="../impressionen/kiefner/Kiefner_Hentschel.JPG" />
+            <img src="../impressionen/kiefner/Kiefner_Hentschel.jpg" />
 
           </div>
         </div>
@@ -246,14 +246,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(20).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(20).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(21).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(21).jpg" />
 
                                     </div>
                                   </div>
@@ -263,14 +263,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(22).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(22).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(23).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(23).jpg" />
 
                                     </div>
                                   </div>
@@ -280,14 +280,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(24).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(24).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(25).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(25).jpg" />
 
                                     </div>
                                   </div>
@@ -297,14 +297,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(26).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(26).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(27).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(27).jpg" />
 
                                     </div>
                                   </div>
@@ -314,14 +314,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(28).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(28).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(32).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(32).jpg" />
 
                                     </div>
                                   </div>
@@ -331,14 +331,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(29).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(29).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(30).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(30).jpg" />
 
                                     </div>
                                   </div>
@@ -348,14 +348,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(31).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(31).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(33).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(33).jpg" />
 
                                     </div>
                                   </div>
@@ -365,14 +365,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(2).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(2).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(3).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(3).jpg" />
 
                                     </div>
                                   </div>
@@ -382,14 +382,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(4).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(4).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(5).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(5).jpg" />
 
                                     </div>
                                   </div>
@@ -399,14 +399,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(6).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(6).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(10).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(10).jpg" />
 
                                     </div>
                                   </div>
@@ -416,14 +416,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(7).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(7).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(8).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(8).jpg" />
 
                                     </div>
                                   </div>
@@ -433,14 +433,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(9).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(9).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(11).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(11).jpg" />
 
                                     </div>
                                   </div>
@@ -450,14 +450,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(12).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(12).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(13).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(13).jpg" />
 
                                     </div>
                                   </div>
@@ -467,14 +467,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(14).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(14).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(15).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(15).jpg" />
 
                                     </div>
                                   </div>
@@ -484,14 +484,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(16).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(16).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(18).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(18).jpg" />
 
                                     </div>
                                   </div>
@@ -501,14 +501,14 @@
                                   <div class="c50l">
                                     <div class="subcl center">
                                       <!-- Inhalt linker Block -->
-                                      <img src="../impressionen/kiefner/Foto(17).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(17).jpg" />
                                     </div>
                                   </div>
 
                                   <div class="c50r">
                                     <div class="subcr center">
                                       <!-- Inhalt rechter Block -->
-                                      <img src="../impressionen/kiefner/Foto(19).JPG" />
+                                      <img src="../impressionen/kiefner/Foto(19).jpg" />
 
                                     </div>
                                   </div>
