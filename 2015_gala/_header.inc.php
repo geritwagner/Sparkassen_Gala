@@ -28,10 +28,6 @@ $mA = $menu['active'];
 <script type="text/javascript" src="javascript/ADxMenu.js"></script>
 <![endif]-->
 
-        <script type="text/javascript" src="http://sparkassen-gala.de/player/jquery.min.js"></script>
-        <script type="text/javascript" src="http://sparkassen-gala.de/player/projekktor.min.js"></script>
-        <link rel="stylesheet" href="http://sparkassen-gala.de/player/theme/maccaco/style.css" type="text/css" media="screen" />
-
   </head>
 
   <body>
@@ -87,7 +83,7 @@ $mA = $menu['active'];
                       <li><a href="infos/unterkuenfte.php">Unterkünfte</a></li>
                       <li><a href="infos/kontakt.php">Kontakt</a></li>
                       <li><a href="infos/akkreditierung.php">Presse</a></li>
-                      <li><a href="http://tinyurl.com/6zgldm" target="_blank">Wetter</a></li>
+                      <li><a href="http://www.wetter.com/deutschland/regensburg/DE0008684.html" target="_blank">Wetter</a></li>
                     </ul>
                     </li>
                     <li<? if($m=='ausschreibung' ) echo $mA; ?>><a href="ausschreibung.php">Ausschreibung</a></li>
@@ -145,7 +141,7 @@ $mA = $menu['active'];
               <a id="content" name="content"></a>
               <br />
               <!-- Besonderes	-->
-              <h4 class="hinweis" style="text-align:center;"><a href="../news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="../ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
+              <h4 class="hinweis" style="text-align:center;"><a href="news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
                 target="_blank">»leichtathletik.tv Videos</a> und  <a href="https://www.youtube.com/watch?v=AYdgrBekOQA"
                   target="_blank">»Livestream</a> sind online</h4>
               <br />

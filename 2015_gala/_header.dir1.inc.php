@@ -83,7 +83,7 @@ $mA = $menu['active'];
                       <li><a href="../infos/unterkuenfte.php">Unterkünfte</a></li>
                       <li><a href="../infos/kontakt.php">Kontakt</a></li>
                       <li><a href="../infos/akkreditierung.php">Presse</a></li>
-                      <li><a href="http://tinyurl.com/6zgldm" target="_blank">Wetter</a></li>
+                      <li><a href="http://www.wetter.com/deutschland/regensburg/DE0008684.html" target="_blank">Wetter</a></li>
                     </ul>
                     </li>
                     <li<? if($m=='ausschreibung' ) echo $mA; ?>><a href="../ausschreibung.php">Ausschreibung</a></li>

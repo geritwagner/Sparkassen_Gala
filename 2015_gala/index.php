@@ -27,7 +27,7 @@
     <p>
       <div class="subcolumns">
         <div class="center">
-          <img src="../photos/EnglbrechtBoch_FotoVolke.jpg" width="300px" />
+          <img src="photos/EnglbrechtBoch_FotoVolke.jpg" width="300px" />
         </div>
       </div>
     </p>
@@ -71,13 +71,13 @@
       <div class="subcolumns">
         <div class="c50l">
           <div class="subcl center">
-            <img src="../photos/kiefner/800m1_FotoKiefner.jpg" width="300px" />
+            <img src="photos/kiefner/800m1_FotoKiefner.jpg" width="300px" />
           </div>
         </div>
 
         <div class="c50r">
           <div class="subcr center">
-            <img src="../photos/kiefner/Hindernis_FotoKiefner.jpg" width="300px" />
+            <img src="photos/kiefner/Hindernis_FotoKiefner.jpg" width="300px" />
 
           </div>
         </div>
@@ -473,7 +473,6 @@ der kleine „Ausflug“ in die anderen Distanzen auch ganz gut getan?</i> <a hr
       <img class="float_left" title="Gittens vor Blum (Foto:Kiefner)" src="images/inhalt/Gittens_Ramon-vor-Blum_Gala14-100m_Kiefnerfoto.jpg" alt="Gittens vor Blum (Foto:Kiefner)" width="150" />Regensburg, 21. Mai 2015 (orv) – Regensburg erwartet am 6. Juni wieder Deutschlands beste Sprinter bei der Sparkassen Gala. Für die im Sprint so wichtigen Sommertemperaturen können die Veranstalter noch keine Garantie geben. Dass die für Sprinter aber so elementare Windunterstützung von hinten kommt, dafür garantieren sie. Je nach dem die Windverhältnisse sind, wird die Richtung der 100m Läufe und der für die 100m Hürden der Damen ausgelegt – entweder von West nach Ost oder eben umgekehrt. Das wollen der Dritte der diesjährigen Hallen-Europameisterschaften Christian Blum (TV Wattenscheid), seine Teamkollegen Robin Erewa und Alexander Kosenkow, die drei Leipziger Robert Hering, Martin Keller und Roy Schmidt, Aleixo Platini Menga (TSV Bayer 04 Leverkusen), sowie Sven Knipphals vom VfL Wolfsburg nutzen, um möglichst nahe an die imaginären 10,00sec heranzustürmen. <a href="news/05-21_vorschau_sprint_maenner.php">» Hier</a> geht's weiter ...</p>
     <br />
 
-
     <h2>Es ist angerichtet bei der Laufnacht</h2>
     <p>
       <strong>Tempomacher werden für ideale Rennen sorgen</strong>
@@ -485,7 +484,7 @@ der kleine „Ausflug“ in die anderen Distanzen auch ganz gut getan?</i> <a hr
     <h2>Rückblick: Alle Videos der Sparkassen Gala 2014</h2>
     <br />
     <p>Die <a href="https://www.youtube.com/playlist?list=PLKSOlqrE36tm9U-OUsGeiCt8aKh4M3KaO" target="_blank">Übersicht der einzelnen Disziplinen</a> finden Sie in der Playlist.</p>
-    <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLKSOlqrE36tm9U-OUsGeiCt8aKh4M3KaO" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLKSOlqrE36tm9U-OUsGeiCt8aKh4M3KaO" frameborder="0" allowfullscreen></iframe>
     <br />
     <br />
     <br />
