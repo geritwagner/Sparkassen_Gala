@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
     <head>
         <title>Strobe Media Playback</title>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -8,10 +8,10 @@
         <script type="text/javascript" src="lib/ParsedQueryString.js">
         </script>
         <script type="text/javascript">
-            
+
             // Collect query parameters in an object that we can
             // forward to SWFObject:
-            
+
             var pqs = new ParsedQueryString();
             var parameterNames = pqs.params(false);
             var parameters = {
@@ -22,13 +22,13 @@
                 controlBarPosition: "bottom",
                 poster: "images/poster.png"
             };
-            
+
             for (var i = 0; i < parameterNames.length; i++) {
                 var parameterName = parameterNames[i];
                 parameters[parameterName] = pqs.param(parameterName) ||
                 parameters[parameterName];
             }
-            
+
        	    var wmodeValue = "direct";
             var wmodeOptions = ["direct", "opaque", "transparent", "window"];
             if (parameters.hasOwnProperty("wmode"))
@@ -36,11 +36,11 @@
             	if (wmodeOptions.indexOf(parameters.wmode) >= 0)
             	{
             		wmodeValue = parameters.wmode;
-            	}	            	
+            	}
             	delete parameters.wmode;
             }
-            
-            // Embed the player SWF:	            
+
+            // Embed the player SWF:
             swfobject.embedSWF(
 				"StrobeMediaPlayback.swf"
 				, "StrobeMediaPlayback"
@@ -57,16 +57,16 @@
 	                name: "StrobeMediaPlayback"
 	            }
 			);
-            
+
             /* Uncomment this code to be notified of playback errors in JavaScript:
-            
-             function onMediaPlaybackError(playerId, code, message, detail)            
+
+             function onMediaPlaybackError(playerId, code, message, detail)
              {
-             	alert(playerId + "\n\n" + code + "\n" + message + "\n" + detail);            
+             	alert(playerId + "\n\n" + code + "\n" + message + "\n" + detail);
              }
-             
+
              */
-            
+
         </script>
         <style type="text/css">
         <!-- .Verdana {
@@ -108,20 +108,20 @@
                     </p>
                     <p>
                         <script type="text/javascript">
-                            
+
                             // Construct the HTML required to reload with any of the
                             // listed media links:
-                            
+
                             var linkingCode = "";
-                            var links = ["http://mediapm.edgesuite.net/osmf/content/test/manifest-files/dynamic_Streaming.f4m", 
-                            "http://mediapm.edgesuite.net/osmf/content/test/manifest-files/progressive.f4m", 
-                            "http://mediapm.edgesuite.net/osmf/content/test/train_1500.mp3", 
-                            "http://mediapm.edgesuite.net/strobe/content/test/AFaerysTale_sylviaApostol_640_500_short.flv", 
-                            "rtmp://cp67126.edgefcs.net/ondemand/mp4:mediapm/osmf/content/test/sample1_700kbps.f4v", 
-                            "http://drmtest.adobe.com/content/identity.f4v", 
-                            "images/vegetation.jpg", 
+                            var links = ["http://mediapm.edgesuite.net/osmf/content/test/manifest-files/dynamic_Streaming.f4m",
+                            "http://mediapm.edgesuite.net/osmf/content/test/manifest-files/progressive.f4m",
+                            "http://mediapm.edgesuite.net/osmf/content/test/train_1500.mp3",
+                            "http://mediapm.edgesuite.net/strobe/content/test/AFaerysTale_sylviaApostol_640_500_short.flv",
+                            "rtmp://cp67126.edgefcs.net/ondemand/mp4:mediapm/osmf/content/test/sample1_700kbps.f4v",
+                            "http://drmtest.adobe.com/content/identity.f4v",
+                            "images/vegetation.jpg",
                             "playlists/playlist.m3u"];
-                            
+
                             for (var i = 0; i < links.length; i++) {
                                 var link = links[i];
                                 linkingCode = linkingCode +
@@ -131,7 +131,7 @@
                                 link +
                                 '</a><br/>';
                             }
-                            
+
                             document.write(linkingCode);
                         </script>
                     </p>
