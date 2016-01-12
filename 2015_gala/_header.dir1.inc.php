@@ -74,7 +74,7 @@ $mA = $menu['active'];
                     </li>
                   </ul>
                   </li>
-                  <li<? if($m=='infos' ) echo $mA; ?>><a href="../infos/">Infos</a>
+                  <li<? if($m=='infos' ) echo $mA; ?>><a href="../infos/index.php">Infos</a>
                     <ul>
                       <li><a href="../infos/wissenswertes.php">Wissenswertes / <br />Important notes</a></li>
                       <li><a href="../infos/stadt-regensburg.php">Stadt Regensburg</a></li>
@@ -112,7 +112,7 @@ $mA = $menu['active'];
 
               <br />
               <p>
-                <strong>Laufnacht (<a target="_blank" href="http://www.lg-telis-finanz.de/2015_ausschreibungen/06-05_laufnacht.pdf">Infos</a>):
+                <strong>Laufnacht:
                   <br>Freitag, 05. Juni 2015</strong>
               </p>
               <h4>Sponsoren</h4>
