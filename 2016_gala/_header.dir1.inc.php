@@ -43,7 +43,7 @@ $mA = $menu['active'];
             <!-- end: skip link navigation -->
           </div>
           <div id="flashHeader">
-            <img src="../images/design/header.jpg" width="900" height="245" alt="Sparkassen Gala 2015" />
+            <img src="../images/design/header.jpg" width="900" height="245" alt="Sparkassen Gala 2016" />
           </div>
         </div>
         <!-- begin: main navigation #nav -->
@@ -59,10 +59,7 @@ $mA = $menu['active'];
                     <li><a href="../news/berichte.php">Berichte</a></li>
                     <li><a href="">Impressionen   »</a>
                       <ul id="navImpressionen">
-                        <li><a href="../news/impressionen-kiefner.php">von Theo Kiefner</a></li>
-                        <li><a href="https://www.facebook.com/media/set/?set=a.844158318952659.1073741865.118945204807311&type=3&uploaded=117" target="_blank">von Kristian Volke</a></li>
-                        <li><a href="https://www.pictrs.com/sportlich-belichtet/8059759/laufnacht-zur-sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Laufnacht)</a></li>
-                        <li><a href="https://www.pictrs.com/sportlich-belichtet/9405370/sparkassen-gala-2015-in-regensburg?l=de" target="_blank">von Göstl (Gala)</a></li>
+                        <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
                       </ul>
                     </li>
                     <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video-Highlights<!--   »--></a>

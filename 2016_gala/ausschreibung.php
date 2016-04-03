@@ -2,7 +2,7 @@
  $menu['current'] = "ausschreibung"; ?>
   <?php require("_header.inc.php"); ?>
 
-    <h2>Sparkassen Gala 2015</h2>
+    <h2>Sparkassen Gala 2016</h2>
     <br />
 
     <strong>mit LG Telis Finanz Laufnacht</strong>
@@ -46,7 +46,7 @@
           <br>
           <br> Für alle Läufe bitte Bestleistung 2014/15 angeben, um eine bestmögliche Laufbesetzung ermöglichen zu können.
           <br />
-          <br />Meldung für die Bayerische Hindernismeisterschaft bitte über den BLV <a target="blank" href="http://ladv.de/ausschreibung/detail/8444/Bayer.-Hindernismeistersch.-M%C3%A4nner-Frauen-U23-2015-Regensburg.htm">hier</a>.</td>
+          <br />Meldung für die Bayerische Hindernismeisterschaft bitte über den BLV <a target="blank" href="http://www.blv-sport.de/service/msonline/files/20166487-a.pdf">hier</a>.</td>
       </tr>
       <tr>
         <th>Organisations-Gebühren:</th>

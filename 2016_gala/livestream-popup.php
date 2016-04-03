@@ -46,7 +46,7 @@
 
     <center>
       <a href="http://www.sparkassen-gala.de/" target="_blank">
-        <h1>Sparkassen Gala 2015</h1>
+        <h1>Sparkassen Gala 2016</h1>
       </a>
     </center>
     <br />

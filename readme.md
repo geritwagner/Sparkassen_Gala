@@ -62,6 +62,11 @@ Der Rückblick wird über folgendes Skript abgebildet:
 * Ausschreibung, Zeitplan, Sponsoren aktualisieren
 * Datum unter infos/wissenswertes.php aktualisieren
 * Englisches PDF aktualisieren
+* Check:
+```
+	cd 2016_gala
+	grep -r '2015'
+```
 
 ## Vor der Gala
 * Marketing mit TELIS: Facebook?

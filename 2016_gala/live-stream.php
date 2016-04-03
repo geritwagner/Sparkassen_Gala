@@ -10,7 +10,7 @@ Auch für die Sparkassen Gala 2016 gibt es wieder einen Live Stream. Zusätzlich
 <br /> -->
 
     <!--
-    <h2>Highlights der Sparkassen Gala 2015</h2>
+    <h2>Highlights der Sparkassen Gala 2016</h2>
     <br/> Die Highlight Videos von leichtathletik.tv gibt es <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">»hier</a>.-->
 
     <!--<br>
