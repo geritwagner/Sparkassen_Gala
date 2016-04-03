@@ -7,6 +7,8 @@ $mA = $menu['active'];
 ?>
 
   <ul>
+    <li><a href="http://www.sparkassen-gala.de/2016/" target="_blank">Jahr 2016</a></li>
+    <li><a href="http://www.sparkassen-gala.de/2015/" target="_blank">Jahr 2015</a></li>
     <li><a href="http://www.sparkassen-gala.de/2014/" target="_blank">Jahr 2014</a></li>
     <li><a href="http://www.sparkassen-gala.de/2013/" target="_blank">Jahr 2013</a></li>
     <li><a href="http://www.sparkassen-gala.de/2012/" target="_blank">Jahr 2012</a></li>

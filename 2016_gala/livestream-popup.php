@@ -1,0 +1,95 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <title>Livestream - Sparkassen Gala 2016</title>
+  <style type="text/css">
+    body {
+      font: 9pt Arial, Helvetica, sans-serif;
+      margin: 10px;
+    }
+
+    #container {
+      width: 552px;
+      border: 0px solid #fff;
+    }
+
+    a {
+      color: #E2001A;
+      text-decoration: none;
+    }
+
+    a:focus,
+    a:hover,
+    a:active {
+      background-color: #FFEEEE;
+      text-decoration: none;
+    }
+
+    h1 {
+      font-size: 1.7em;
+      color: #E2001A;
+      padding: 0;
+      margin: 0;
+    }
+
+    #footnote {
+      font-size: 0.8em;
+      padding: 0.7em;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div id="container">
+
+    <center>
+      <a href="http://www.sparkassen-gala.de/" target="_blank">
+        <h1>Sparkassen Gala 2015</h1>
+      </a>
+    </center>
+    <br />
+    <iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/6a7bf2f5-0061-11e5-9476-002590c750be" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <!--   <div align="center">
+    <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codeBase='http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab' width='500' height='400'>
+      <PARAM NAME='FlashVars' VALUE='token=FFD9426E98A9DFB2C0117B7B3F1862F1'/>
+      <PARAM NAME='Movie' VALUE='//player.stream5.tv/seltec/player/s5player.swf'/>
+      <PARAM NAME='Src' VALUE='//player.stream5.tv/seltec/player/s5player.swf'/>
+      <PARAM NAME='AllowScriptAccess' VALUE='always'/>
+      <PARAM NAME='Base' VALUE='http://player.stream5.tv/seltec/player/' />
+      <PARAM NAME='AllowFullScreen' VALUE='true' />
+      <embed src='//player.stream5.tv/seltec/player/s5player.swf' width='500' height='400' type='application/x-shockwave-flash' base='http://player.stream5.tv/seltec/player/' allowScriptAccess='always' allowFullscreen='true' flashVars='token=FFD9426E98A9DFB2C0117B7B3F1862F1'>
+      </embed>
+    </OBJECT>
+</div>
+-->
+    <!-- IFRAME von 2013 <iframe src="http://new.livestream.com/accounts/1824977/events/2162113/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no"> </iframe> -->
+
+    <br />
+
+    <div id="footnote">Es gibt leider kleine Probleme mit dem Live Stream, wir bitten die Störungen zu entschuldigen und arbeiten an der Lösung.
+      <br />
+      <br />Ein Angebot der <a href="http://www.lg-telis-finanz.de/" target="_blank">LG TELIS FINANZ Regensburg</a>, produziert von <a href="http://www.seltec.at/" target="_blank">Seltec</a>, unterstützt durch die <a href="http://www.telis-finanz.de/" target="_blank">TELIS FINANZ AG</a>,
+      weitere Infos unter <a href="http://www.sparkassen-gala.de/" target="_blank">www.sparkassen-gala.de</a> - Feedback bitte an
+      <script language="JavaScript">
+        document.write('<a hre' + 'f="ma' + 'ilto' + ':' + '%76%69%64%65%6f%73%40%6c%67%2d%74%65%6c%69%73%2d%66%69%6e%61%6e%7a%2e%64%65">videos@lg-telis-finanz.de<\/a>');
+      </script>
+      </span>
+    </div>
+  </div>
+
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-3028544-2");
+      pageTracker._trackPageview();
+    } catch (err) {}
+  </script>
+</body>
+
+</html>
