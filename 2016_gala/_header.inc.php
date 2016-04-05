@@ -110,7 +110,7 @@ $mA = $menu['active'];
               <br />
               <p>
                 <strong>Laufnacht:
-                  <br>Freitag, 04. Juni 2016</strong>
+                  <br>Samstag, 04. Juni 2016</strong>
               </p>
               <h4>Sponsoren</h4>
 
