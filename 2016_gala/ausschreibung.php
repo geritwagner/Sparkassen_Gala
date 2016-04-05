@@ -25,12 +25,12 @@
       </tr>
       <tr>
         <th>Termin Laufnacht:</th>
-        <td>Freitag, 04. Juni 2016
+        <td>Samstag, 04. Juni 2016
           <br /> Beginn Laufnacht 17.00 Uhr </td>
       </tr>
       <tr>
         <th>Termin Sparkassen-Gala:</th>
-        <td>Samstag, 05. Juni 2016
+        <td>Sonntag, 05. Juni 2016
           <br /> Beginn Vorprogramm 11.30 Uhr
           <br /> Beginn Hauptprogramm 14.00 Uhr</td>
       </tr>
@@ -61,7 +61,7 @@
       </tr>
       <tr>
         <th>Startunterlagen:</th>
-        <td>AAusgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 13.00 Uhr am 4.6.2016).</td>
+        <td>Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 13.00 Uhr am 4.6.2016).</td>
       </tr>
       <tr>
         <th>Gala Programm:</th>
