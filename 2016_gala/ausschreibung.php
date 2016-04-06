@@ -26,7 +26,7 @@
       <tr>
         <th>Termin Laufnacht:</th>
         <td>Samstag, 04. Juni 2016
-          <br /> Beginn Laufnacht 17.00 Uhr </td>
+          <br /> Beginn Laufnacht 13.15 Uhr </td>
       </tr>
       <tr>
         <th>Termin Sparkassen-Gala:</th>
@@ -61,40 +61,56 @@
       </tr>
       <tr>
         <th>Startunterlagen:</th>
-        <td>Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 13.00 Uhr am 4.6.2016).</td>
+        <td>Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 10.30 Uhr am 4.6.2016).</td>
+      </tr>
+      <tr>
+        <th>Laufnacht Programm:</th>
+        <td>
+          <p>
+
+          200m (Männer, Frauen, mU20/18, wU20/18)
+          <br />
+          <br />
+          400m (Männer, Frauen, mU20/18, wU20/18)
+          <br />
+          <br />
+          800m (Männer – schlechter als 1:49,00, Frauen schlechter als 2:10,00, mU20/18, wU20/18) – die besten Jugendlichen qualifizieren sich für das Gala-Programm
+          <br />
+          <br />
+          1500m (Männer – schlechter als 3:48,00, Frauen schlechter als 4:28,00, mU20/18, wU20/18) – die besten  Jugendlichen qualifizieren sich für das Gala-Programm
+          <br />
+          <br />
+          5000m (Männer, Frauen)
+          <br />
+          <br />
+          400m Hürden (Männer – schlechter als 51,50sec, Frauen schlechter als 60,00sec, mU20/18, wU20/18)
+          <br />
+          <br />
+          3000m Hindernis (mit Sonderwertung Bayerische Meisterschaften Männer, Frauen, m/wU23)
+          <br />
+          <br />
+          Weit (Männer schlechter als 7,00m, Frauen schlechter als 6,00m, mU20/18, wU20/18)
+          <br />
+          <br />
+          </p>
+        </td>
       </tr>
       <tr>
         <th>Gala Programm:</th>
         <td>
           <p>
-            <span style="font-style: italic">Männer:</span>
-            <br />
-            <strong>Galaprogramm:</strong> <strong>100 m</strong>, 200 m*, <strong>400 m*</strong>, <strong>800 m</strong>, <strong>1500m</strong>, 110 m H, <strong>400m H*</strong>, 4x100 m(DLV-Test), *DLV-Einladungswettbewerbe - fett=prämiert
-            <br />
-            <strong>Rahmenwettbewerb/Vorprogramm:</strong> 100 m, Weit, Hoch Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (4. Juni 2016)</a>
+            Männer: 100m, 200m*, 800m, 1500m, 110m Hürden, 400m Hürden*, 4x100m<br />
+            (DLV-Test)*, 4x400m (DLV-Test)*, Weit, Hoch (Anfangshöhe 1,90m)
             <br />
             <br />
-            <span style="font-style: italic">Frauen:</span>
-            <br />
-            <strong>Galaprogramm</strong>: <strong>100 m</strong>, 200 m*, 400 m*, 800 m, <strong>1500m</strong>, <strong>100 m H</strong>, 4x100 m (DLV-Test), <strong>Hoch</strong> - *DLV-Einladungswettbewerbe - fett=prämiert
-            <br />
-            <strong>Rahmenwettbewerb/Vorprogramm</strong>: 100 m, Weit, Hoch - Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (4. Juni 2016)</a>
+            Frauen: 100m, 200m*, 800m, 1500m, 100m Hürden, 400m Hürden*, 4x100m<br />
+            (DLV-Test)*, 4x400m (DLV-Test)*, Weit, Hoch (Anfangshöhe 1,70m)
             <br />
             <br />
-            <span style="font-style: italic">männliche U20/U18:</span>
-            <br /> 100 m, Weit - Mittel-/Langstrecken siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (04. Juni 2016)</a>
+            Rahmenprogramm: 100m offen für Männer, Frauen, U20
             <br />
             <br />
-            <span style="font-style: italic">weibliche U20/U18:</span>
-            <br /> 100 m, Weit, Hoch. Mittel-/Langstrecken/Hindernis siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (04. Juni 2016)</a>
-            <br />
-            <br />
-            <span style="font-style: italic">Schüler U16:</span>
-            <br /> Weit, 800m siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (04. Juni 2016)</a>
-            <br />
-            <br />
-            <span style="font-style: italic">Schülerinnen U16:</span>
-            <br /> Weit, 800 m siehe <a target="_blank" href="http://www.lg-telis-finanz.de/2016_ausschreibungen/06_03_laufnacht-regensburg.pdf">Laufnacht (04. Juni 2016)</a>
+            *=DLV Einladungswettbewerb
             <br />
             <br />
           </p>
@@ -103,8 +119,7 @@
       <tr>
         <th>Bemerkung:</th>
         <td>
-          <p>Die Zeitgrenzen für die Einteilung der A- und B-Läufe des Hauptprogramms werden nach Meldeschluss spätestens eine Woche vor dem 05. Juni bekannt gegeben. Gemeldete Teilnehmer, die diese Leistungen nicht erfüllen können, werden in die entsprechenden
-            Wettbewerbe des Vorprogramms aufgenommen.
+          <p>Anfallende Verschiebungen einzelner Athleten/Innen vom Galaprogramm in die das Laufnachtprogramm und umgekehrt werden betreffenden Athleten/Innen rechtzeitig persönlich mitgeteilt. Athleten/Innen, die an den Meldeübergangsgrenzen (siehe Anforderungsprofile Laufnacht) mit ihren Bestleistungen liegen, sollten sich entsprechend darauf einrichten.
             <br />
             <br /> Die 3000 m Hindernis der Männer/Junioren/Frauen/Juniorinnen finden als Bayerische Meisterschaften, national offen, statt.
             <br />

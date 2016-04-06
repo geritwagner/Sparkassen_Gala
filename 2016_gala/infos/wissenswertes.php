@@ -21,7 +21,7 @@
 
     <h3>Startunterlagen wann und wo?</h3>
     <p> Diese gibt’s zu folgenden Zeiten:
-      <br /> Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 13.00 Uhr am 4.6.2016)</p>
+      <br /> Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 10.30 Uhr am 4.6.2016)</p>
 
     <br />
 
@@ -47,7 +47,7 @@
     <br />
 
     <h3>Siegerehrungen</h3>
-    <p>Siegerehrungen gibt es nur im Vorprogramm der Sparkassen Gala 2014 für die Plätze 1-3. Die Athleten sollen sich 20 Minuten nach Beendigung der Disziplin bereithalten. Die Urkunden (bis Platz 8) können am Stellplatz abgeholt werden.
+    <p>Siegerehrungen gibt es nur für die Wettbewerbe der Laufnacht.
       <br /> Im Hauptprogramm der Gala gibt es keine Siegerehrungen, hier werden Interviews mit den Sieger/Innen durchgeführt.
       <br />
       <br />
