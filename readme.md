@@ -28,7 +28,8 @@
 	rm $i
 	ln -s ../${i}_gala/ ${i}
 	done
-	ln -s ../rueckblick_alle.php rueckblick_alle.php
+	rm rueckblick_alle.php
+	ln ../rueckblick_alle.php rueckblick_alle.php
 	cd ..
 	done
 
