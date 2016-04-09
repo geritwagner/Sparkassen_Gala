@@ -3,21 +3,15 @@
  $menu['current'] = "infos"; ?>
   <?php require("../_header.dir1.inc.php"); ?>
 
-    <h2>Sperrung der A3 Ausfahrt Regensburg Universität in Fahrtrichtung Passau</h2>
-    <br />
-    <p>Regensburg, 06. Juni 2014 –  Wir bitten Sie zu berücksichtigen, dass die Autobahnabfahrt Regensburg Universität (100a) auf der A3 in Fahrtrichtung Passau (heißt vom Regensburger Kreuz kommend) gesperrt ist. Bitte der Umleitung über die Ausfahrt Regensburg Burgweinting (100b) folgen, das bedeutet nach der Ausfahrt direkt wieder rechts fahren, anschließend können Sie wieder dem ursprünglichen Plan folgen.
-      <br /><a target="_blank" href="https://goo.gl/maps/1Z87A">» Karte</a>
-    </p>
-
     <h2>Anreise / Anfahrt</h2>
     <br />
 
     <p> Teilnehmer und Zuschauer möchten bitte die Tiefgaragen der Universität benutzen (für die Navigation: Albertus-Magnus-Straße 5, 93053 Regensburg), da der Parkplatz am Sportzentrum für Medienvertreter, Offizielle und Sponsoren reserviert ist (für die Navigation: Josef-Engert-Straße 11, 93053 Regensburg).</p>
     <br />
 
-    <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.de/maps/ms?ie=UTF8&hl=de&msa=0&msid=118302995991387929103.0004645d5dcf31f655518&source=embed&t=h&ll=48.994326,12.099123&spn=0.013516,0.027466&z=15&output=embed"></iframe>
+    <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/embed?mid=zdT87S3YtwIY.kzc9wWf3HTww&ie=UTF8&hl=de&msa=0&source=embed&t=h&ll=48.994326%2C12.099123&spn=0.013516%2C0.027466&z=15&output=embed"></iframe>
     <br />
-    <small><a href="http://maps.google.de/maps/ms?ie=UTF8&hl=de&msa=0&msid=118302995991387929103.0004645d5dcf31f655518&source=embed&t=h&ll=48.994326,12.099123&spn=0.013516,0.027466&z=15" target="_blank">» Diese Karte</a> in einem neuen Fenster mit ausführlichen
+    <small><a href="https://www.google.com/maps/d/viewer?ll=48.994326%2C12.099123&spn=0.013516%2C0.027466&hl=de&t=h&msa=0&z=15&source=embed&ie=UTF8&mid=zdT87S3YtwIY.kzc9wWf3HTww" target="_blank">» Diese Karte</a> in einem neuen Fenster mit ausführlichen
       Details anzeigen.</small>
 
     <p align="left">
