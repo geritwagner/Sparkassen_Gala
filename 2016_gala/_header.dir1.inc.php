@@ -92,11 +92,6 @@ $mA = $menu['active'];
                                 <?php require("rueckblick_alle.php"); ?>
                                   </li>
                                   <li<? if($m=='sponsoren' ) echo $mA; ?>><a href="../sponsoren/">Sponsoren</a></li>
-                                    <li<? if($m=='english' ) echo $mA; ?>>
-                                      <a href="../download/sparkassen_gala_2016_english.pdf" target="blank">
-                                        <img src="../images/design/british-flag.gjpg"></img>
-                                      </a>
-                                      </li>
             </ul>
           </div>
         </div>
