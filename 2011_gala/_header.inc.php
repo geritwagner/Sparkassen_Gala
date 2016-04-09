@@ -1,4 +1,3 @@
-
 <?php
 /* Vordefinierte Werte */
 $menu['active'] = " id=\"current\"";
