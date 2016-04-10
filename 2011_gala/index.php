@@ -83,15 +83,7 @@
             <li><a href="live-stream.php">Livestream</a></li>
             <li><a href="ergebnisse.php">Ergebnisse</a></li>
             <li><a href="rueckblick/">Rückblick</a>
-              <ul>
-                <li><a href="http://www.sparkassen-gala.de/2010/" target="_blank">Jahr 2010</a></li>
-                <li><a href="http://www.sparkassen-gala.de/2009/" target="_blank">Jahr 2009</a></li>
-                <li><a href="http://www.sparkassen-gala.de/2008/" target="_blank">Jahr 2008</a></li>
-                <li><a href="http://www.domspitzmilch-gala.de/" target="_blank">Jahr 2007</a></li>
-                <li><a href="http://www.lg-regensburg.de/2006_gala/" target="_blank">Jahr 2006</a></li>
-                <li><a href="rueckblick/2005.php">Jahr 2005</a></li>
-                <li><a href="rueckblick/2004.php">Jahr 2004</a></li>
-              </ul>
+              <?php require("rueckblick_alle.php"); ?>
             </li>
             <li><a href="sponsoren/">Sponsoren</a></li>
           </ul>
