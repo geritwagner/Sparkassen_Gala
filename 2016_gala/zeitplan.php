@@ -4,16 +4,15 @@
 
 	<h2>Zeitplan</h2>
 	<br>
-  <h2>Zeitplan</h2>
-<!--  <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="javascript:void(0)" class="download-zeitplan" target="_blank">» Zeitplan.pdf</a> -->
+  <!-- <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="javascript:void(0)" class="download-zeitplan">» Zeitplan.pdf</a> -->
   <br />
   <br />
-  <p style="text-align: center;">
+  <p style="text-align: center;" id="heading_zeitplan">
     <strong>
       Regensburger Laufnacht und Sparkassen-Leichtathletik Gala 2016
     </strong>
   </p>
-  <p style="text-align: center;">
+  <p style="text-align: center;" class="heading2_zeitplan">
     <strong>
       Laufnacht (Samstag, 4. Juni 2016)
     </strong>
@@ -180,16 +179,16 @@
         17.00
       </td>
       <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
         400m Hü
       </td>
       <td>
         400m Hü
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -271,7 +270,7 @@
     </tr>
     <tr>
       <td>
-        19.20
+        19.25
       </td>
       <td>
         Weit B-W.
@@ -356,22 +355,23 @@
       <td>
       </td>
       <td>
+      </td>
+      <td>
         5000 m
       </td>
       <td>
       </td>
       <td>
       </td>
-      <td>
-      </td>
     </tr>
-    <tr>
-      <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
-        <strong>
+  </table>
+
+    <p style="text-align: center;" class="heading2_zeitplan">
+      <strong>
           Vorprogramm (Sonntag, 6. Juni 2016)
-        </strong>
-      </td>
-    </tr>
+      </strong>
+    </p>
+  <table class="zeitplan" style="width:650px">
     <tr>
       <td>
         Zeit
@@ -422,7 +422,7 @@
         100 m ZEL
       </td>
       <td>
-        100 m ZEL
+        100m mU18/20 ZEL
       </td>
       <td>
       </td>
@@ -512,7 +512,7 @@
     </tr>
     <tr>
       <td>
-        13-30
+        13.30
       </td>
       <td>
         100 m VL (A-C)
@@ -530,13 +530,14 @@
       <td>
       </td>
     </tr>
-    <tr>
-      <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
+  </table>
+
+      <p style="text-align: center;" class="heading2_zeitplan">
         <strong>
           Gala-Programm (Samstag, 6. Juni 2016)
         </strong>
-      </td>
-    </tr>
+      </p>
+  <table class="zeitplan" style="width:650px">
     <tr>
       <td>
         Zeit
@@ -858,10 +859,10 @@
     </tr>
   </table>
 
-  <p style="text-align: center;">
+  <p style="text-align: center;" class="zeitplan_info">
     VL=Vorlauf, ZVL=Zeitvorlauf,  EL=Endlauf, ZEL=Zeitendläufe, E=Endkampf, VE=Vor/Endkampf
   </p>
-  <p style="text-align: center;">
+  <p style="text-align: center;" class="zeitplan_info">
     <strong>
       Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
     </strong>
