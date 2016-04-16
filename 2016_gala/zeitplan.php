@@ -4,7 +4,7 @@
 
 	<h2>Zeitplan</h2>
 	<br>
-  <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="download/sparkassen_gala_2016_zeitplan.pdf" target="_blank" class="download-zeitplan">» Zeitplan.pdf</a>
+  <!-- <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="download/sparkassen_gala_2016_zeitplan.pdf" target="_blank" class="download-zeitplan">» Zeitplan.pdf</a> -->
   <br />
   <br />
   <p style="text-align: center;" id="heading_zeitplan">
@@ -298,6 +298,25 @@
       </td>
       <td>
         1500 m ZEL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        20.00
+      </td>
+      <td>
+      </td>
+      <td>
+        3.000m weibliche U20 <br>
+        (DLV Normwettkampf U20-WM)
       </td>
       <td>
       </td>
