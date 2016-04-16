@@ -310,19 +310,19 @@
     </tr>
     <tr>
       <td>
-        20.00
+        20.15
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
       </td>
       <td>
       </td>
       <td>
         3.000m weibliche U20 <br>
         (DLV Normwettkampf U20-WM)
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -348,7 +348,7 @@
     </tr>
     <tr>
       <td>
-        20.35
+        20.45
       </td>
       <td>
         5000 m
@@ -366,7 +366,7 @@
     </tr>
     <tr>
       <td>
-        21.00
+        21.15
       </td>
       <td>
         5000 m
