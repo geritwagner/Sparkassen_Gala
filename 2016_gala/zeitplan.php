@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td>
-        14.00
+        14.15
       </td>
       <td>
       </td>
@@ -125,12 +125,12 @@
       <td>
       </td>
       <td>
+      </td>
+      <td>
         400m D-F
       </td>
       <td>
         400m DLV U20
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -146,7 +146,25 @@
         400m DLV U20
       </td>
       <td>
+      </td>  <tr>
+      <td>
+        20.15
       </td>
+      <td>
+        3000 m Hi EL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
       <td>
       </td>
       <td>
@@ -218,7 +236,25 @@
       </td>
       <td>
       </td>
+      <td>  <tr>
       <td>
+        20.15
+      </td>
+      <td>
+        3000 m Hi EL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
       </td>
       <td>
         400m Hü
@@ -388,8 +424,8 @@
       </td>
       <td>
       </td>
-        3000 m ZEL
       <td>
+        3000 m ZEL
       </td>
       <td>
       </td>
