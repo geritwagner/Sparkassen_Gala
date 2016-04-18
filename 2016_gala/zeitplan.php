@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td>
-        13.15
+        12.45
       </td>
       <td>
       </td>
@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>
-        13.45
+        13.15
       </td>
       <td>
         200m offen
@@ -72,6 +72,42 @@
       </td>
       <td>
         Weit VE (NP)
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        14.00
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        2000m Hi ZEL
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        14.00
+      </td>
+      <td>
+      </td>
+      <td>
+        2000m Hi ZEL
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -348,7 +384,26 @@
     </tr>
     <tr>
       <td>
-        20.45
+        20.35
+      </td>
+      <td>
+      </td>
+        3000 m ZEL
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        20.50
       </td>
       <td>
         5000 m
@@ -366,7 +421,7 @@
     </tr>
     <tr>
       <td>
-        21.15
+        21.10
       </td>
       <td>
         5000 m
