@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td>
-        13.15
+        12.45
       </td>
       <td>
       </td>
@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>
-        13.45
+        13.15
       </td>
       <td>
         200m offen
@@ -82,7 +82,45 @@
     </tr>
     <tr>
       <td>
+        14.00
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        2000m Hi ZEL
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        14.15
+      </td>
+      <td>
+      </td>
+      <td>
+        2000m Hi ZEL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
         14.30
+      </td>
+      <td>
       </td>
       <td>
       </td>
@@ -93,8 +131,6 @@
       </td>
       <td>
         400m DLV U20
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -110,7 +146,25 @@
         400m DLV U20
       </td>
       <td>
+      </td>  <tr>
+      <td>
+        20.15
       </td>
+      <td>
+        3000 m Hi EL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
       <td>
       </td>
       <td>
@@ -182,7 +236,25 @@
       </td>
       <td>
       </td>
+      <td>  <tr>
       <td>
+        20.15
+      </td>
+      <td>
+        3000 m Hi EL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
       </td>
       <td>
         400m Hü
@@ -329,7 +401,7 @@
     </tr>
     <tr>
       <td>
-        20.15
+        20.30
       </td>
       <td>
         3000 m Hi EL
@@ -348,7 +420,26 @@
     </tr>
     <tr>
       <td>
-        20.45
+        20.50
+      </td>
+      <td>
+      </td>
+      <td>
+        3000 m ZEL
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        Weit wU18 VE (NP)
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        21.05
       </td>
       <td>
         5000 m
@@ -366,7 +457,7 @@
     </tr>
     <tr>
       <td>
-        21.15
+        21.25
       </td>
       <td>
         5000 m

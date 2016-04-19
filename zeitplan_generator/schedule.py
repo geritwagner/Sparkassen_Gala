@@ -2,11 +2,13 @@
 from pydocx.export import PyDocXHTMLExporter
 from bs4 import BeautifulSoup
 
-file = "2015_gala15_zeitplan-Stand_2015-03-20.docx"
+# must be docX
+file = "2016_gala16_zeitplan-Stand_2016-04-16.docx"
 
 exporter = PyDocXHTMLExporter(file)
-html = exporter.parsed
-soup = BeautifulSoup(html)
+html = exporter.export()
+
+soup = BeautifulSoup(html, "html5lib")
 
 for paragraph in soup.find_all('p'):
     paragraph['style'] = 'text-align: center;'
@@ -27,13 +29,15 @@ for td in soup.find_all('td'):
         td['height']='80px'
         td['style'] = 'vertical-align:middle; text-align:center;'
     for stong in td.find_all('strong'):
-	    if not ('Gala-Programm' in td.strong.string):
-		 td.strong.unwrap()
-		 td['style'] = "background-color: #C0C0FF"
+        if not ('Gala-Programm' in td.strong.string):
+            td.strong.unwrap()
+            td['style'] = "background-color: #C0C0FF"
 
-outfile = open("zeitplan.php", 'w')
-time_table = soup.body.prettify('utf-8').replace('<body>','').replace('</body>','')
+time_table = str(soup.body.prettify())
+print(time_table)
+time_table = time_table.replace('<body>','').replace('</body>','').replace('\\n','')
 
+outfile = open("zeitplan.php", 'w', encoding='utf-8')
 outfile.write("<?php $title = \"Zeitplan\";\n $menu['current'] = \"zeitplan\"; ?>\n<?php require(\"_header.inc.php\"); ?>\n\n<h2>Zeitplan</h2>\n<br>\n")
 outfile.write(time_table)
 outfile.write('\n<?php require("_footer.inc.php"); ?>')
@@ -42,4 +46,3 @@ outfile.close()
 
 print('generate pdf and upload zeitplan.php and pdf')
 input('press enter to close.')
-
