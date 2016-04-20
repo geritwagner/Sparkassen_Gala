@@ -4,7 +4,10 @@
 
 	<h2>Zeitplan</h2>
 	<br>
-  <!-- <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="download/sparkassen_gala_2016_zeitplan.pdf" target="_blank" class="download-zeitplan">» Zeitplan.pdf</a> -->
+  <p>
+    Der Zeitplan wird aktualisiert und in wenigen Tagen online gestellt.
+  </p>
+  <!-- <br /> Den Zeitplan gibt es auch zum Download und Ausdrucken <a href="download/sparkassen_gala_2016_zeitplan.pdf" target="_blank" class="download-zeitplan">» Zeitplan.pdf</a>
   <br />
   <br />
   <p style="text-align: center;" id="heading_zeitplan">
@@ -977,6 +980,7 @@
       Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
     </strong>
   </p>
+  -->
 <!--
   <p style="background-color: #FF6600;">
     <strong>
