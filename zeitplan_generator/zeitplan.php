@@ -194,7 +194,7 @@
     <td>
      16.30
     </td>
-    <td style="background-color: #C0C0FF">
+    <td>
      <ol class="pydocx-list-style-type-none">
       <li>
        400m Hü
