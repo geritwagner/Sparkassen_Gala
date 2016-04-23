@@ -195,11 +195,7 @@
      16.30
     </td>
     <td>
-     <ol class="pydocx-list-style-type-none">
-      <li>
-       400m Hü
-      </li>
-     </ol>
+     400m Hü
     </td>
     <td>
      400m Hü
@@ -224,12 +220,8 @@
     </td>
     <td>
     </td>
-    <td style="background-color: #C0C0FF">
-     <ol class="pydocx-list-style-type-none">
-      <li>
-       400m Hü
-      </li>
-     </ol>
+    <td>
+     400m Hü
     </td>
     <td>
      400m Hü
