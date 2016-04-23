@@ -7,54 +7,12 @@
 
  <p style="text-align: center;">
   <strong>
-   Laufnacht
-  </strong>
-  <strong>
-   der LG
-  </strong>
-  <strong>
-   Telis
-  </strong>
-  <strong>
-   Finanz
-  </strong>
-  <strong>
-   und
-  </strong>
-  <strong>
-   Sparkassen
-  </strong>
-  <strong>
-   Gala 201
-  </strong>
-  <strong>
-   6
-  </strong>
-  <strong>
-   (1. Entwurf)
+   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (1. Entwurf)
   </strong>
  </p>
  <p style="text-align: center;">
   <strong>
-   Laufnacht  (
-  </strong>
-  <strong>
-   Samstag
-  </strong>
-  <strong>
-   ,
-  </strong>
-  <strong>
-   4
-  </strong>
-  <strong>
-   . Juni 201
-  </strong>
-  <strong>
-   6
-  </strong>
-  <strong>
-   )
+   Laufnacht  (Samstag, 4. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -112,14 +70,13 @@
      200m offen
     </td>
     <td>
-     Weit VE (Sektor)
+     Weit VE
     </td>
     <td>
     </td>
     <td>
     </td>
     <td>
-     Weit VE (Sektor)
     </td>
    </tr>
    <tr>
@@ -212,6 +169,7 @@
     <td>
     </td>
     <td>
+     Weit VE (Sektor)
     </td>
    </tr>
    <tr>
@@ -236,8 +194,12 @@
     <td>
      16.30
     </td>
-    <td>
-     400m Hü
+    <td style="background-color: #C0C0FF">
+     <ol class="pydocx-list-style-type-none">
+      <li>
+       400m Hü
+      </li>
+     </ol>
     </td>
     <td>
      400m Hü
@@ -262,8 +224,12 @@
     </td>
     <td>
     </td>
-    <td>
-     400m Hü
+    <td style="background-color: #C0C0FF">
+     <ol class="pydocx-list-style-type-none">
+      <li>
+       400m Hü
+      </li>
+     </ol>
     </td>
     <td>
      400m Hü
@@ -391,26 +357,6 @@
      20.15
     </td>
     <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-     3.000m wU20
-     <br/>
-     (Normwettkampf U20-WM)
-    </td>
-    <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
-     20.30
-    </td>
-    <td>
      3000 m Hi EL
     </td>
     <td>
@@ -420,14 +366,20 @@
     <td>
     </td>
     <td>
-     Weit wU18 VE (NP)
+     Weit U18 (Sektor)
     </td>
     <td>
     </td>
    </tr>
    <tr>
     <td>
-     20.50
+     20.35
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
     </td>
     <td>
     </td>
@@ -436,16 +388,10 @@
     </td>
     <td>
     </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
    </tr>
    <tr>
     <td>
-     21.05
+     20.50
     </td>
     <td>
      5000 m
@@ -463,7 +409,7 @@
    </tr>
    <tr>
     <td>
-     21.25
+     21.10
     </td>
     <td>
      5000 m
@@ -487,25 +433,7 @@
    Vorprogramm
   </strong>
   <strong>
-   (S
-  </strong>
-  <strong>
-   onntag
-  </strong>
-  <strong>
-   ,
-  </strong>
-  <strong>
-   5
-  </strong>
-  <strong>
-   . Juni 201
-  </strong>
-  <strong>
-   6
-  </strong>
-  <strong>
-   )
+   (Sonntag, 5. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -546,6 +474,10 @@
     <td>
     </td>
     <td>
+     <ol class="pydocx-list-style-type-none">
+      <li>
+      </li>
+     </ol>
     </td>
     <td>
     </td>
@@ -670,16 +602,7 @@
    <tr>
     <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
      <strong>
-      Gala-Programm
-     </strong>
-     <strong>
-      (Sonntag,
-     </strong>
-     <strong>
-      5
-     </strong>
-     <strong>
-      . Juni 2016)
+      Gala-Programm (Sonntag, 5. Juni 2016)
      </strong>
     </td>
    </tr>
@@ -714,7 +637,6 @@
      110 m Hü EL(1)
     </td>
     <td>
-     Weit mU20 DLV VE
     </td>
     <td>
     </td>
@@ -1008,19 +930,7 @@
  </p>
  <p style="text-align: center;">
   <strong>
-   Die
-  </strong>
-  <strong>
-   ersten Vier
-  </strong>
-  <strong>
-   über
-  </strong>
-  <strong>
-   800m/1500m
-  </strong>
-  <strong>
-   der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
+   Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
   </strong>
  </p>
 
