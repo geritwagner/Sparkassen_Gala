@@ -198,7 +198,7 @@
      400m Hü
     </td>
     <td>
-     400m Hü
+     400m Hü U20 DLV
     </td>
     <td>
     </td>
@@ -701,6 +701,7 @@
      15.00
     </td>
     <td>
+     Weit VE, <br>
      800 m ZEL(A-B)
     </td>
     <td>
@@ -719,7 +720,6 @@
      15.15
     </td>
     <td>
-     Weit VE
     </td>
     <td>
     </td>
