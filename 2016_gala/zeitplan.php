@@ -366,13 +366,13 @@
     <td>
     </td>
     <td>
-     3000m ZEL
     </td>
     <td>
     </td>
     <td>
     </td>
     <td>
+      3000m ZEL
     </td>
     <td>
     </td>
