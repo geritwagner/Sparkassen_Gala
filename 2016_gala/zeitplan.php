@@ -165,7 +165,7 @@
     <td>
     </td>
     <td>
-     Weit VE (Sektor)
+     Weit VE
     </td>
    </tr>
    <tr>
@@ -354,7 +354,7 @@
     <td>
     </td>
     <td>
-     Weit U18 (Sektor)
+     Weit U18
     </td>
     <td>
     </td>
@@ -372,7 +372,7 @@
     <td>
     </td>
     <td>
-      3000m ZEL
+     3000m ZEL
     </td>
     <td>
     </td>
