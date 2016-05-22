@@ -61,6 +61,7 @@ Der Rückblick wird über folgendes Skript abgebildet:
 	Der Zeitplan ist ab dem XX.XX.20XX auf dieser Seite verfügbar.
 	```
 * Ausschreibung, Zeitplan, Sponsoren aktualisieren
+* ladv-link in der Ausschreibung aktualisieren
 * Datum unter infos/wissenswertes.php aktualisieren
 * Englisches PDF aktualisieren
 * Check:

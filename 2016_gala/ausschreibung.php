@@ -42,7 +42,7 @@
           <br /> Tel. +49 941/43828, Fax +49 941/4607743
           <br /> E-Mail <a href="mailto:meldung@lg-regensburg.de">meldung@lg-regensburg.de</a>
           <br />
-          <br /> Die Meldung ist bevorzugt über das Online Meldeportal <a href="http://ladv.de/ausschreibung/detail/8120/Leichtathletik-Gala-mit-Laufnacht-%285.-6.-Juni%29-Regensburg.htm" target="blank">www.ladv.de</a> durchzuführen. (Registrierung erforderlich)
+          <br /> Die Meldung ist bevorzugt über das Online Meldeportal <a href="http://ladv.de/ausschreibung/detail/10693/Laufnacht-und-Sparkassen-Gala-2016-Regensburg.htm" target="blank">www.ladv.de</a> durchzuführen. (Registrierung erforderlich)
           <br>
           <br> Für alle Läufe bitte Bestleistung 2014/15 angeben, um eine bestmögliche Laufbesetzung ermöglichen zu können.
           <br />
@@ -78,6 +78,9 @@
           <br />
           <br />
           1500m (Männer – schlechter als 3:48,00, Frauen schlechter als 4:28,00, mU20/18, wU20/18) – die besten  Jugendlichen qualifizieren sich für das Gala-Programm
+          <br />
+          <br />
+          3000m (w U20/18)
           <br />
           <br />
           5000m (Männer, Frauen)
