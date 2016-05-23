@@ -6,10 +6,14 @@
 <br>
 
  <p style="text-align: center;">
-  Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (1. Entwurf)
+  <strong>
+   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (1. Entwurf)
+  </strong>
  </p>
  <p style="text-align: center;">
-  Laufnacht  (Samstag, 4. Juni 2016)
+  <strong>
+   Laufnacht  (Samstag, 4. Juni 2016)
+  </strong>
  </p>
  <table class="zeitplan" style="width:650px">
   <tbody>
@@ -191,7 +195,11 @@
      16.30
     </td>
     <td>
-     400m Hü
+     <ol class="pydocx-list-style-type-none">
+      <li>
+       400m Hü
+      </li>
+     </ol>
     </td>
     <td>
      400m Hü DLV
@@ -217,7 +225,11 @@
     <td>
     </td>
     <td>
-     400m Hü
+     <ol class="pydocx-list-style-type-none">
+      <li>
+       400m Hü
+      </li>
+     </ol>
     </td>
     <td>
      400m Hü DLV
@@ -361,12 +373,30 @@
    </tr>
    <tr>
     <td>
-     20.35
+     20.30
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
     </td>
     <td>
     </td>
     <td>
      3000m ZEL
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     20.45
+    </td>
+    <td>
+    </td>
+    <td>
+     3000 m ZEL
     </td>
     <td>
     </td>
@@ -379,7 +409,7 @@
    </tr>
    <tr>
     <td>
-     20.50
+     21.00
     </td>
     <td>
      5000 m
@@ -397,7 +427,7 @@
    </tr>
    <tr>
     <td>
-     21.10
+     21.20
     </td>
     <td>
      5000 m
@@ -417,7 +447,12 @@
   </tbody>
  </table>
  <p style="text-align: center;">
-  Vorprogramm (Sonntag, 5. Juni 2016)
+  <strong>
+   Vorprogramm
+  </strong>
+  <strong>
+   (Sonntag, 5. Juni 2016)
+  </strong>
  </p>
  <table class="zeitplan" style="width:650px">
   <tbody>
@@ -449,29 +484,10 @@
      11.15
     </td>
     <td>
-     Hoch E
+     100 m ZEL/Hoch E
     </td>
     <td>
-     Hoch E
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
-     11.15
-    </td>
-    <td>
-     100 m ZEL
-    </td>
-    <td>
-     100m mU18/20 ZEL
+     100m ZEL/Hoch E
     </td>
     <td>
     </td>
@@ -580,7 +596,9 @@
    </tr>
    <tr>
     <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
-     Gala-Programm (Sonntag, 5. Juni 2016)
+     <strong>
+      Gala-Programm (Sonntag, 5. Juni 2016)
+     </strong>
     </td>
    </tr>
    <tr>
@@ -816,7 +834,6 @@
      400 m Hü EL (A+B)
     </td>
     <td>
-     400 m Hü DLV
     </td>
     <td>
     </td>
@@ -839,7 +856,7 @@
     <td>
     </td>
     <td>
-     400 m Hü DLV
+     400 m Hü
     </td>
     <td>
     </td>
