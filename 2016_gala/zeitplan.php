@@ -374,6 +374,7 @@
     <td>
     </td>
     <td>
+     3000 m ZEL
     </td>
     <td>
      3000m ZEL
@@ -386,6 +387,7 @@
      20.45
     </td>
     <td>
+     3000 m ZEL
     </td>
     <td>
      3000 m ZEL
