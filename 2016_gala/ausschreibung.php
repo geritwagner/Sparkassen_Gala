@@ -26,12 +26,12 @@
       <tr>
         <th>Termin Laufnacht:</th>
         <td>Samstag, 04. Juni 2016
-          <br /> Beginn Laufnacht 13.15 Uhr </td>
+          <br /> Beginn Laufnacht 12.45 Uhr </td>
       </tr>
       <tr>
         <th>Termin Sparkassen-Gala:</th>
         <td>Sonntag, 05. Juni 2016
-          <br /> Beginn Vorprogramm 11.30 Uhr
+          <br /> Beginn Vorprogramm 11.15 Uhr
           <br /> Beginn Hauptprogramm 14.00 Uhr</td>
       </tr>
       <tr>
@@ -42,9 +42,10 @@
           <br /> Tel. +49 941/43828, Fax +49 941/4607743
           <br /> E-Mail <a href="mailto:meldung@lg-regensburg.de">meldung@lg-regensburg.de</a>
           <br />
-          <br /> Die Meldung ist bevorzugt über das Online Meldeportal <a href="http://ladv.de/ausschreibung/detail/10693/Laufnacht-und-Sparkassen-Gala-2016-Regensburg.htm" target="blank">www.ladv.de</a> durchzuführen. (Registrierung erforderlich)
+          <br /> Die Meldung ist bevorzugt über das Online Meldeportal <a href="http://ladv.de/ausschreibung/detail/10693/Laufnacht-und-Sparkassen-Gala-201
+6-Regensburg.htm" target="blank">www.ladv.de</a> durchzuführen. (Registrierung erforderlich)
           <br>
-          <br> Für alle Läufe bitte Bestleistung 2014/15 angeben, um eine bestmögliche Laufbesetzung ermöglichen zu können.
+          <br> Für alle Läufe bitte Bestleistung 2015/16 angeben, um eine bestmögliche Laufbesetzung ermöglichen zu können.
           <br />
           <br />Meldung für die Bayerische Hindernismeisterschaft bitte über den BLV <a target="blank" href="http://www.blv-sport.de/service/msonline/files/20166487-a.pdf">hier</a>.</td>
       </tr>
@@ -61,7 +62,7 @@
       </tr>
       <tr>
         <th>Startunterlagen:</th>
-        <td>Ausgabe 5. Juni 2016 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 10.30 Uhr am 4.6.2016).</td>
+        <td>Ausgabe Laufnacht am 4.6. 2016 ab 10 Uhr, Gala am 5.6. 2016 ab 8.30 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren am Eingang des Sportzentrums der Universität</td>
       </tr>
       <tr>
         <th>Laufnacht Programm:</th>
