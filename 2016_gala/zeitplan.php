@@ -913,24 +913,6 @@
     <td>
     </td>
    </tr>
-   <tr>
-    <td>
-     17.45
-    </td>
-    <td>
-     4x400m DLV
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-   </tr>
   </tbody>
  </table>
  <p style="text-align: center;">

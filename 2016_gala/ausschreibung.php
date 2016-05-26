@@ -104,7 +104,7 @@
         <td>
           <p>
             Männer: 100m, 200m*, 800m, 1500m, 110m Hürden, 400m Hürden*, 4x100m<br />
-            (DLV-Test)*, 4x400m (DLV-Test)*, Weit, Hoch (Anfangshöhe 1,90m)
+            (DLV-Test)*, Weit, Hoch (Anfangshöhe 1,90m)
             <br />
             <br />
             Frauen: 100m, 200m*, 800m, 1500m, 100m Hürden, 400m Hürden*, 4x100m<br />
