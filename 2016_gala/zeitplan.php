@@ -67,7 +67,8 @@
      200m offen
     </td>
     <td>
-     200m offen
+     200m offen <br>
+     Weit mU18 VE
     </td>
     <td>
      Weit VE
@@ -167,6 +168,7 @@
      400m A-C
     </td>
     <td>
+      Weit wU18 VE (Sektor)
     </td>
     <td>
      Weit VE (Sektor)
@@ -203,6 +205,7 @@
     <td>
     </td>
     <td>
+      Weit VE
     </td>
     <td>
      Weit  wU20 VE
@@ -832,7 +835,6 @@
     <td>
     </td>
     <td>
-     Weit VE
     </td>
     <td>
     </td>
