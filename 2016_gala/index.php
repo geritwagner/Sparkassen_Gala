@@ -2,6 +2,17 @@
  $menu['current'] = "aktuelles"; ?>
   <?php require("_header.inc.php"); ?>
 
+
+  <h2>Nichts geht mehr - rien ne vas plus!</h2>
+
+<p>
+  <strong>Diesjährige Sparkassen Gala ausgebucht</strong>
+</p>
+
+  <p>
+    Regensburg, 27. Mai 2016 (orv) - Heute, Punkt 12 Uhr mittags, mussten bei der Meldestelle der Sparkassen Gala die Schotten dicht gemacht werden. Die Startnummer 1100 ist vergeben.
+  </p>
+
 <h2>
 3000m bei der Laufnacht für weiblich und männlich
 </h2>
