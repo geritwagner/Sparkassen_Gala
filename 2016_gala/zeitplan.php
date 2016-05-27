@@ -168,10 +168,10 @@
      400m A-C
     </td>
     <td>
-      Weit wU18 VE (Sektor)
+      Weit wU18 VE (Innenraum)
     </td>
     <td>
-     Weit VE (Sektor)
+     Weit VE (Innenraum)
     </td>
    </tr>
    <tr>
@@ -361,7 +361,6 @@
     <td>
     </td>
     <td>
-     Weit U18 (Sektor)
     </td>
     <td>
     </td>
