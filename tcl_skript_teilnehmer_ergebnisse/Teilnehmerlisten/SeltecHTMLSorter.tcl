@@ -5,22 +5,22 @@ exec tclsh "$0" ${1+"$@"}
 # +++ SeltecHTMLSorter +++
 # Version: 1.1
 # Author: Martin Weinberger
-# 
+#
 # Script zur Optimierung von htm Dateien, welche von Seltec Track & Field generiert wurden.
 #
 # Funktionen:
-#   Einbindung eines eigenen header Datei mit anschließender Sortierung der Wettbewerbe passend zur Menüreihenfolge.
-# Benötigte Dateien:
+#   Einbindung eines eigenen header Datei mit anschlieï¿½ender Sortierung der Wettbewerbe passend zur Menï¿½reihenfolge.
+# Benï¿½tigte Dateien:
 #   Header Datei: [Veranstaltungsname]_[Listentyp]_header.htm
 #   Orginal Datei: [Veranstaltungsname]_[Listentyp]_org.htm	(von T&F generierte Datei)
 # Ausgabe Datei:
 #   [Veranstaltungsname]_[Listentyp].htm
-# 
+#
 
 
 #
 # *** Einstellungen ***
-set VeranstaltungsName "Sparkassen_Gala_2014"
+set VeranstaltungsName "Sparkassen_Gala_2016"
 set ListenTyp "Teilnehmerliste"
 set Dateiname $VeranstaltungsName\_$ListenTyp
 set StartnummernAusblenden 0
@@ -73,7 +73,7 @@ while {![eof $targetfile]} {
 lappend Wettbewerbe "Veranstaltungsbericht"
 lappend Wettbewerbe "Schluss"
 
-# Zeitstempel hinzufügen
+# Zeitstempel hinzufï¿½gen
 puts $targetfile "				<td align=\"right\"><span class=\"ev2\">Stand: [clock format [clock seconds] -format {%d.%m.%Y %H:%M}] &nbsp;</span></td>"
 puts $targetfile "			</tr>"
 puts $targetfile "		</table>"
