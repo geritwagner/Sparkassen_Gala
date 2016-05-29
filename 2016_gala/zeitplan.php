@@ -408,7 +408,7 @@
      21.00
     </td>
     <td>
-     5000 m
+     5000 m (A-Lauf)
     </td>
     <td>
     </td>
@@ -425,19 +425,16 @@
     <td>
      21.20
     </td>
-    <td>
-     5000 m
+    <td colspan="8">
+     5000 m (C-Lauf)
     </td>
+   </tr>
+   <tr>
     <td>
+     21.45
     </td>
-    <td>
-    </td>
-    <td>
-     5000 m
-    </td>
-    <td>
-    </td>
-    <td>
+    <td colspan="8">
+     5000 m (B-Lauf, 14:49 und 15:49min)
     </td>
    </tr>
   </tbody>
