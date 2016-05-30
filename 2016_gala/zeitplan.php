@@ -7,12 +7,12 @@
 
  <p style="text-align: center;">
   <strong>
-   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (1. Entwurf)
+   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (Stand 29.05.2016)
   </strong>
  </p>
  <p style="text-align: center;">
   <strong>
-   Laufnacht  (Samstag, 4. Juni 2016)
+   Laufnacht  (Samstag, 04. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -67,7 +67,8 @@
      200m offen
     </td>
     <td>
-     200m offen
+     200m offen <br>
+     Weit mU18 VE
     </td>
     <td>
      Weit VE
@@ -167,9 +168,10 @@
      400m A-C
     </td>
     <td>
+      Weit wU18 VE (Innenraum)
     </td>
     <td>
-     Weit VE (Sektor)
+     Weit VE (Innenraum)
     </td>
    </tr>
    <tr>
@@ -203,6 +205,7 @@
     <td>
     </td>
     <td>
+      Weit VE
     </td>
     <td>
      Weit  wU20 VE
@@ -358,7 +361,6 @@
     <td>
     </td>
     <td>
-     Weit U18 (Sektor)
     </td>
     <td>
     </td>
@@ -406,7 +408,7 @@
      21.00
     </td>
     <td>
-     5000 m
+     5000 m (A-Lauf)
     </td>
     <td>
     </td>
@@ -423,29 +425,27 @@
     <td>
      21.20
     </td>
-    <td>
-     5000 m
+    <td colspan="8">
+     5000 m (C-Lauf)
     </td>
+   </tr>
+   <tr>
     <td>
+     21.45
     </td>
-    <td>
-    </td>
-    <td>
-     5000 m
-    </td>
-    <td>
-    </td>
-    <td>
+    <td colspan="8">
+     5000 m (B-Lauf, 14:49,00 und 15:48,00min)
     </td>
    </tr>
   </tbody>
  </table>
+ <br /><br />
  <p style="text-align: center;">
   <strong>
    Vorprogramm
   </strong>
   <strong>
-   (Sonntag, 5. Juni 2016)
+   (Sonntag, 05. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -591,7 +591,7 @@
    <tr>
     <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
      <strong>
-      Gala-Programm (Sonntag, 5. Juni 2016)
+      Gala-Programm (Sonntag, 05. Juni 2016)
      </strong>
     </td>
    </tr>
@@ -832,7 +832,7 @@
     <td>
     </td>
     <td>
-     Weit VE
+      Weit VE
     </td>
     <td>
     </td>
@@ -917,7 +917,7 @@
   VL=Vorlauf, ZVL=Zeitvorlauf,  EL=Endlauf, ZEL=Zeitendläufe, E=Endkampf, VE=Vor/Endkampf
  </p>
  <p style="text-align: center;">
-  Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
+  Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Sonntag
  </p>
 
 <?php require("_footer.inc.php"); ?>
