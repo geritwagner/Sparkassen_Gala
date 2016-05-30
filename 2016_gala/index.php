@@ -3,20 +3,32 @@
   <?php require("_header.inc.php"); ?>
 
 
-  <h2>Nichts geht mehr - rien ne vas plus!</h2>
+  <h2>Sparkassen Gala und Laufnacht mit einigen Superlativen</h2>
 
+  <p><strong>Regensburg wird am kommenden Wochenende zum Mittelpunkt Leichtathletik-Deutschlands</strong></p>
+
+  <p><img class="float_left" title="Tatjana Pinto (Kiefner-Foto)" alt="PintoTatjana1 Gala15 Kiefnerfoto" src="http://lg-telis-finanz.de/images/stories/2016/PintoTatjana1_Gala15_Kiefnerfoto.jpg" width="174" height="177">Regensburg, 30. Mai 2016 (orv) – Rechtzeitig, wenn Deutschlands Leichtathleten wieder in Fahrt kommen, wird erneut angerichtet sein im Regensburger Uni-Stadion, am kommenden Wochenende, wenn bei der Laufnacht der LG Telis Finanz (Samstag) und der Sparkassen Gala (Sonntag) ein Highlight das andere jagen wird. „In vielen Disziplinen ist die gesamte deutsche Spitze da. Sie trifft auf internationale Konkurrenz aus über 20 Nationen. Es geht um die begehrten Tickets für die in Amsterdam stattfindenden Europameisterschaften (6-10. Juli) und jene zu den Olympischen Spielen nach Rio (12.-21. August – Leichtathletikwettbewerbe). Masse und Klasse trifft in der in diesen Landen einmaligen Ausführung beim zahlenstärksten Meeting überhaupt aufeinander. Wir verzeichnen ein Teilnehmerplus von über 50 Prozent und sind momentan bei der Startnummer 1200 angelangt“, berichtet Meeting-Direktor Kurt Ring. Selbstverständlich wird die LG Telis Finanz im eigenen Wohnzimmer auch ihre bisher drei für Olympia qualifizierten Athleten Anja Scherl, Philipp Pflieger (beide Marathon) und Florian Orth (5000m) vorstellen. Neben den Dreien haben sich von den „Blauen“ auch Franziska Reng (Halbmarathon) und Maren Kock (5000m) für die Europameisterschaften qualifiziert und sie werden alle da sein. <a href="http://sparkassen-gala.de/news/05-30-Hauptvorschau.php">Hier</a> geht's weiter ...</p>
+
+<h2>Bereinigte Teilnehmerliste nun veröffentlicht</h2>
+<p>
+  <strong>Daraus sind auch die Einteilungen Vor- und Hauptprogramm ersichtlich</strong>
+</p>
+<p>
+    Regensburg, 29. Mai 2016 (Ring) – Wir haben nun bei der Besetzung in den Mittel- und Langstrecken die letzten Änderungen vorgenommen. Das neue Teilnehmerverzeichnis finden Sie nun <a href="/download/sparkassen_gala_2016_teilnehmer.html" target="_blank">» hier</a>.<br /> Reklamationen sind nur noch beim Meeting-Direktor Kurt Ring möglich <a href="mailto:ring@athletics-sport.com">» ring@athletics-sport.com</a>.<br />Bitte beachten Sie den neuen <a href="zeitplan.php">» Zeitplan</a>, der sich nur im Bereich der 5000m (Laufnacht) durch einen zusätzlichen Lauf (21.45 Uhr Männer B-Lauf – alle Teilnehmer mit Bestzeiten zwischen 14:49,00min und 15:48,00 min) geändert hat. Die Männer mit langsameren Zeiten (Männer-C-Lauf) laufen zusammen mit den Frauen um 21.20 Uhr.<br /><br />
+</p>
+
+<h2>Nichts geht mehr - rien ne vas plus!</h2>
 <p>
   <strong>Diesjährige Sparkassen Gala ausgebucht</strong>
 </p>
+<p>
+    Regensburg, 27. Mai 2016 (orv) - Heute, Punkt 12 Uhr mittags, mussten bei der Meldestelle der Sparkassen Gala die Schotten dicht gemacht werden. Die Startnummer 1100 ist vergeben.<br /><br />
+</p>
 
-  <p>
-    Regensburg, 27. Mai 2016 (orv) - Heute, Punkt 12 Uhr mittags, mussten bei der Meldestelle der Sparkassen Gala die Schotten dicht gemacht werden. Die Startnummer 1100 ist vergeben.
-  </p>
 
 <h2>
 3000m bei der Laufnacht für weiblich und männlich
 </h2>
-<br>
 <p>
   <strong>Ausscheidungsrennen des DLV für die JWM U18</strong>
 </p>
