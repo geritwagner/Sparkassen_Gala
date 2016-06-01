@@ -133,7 +133,7 @@
 
     <center>
       <a href="http://www.charivari.com/" target="_blank" class="imagelink">
-        <img src="../images/sponsoren/Charivari_Sparkassengala.jpg" width="550" alt="Charivari" title="Charivari" /> </a>
+        <img src="../images/sponsoren/Charivari_Sparkassengala.jpg" width="350" alt="Charivari" title="Charivari" /> </a>
     </center>
 
     <br />
