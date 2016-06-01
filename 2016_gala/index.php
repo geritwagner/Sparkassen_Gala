@@ -2,7 +2,6 @@
  $menu['current'] = "aktuelles"; ?>
   <?php require("_header.inc.php"); ?>
 
-
 <h2>Franzis Gala-Geflüster #2 – Ein Comeback in Regensburg</h2>
 
 <p><strong>Tina Donder – 3000m Hindernis</strong></p>
