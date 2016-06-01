@@ -7,12 +7,12 @@
 
  <p style="text-align: center;">
   <strong>
-   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (1. Entwurf)
+   Laufnacht der LG Telis Finanz und Sparkassen Gala 2016 (Stand 29.05.2016)
   </strong>
  </p>
  <p style="text-align: center;">
   <strong>
-   Laufnacht  (Samstag, 4. Juni 2016)
+   Laufnacht  (Samstag, 04. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -434,17 +434,18 @@
      21.45
     </td>
     <td colspan="8">
-     5000 m (B-Lauf, 14:49 und 15:49min)
+     5000 m (B-Lauf, 14:49,00 und 15:48,00min)
     </td>
    </tr>
   </tbody>
  </table>
+ <br /><br />
  <p style="text-align: center;">
   <strong>
    Vorprogramm
   </strong>
   <strong>
-   (Sonntag, 5. Juni 2016)
+   (Sonntag, 05. Juni 2016)
   </strong>
  </p>
  <table class="zeitplan" style="width:650px">
@@ -590,7 +591,7 @@
    <tr>
     <td colspan="7" height="80px" style="vertical-align:middle; text-align:center;">
      <strong>
-      Gala-Programm (Sonntag, 5. Juni 2016)
+      Gala-Programm (Sonntag, 05. Juni 2016)
      </strong>
     </td>
    </tr>
@@ -916,7 +917,7 @@
   VL=Vorlauf, ZVL=Zeitvorlauf,  EL=Endlauf, ZEL=Zeitendläufe, E=Endkampf, VE=Vor/Endkampf
  </p>
  <p style="text-align: center;">
-  Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Samstag
+  Die ersten Vier über 800m/1500m  der Laufnacht qualifizieren sich für die A/B-Läufe der Sparkassen Gala am Sonntag
  </p>
 
 <?php require("_footer.inc.php"); ?>
