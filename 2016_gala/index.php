@@ -1,11 +1,21 @@
 <?php $title = "Aktuelles";
  $menu['current'] = "aktuelles"; ?>
-  <?php require("_header.inc.php"); ?>
+   <?php require("_header.inc.php"); ?>
+
+<h2>Franzis Gala-Geflüster #5 – Gala-Wetter für die Hürdensprinterin</h2>
+
+<p><strong>Nadine Hildebrand</strong></p>
+<p><img src="http://sparkassen-gala.de/images/inhalt/Hildebrand_KiefnerFoto.jpg" alt="" class="float_left" title="Nadine Hildebrand (Foto: Kiefner)" height="180" >Regensburg, 2. Juni 2016 (Reng) - 12,79 Sekunden dauerte es, bis Nadine Hildebrand bei ihrer Saison-Eröffnung in Weinheim über 110 Meter Hürden im Ziel war – also nicht sehr lange. „Ich hatte ehrlich gesagt nicht mit einer so schnellen Zeit gerechnet“, gesteht sie. Nach einer etwas holprigen Wintersaison, halfen ihr zwei Trainingslager, um rechtzeitig für den Sommer in Form zu kommen. „Wenn in Regensburg die Bedingungen so gut sind wie in Weinheim, möchte ich meine Leistung bestätigen“, erklärt sie. Und die Chancen stehen nicht schlecht: Wer regelmäßig in Regensburg zu Gast ist, weiß, dass Nadine sich auf das traditionelle Gala-Wetter verlassen kann – und dann steht ihrem Vorhaben wahrlich nichts mehr im Wege!</p>
 
 <h2>Franzis Gala-Geflüster #4 – Mit Lockerheit und Spaß nach Rio</h2>
 
 <p><strong>Sebastian Keiner</strong></p>
 <p><img src="http://www.sparkassen-gala.de/images/inhalt/Keiner_Orth_KiefnerFoto.jpg" alt="" class="float_left" title="Sebastian Keiner (Foto: Kiefner)" width="180">Regensburg, 2. Juni 2016 (Reng) - Dass in diesem Jahr die Uhren ein wenig anders ticken, weiß auch Sebastian Keiner: Olympia steht vor der Tür und damit die altbekannte Jagd nach den Normen, um sich für eine Teilnahme bei den Spielen in Rio zu qualifizieren: „Das zehrt nach einiger Zeit natürlich an den Kräften“, gesteht der 1500 Meter-Läufer, „gerade deswegen stehen für mich am Anfang dieser Saison definitiv Lockerheit und Spaß im Vordergrund!“ Bei der Sparkassen-Gala wird er deshalb einen ersten Versuch in Richtung der geforderten Zeit von 3:35,50min starten, will sich aber auch nicht zu stark unter Druck setzen: „Ich bin fit“, erklärt er, „und zufrieden bin ich, wenn ich am Sonntag alles geben konnte und mit einem cleveren sowie entspannten Lauf überzeuge.“</p>
+
+<h2>Franzis Gala-Geflüster #3 – Wiederholung eines Kunststücks</h2>
+
+<p><strong>Benedikt Huber – 800m</strong></p>
+<p><img src="http://lg-telis-finanz.de/images/stories/2015/Huber1_Mannheim15_Kiefnerfoto.jpg" alt="Huber1 Mannheim15 Kiefnerfoto" class="float_left" title="Benedikt Huber (Foto: Kiefner)" height="180" width="123">Regensburg, 1. Juni 2016 (Reng) - Es ist gerade einmal drei Wochen her, dass sich Benedikt Huber beim Regensburger Rolf-Watter-Sportfest in einer Zeit von 1:52,89min den Siegerpokal über die 800 Meter gesichert hat. Dieses Kunststück möchte er nun bei der Gala an selber Stelle wiederholen - nur diesmal noch schneller und vor noch größerem Publikum. Mutig erklärt er: „Das Ziel ist eine 1:46er-Zeit, also Bestzeit. Das Rennen zu gewinnen wird diesmal sicher schwierig, es ist ja starke Konkurrenz am Start“. Dann fügt „Bene“ aber noch lachend hinzu: „Seit meinem Vereinswechsel zur LG Telis Finanz ist die Gala für mich ja ein Heimrennen. Da werde ich natürlich alles für einen Sieg geben!“</p>
 
 <h2>Franzis Gala-Geflüster #2 – Ein Comeback in Regensburg</h2>
 
