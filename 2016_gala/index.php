@@ -2,6 +2,11 @@
  $menu['current'] = "aktuelles"; ?>
   <?php require("_header.inc.php"); ?>
 
+<h2>Franzis Gala-Geflüster #4 – Mit Lockerheit und Spaß nach Rio</h2>
+
+<p><strong>Sebastian Keiner</strong></p>
+<p><img src="http://www.sparkassen-gala.de/images/inhalt/Keiner_Orth_KiefnerFoto.jpg" alt="" class="float_left" title="Sebastian Keiner (Foto: Kiefner)" width="180">Regensburg, 2. Juni 2016 (Reng) - Dass in diesem Jahr die Uhren ein wenig anders ticken, weiß auch Sebastian Keiner: Olympia steht vor der Tür und damit die altbekannte Jagd nach den Normen, um sich für eine Teilnahme bei den Spielen in Rio zu qualifizieren: „Das zehrt nach einiger Zeit natürlich an den Kräften“, gesteht der 1500 Meter-Läufer, „gerade deswegen stehen für mich am Anfang dieser Saison definitiv Lockerheit und Spaß im Vordergrund!“ Bei der Sparkassen-Gala wird er deshalb einen ersten Versuch in Richtung der geforderten Zeit von 3:35,50min starten, will sich aber auch nicht zu stark unter Druck setzen: „Ich bin fit“, erklärt er, „und zufrieden bin ich, wenn ich am Sonntag alles geben konnte und mit einem cleveren sowie entspannten Lauf überzeuge.“</p>
+
 <h2>Franzis Gala-Geflüster #2 – Ein Comeback in Regensburg</h2>
 
 <p><strong>Tina Donder – 3000m Hindernis</strong></p>
