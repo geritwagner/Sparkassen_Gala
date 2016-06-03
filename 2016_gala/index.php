@@ -2,6 +2,10 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Franzis Gala-Geflüster #6 – Mit Lady Gaga Richtung Rio</h2>
+<p><strong>Denise Krebs</strong></p>
+<p><img src="http://sparkassen-gala.de/2016/images/inhalt/Krebs_KiefnerFoto.jpg" alt="" class="float_left" title="Denise Krebs (Foto: Kiefner)" height="160">Regensburg, 3. Juni 2016 (Reng) - „Ich fühle mich super fit und würde gerne die EM-Norm, wenn nicht gar schon die Olympia-Norm schaffen!“ – wenn man Denise Krebs so sprechen hört, bleibt einem nichts anderes übrig, als sich auf ihren Start über 1500 Meter bei der Sparkassen-Gala zu freuen. Auch sie fiebert dem Rennen schon entgegen, denn dort stößt sie auf geradezu alle deutschen Läuferinnen, die auf dieser Distanz Rang und Namen haben. Da ist eine optimale Vorbereitung natürlich das A und O: „Ich höre vor dem Wettkampf gerne Musik, um mich zu pushen“, erklärt sie. Am besten funktioniert das bei ihr übrigens mit „Born this way“ von Lady Gaga. Vielleicht kann unser Stadion-DJ da ja mithelfen…</p>
+
 <h2>Franzis Gala-Geflüster #5 – Gala-Wetter für die Hürdensprinterin</h2>
 
 <p><strong>Nadine Hildebrand</strong></p>
