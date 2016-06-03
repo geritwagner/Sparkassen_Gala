@@ -2,6 +2,12 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+ <h2>Franzis Gala-Geflüster #7 – Der Youngster trifft sein Vorbild</h2>
+
+ <p><strong>Tobias Potye</strong></p>
+ <p><img src="http://sparkassen-gala.de/2016/images/inhalt/Potye_KiefnerFoto.jpg" alt="" class="float_left" title="Tobias Potye (Foto: Kiefner)" height="150">Regensburg, 3. Juni 2016 (Reng) - „Ich hoffe, Eike kommt am Sonntag!“ Die Vorfreude ist Tobias Potye anzuhören. Schon seit er vor vielen Jahren mit der Leichtathletik begonnen hat, ist ihm der Hochspringer Eike Onnen bestens bekannt. Mittlerweile ist Tobias 21 Jahre alt und selbst in der deutschen Hochsprung-Elite angekommen. „Ich vermute, Eike kennt mich seit den vergangenen Jahren auch“, lacht er. In den letzten Monaten hatte Tobias allerdings mit Verletzungspech zu kämpfen und konnte erst im März wieder ins Training einsteigen: „Vermutlich werde ich Eike im Kampf um den Sieg noch nichts entgegensetzen können“, befürchtet er - der Vorfreude auf ein erneutes Treffen mit seinem großen Vorbild tut dies aber selbstverständlich keinen Abbruch.</p>
+
+
 <h2>Franzis Gala-Geflüster #6 – Mit Lady Gaga Richtung Rio</h2>
 <p><strong>Denise Krebs</strong></p>
 <p><img src="http://sparkassen-gala.de/2016/images/inhalt/Krebs_KiefnerFoto.jpg" alt="" class="float_left" title="Denise Krebs (Foto: Kiefner)" height="160">Regensburg, 3. Juni 2016 (Reng) - „Ich fühle mich super fit und würde gerne die EM-Norm, wenn nicht gar schon die Olympia-Norm schaffen!“ – wenn man Denise Krebs so sprechen hört, bleibt einem nichts anderes übrig, als sich auf ihren Start über 1500 Meter bei der Sparkassen-Gala zu freuen. Auch sie fiebert dem Rennen schon entgegen, denn dort stößt sie auf geradezu alle deutschen Läuferinnen, die auf dieser Distanz Rang und Namen haben. Da ist eine optimale Vorbereitung natürlich das A und O: „Ich höre vor dem Wettkampf gerne Musik, um mich zu pushen“, erklärt sie. Am besten funktioniert das bei ihr übrigens mit „Born this way“ von Lady Gaga. Vielleicht kann unser Stadion-DJ da ja mithelfen…</p>
