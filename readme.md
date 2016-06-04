@@ -1,7 +1,4 @@
 ## To do
-* impressionen 2009 fehlen - wiederherstellen
-* ggf. auto-ftp-push einrichten
-* symbolic links zusammentragen oder versionieren?
 * mit Lukas klären:
 	```
 	Die 301 Redirects funktionieren, hat doch super geklappt :)
@@ -20,7 +17,7 @@
 	```
 	Jahre:
 
-	# start script in directory: ~/gala
+	# run script in directory: ~/gala
 
 	for d in 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
 	cd ${d}_gala
@@ -44,7 +41,10 @@
 	ln -s ../2001_gala/ 2001
 
 	Impressionen:
-	ln -s ../../media/images/gala/20XY_impressionen/ impressionen
+	mkdir ~/media/images/gala/2016_impressionen/
+	mkdir ~/media/images/gala/2016_impressionen/photos
+	cd ~/gala/2016_gala/
+	ln -s ../../media/images/gala/2016_impressionen/ photos
 	```
 
 Der Rückblick wird über folgendes Skript abgebildet:
@@ -80,12 +80,27 @@ Der Rückblick wird über folgendes Skript abgebildet:
 * Internet: auf korrekte Einrichtung des Netzwerks achten (keine Verwendung statischer IPs, kein Hosten eigener WLAN-Hotspots)
 
 ## Während der Gala
+* Live-Ergebnisse verlinken
+	* Gala-Seite (_header.dir1.inc.php, _header.inc.php, ergebnisse.php) [Beispiel](https://github.com/lg-regensburg/gala/commit/858276a2ca5e891ecf893e95431932454c9d42ad)
+	* Facebook
+	* LG-Seite (News-Telegramm)
+* Livestream verlinken
+	* Gala-Seite
+	* Facebook
+	* LG-Seite (News-Telegramm)
 * Social-Media Kanäle
 * LG-HP
-* Fotographen
-* Livestream
+* Fotographen/Impressionen (/photos)
 
 ## Nach der Gala
+* Livestream-Link entfernen (durch Gesamtergebnisse ersetzen)
+	* Gala-Seite
+	*LG-Seite (News-Telegrammm)
+* Videos (youtube) verlinken
+	* Gala-Seite
+	* Facebook
+	* LG-Seite (News-Telegrammm)
+
 * Video-Bestellungen:
 	```
 	letztes Jahr haben wir die Videos wie folgt abgewickelt.
