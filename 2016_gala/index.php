@@ -2,14 +2,18 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Ruth Sophia Spelmeyer erstmals unter 52 Sekunden</h2>
+
+<p><strong>Ruth Sophia Spelmeyer hat am Samstag in Regensburg den nächsten Meilenstein ihrer Karriere erreicht</strong></p>
+<p><img src="http://sparkassen-gala.de/2016/images/inhalt/Spelmeyer_KiefnerFoto.jpg" alt="" class="float_left" title="Ruth Sophia Spelmeyer (Foto: Kiefner)" width="292" height="194">Regensburg, 4. Juni 2016 (leichtathletik.de) - Die Oldenburger 400 Meter-Läuferin blieb zum ersten Mal überhaupt unter 52 Sekunden. Mit einer Zeit von 51,92 Sekunden unterbot die Deutsche Meisterin auch die Olympia-Norm von 52,20 Sekunden deutlich. Als Drittplatzierte hinter Emily Diamond (Großbritannien; 51,23 sec) und Mupopo Kabange (Sambia; 51,35 sec) musste sie zunächst noch bange Sekunden überstehen, ehe ihre Zeit offiziell war. Dann schickte Ruth Sophia Spelmeyer erst einmal einen lauten Jubelschrei in Richtung Oberpfälzer Himmel. „Endlich die 51 vor dem Komma, endlich die Norm abgehakt. Das bedeutet mir alles. Olympia war das große Ziel, das ich von Anfang an hatte“, sagte sie nach dem Lauf. <a href="http://www.leichtathletik.de/news/news/detail/ruth-sophia-spelmeyer-erstmals-unter-52-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ...</p>
+
 <h2>Olympianorm für Ruth Sophia Spelmeyer über 400m</h2>
 
 <p>
   <strong>Vierteilmeilerin nutzt die Regensburger Laufnacht</strong>
 </p>
 
-<p><img src="http://sparkassen-gala.de/2016/images/inhalt/Spelmeyer_KiefnerFoto.jpg" alt="" class="float_left" title="Ruth Sophia Spelmeyer (Foto: Kiefner)" width="251">
-  Regensburg, 4. Juni 2016 - Ruth Sophia Spelmeyer hat die guten Bedinungen auf der Regensburger Bahn genutzt und sich für die Spiele in Rio qualifiziert. Bei ihrem Lauf profitierte sie von Emily Diamond und Kabange Mupopo, die ein schnelles Tempo vorlegten. Am Ende standen für Spelmeyer 51.92s und damit die Qualifikationsnorm für die Olympischen Spiele zu Buche. "Eine Riesen-Erleichterung", sagte die Oldenburgerin im anschließenden Interview. Nächste Station auf dem Weg nach Rio sind die Deutschen Meisterschaften in Kassel.
+<p>Regensburg, 4. Juni 2016 - Ruth Sophia Spelmeyer hat die guten Bedinungen auf der Regensburger Bahn genutzt und sich für die Spiele in Rio qualifiziert. Bei ihrem Lauf profitierte sie von Emily Diamond und Kabange Mupopo, die ein schnelles Tempo vorlegten. Am Ende standen für Spelmeyer 51.92s und damit die Qualifikationsnorm für die Olympischen Spiele zu Buche. "Eine Riesen-Erleichterung", sagte die Oldenburgerin im anschließenden Interview. Nächste Station auf dem Weg nach Rio sind die Deutschen Meisterschaften in Kassel.
 </p>
 
 
