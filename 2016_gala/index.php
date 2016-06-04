@@ -2,6 +2,17 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Olympianorm für Ruth Sophia Spelmeyer über 400m</h2>
+
+<p>
+  <strong>Vierteilmeilerin nutzt die Regensburger Laufnacht</strong>
+</p>
+
+<p><img src="http://sparkassen-gala.de/2016/images/inhalt/Spelmeyer_KiefnerFoto.jpg" alt="" class="float_left" title="Ruth Sophia Spelmeyer (Foto: Kiefner)" width="251">
+  Regensburg, 4. Juni 2016 - Ruth Sophia Spelmeyer hat die guten Bedinungen auf der Regensburger Bahn genutzt und sich für die Spiele in Rio qualifiziert. Bei ihrem Lauf profitierte sie von Emily Diamond und Kabange Mupopo, die ein schnelles Tempo vorlegten. Am Ende standen für Spelmeyer 51.92s und damit die Qualifikationsnorm für die Olympischen Spiele zu Buche. "Eine Riesen-Erleichterung", sagte die Oldenburgerin im anschließenden Interview. Nächste Station auf dem Weg nach Rio sind die Deutschen Meisterschaften in Kassel.
+</p>
+
+
 <h2>Franzis Gala-Geflüster #9 – Die jungen Wilden setzen Ausrufezeichen</h2>
 
 <p><strong>Alina Reh und Konstanze Klosterhalfen</strong></p>
