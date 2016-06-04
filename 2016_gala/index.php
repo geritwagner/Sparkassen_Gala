@@ -12,12 +12,10 @@
 <p><strong>Christian Blum</strong></p>
 <p><img src="http://sparkassen-gala.de/2016/images/inhalt/Blum_FotoKiefner.jpg" alt="" class="float_left" title="Christian Blum (Foto: Kiefner)" height="150">Regensburg, 4. Juli 2016 (Reng) - Dass am Sonntag alle deutschen Top-Sprinter über die 100 Meter-Distanz in Regensburg an den Start gehen, steht fest. Dass auch die internationale Konkurrenz ein Wörtchen mitreden will, ist ebenfalls gewiss. Was dagegen noch völlig offen ist: In welche Richtung eigentlich gelaufen wird. „Die Rückenwindgarantie ist sehr wichtig für uns“, bestätigt Christian Blum, der nicht zuletzt deswegen die Bedingungen der Sparkassen-Gala zu schätzen weiß: „Das Rennen wird so ein wirklicher Test auf sehr hohem Niveau und es macht natürlich Spaß, sich gegen alle zu messen.“ Nicht zuletzt auch gegen Julian Reus, dem zuletzt kein deutscher Sprinter das Wasser reichen konnte und der bereits in der Vorwoche mit einer Zeit von 10,18s überzeugen konnte. „Mein erster Testwettkampf in Clermont war mit einer Zeit von 10,31s auch gut, ich kann mich nicht beschweren“, erklärt Christian Blum, „am ehesten kann Julian Reus aber wahrscheinlich noch Roy Schmidt gefährlich werden. Mein Fokus liegt dagegen ganz bei mir.“</p>
 
-
 <h2>Franzis Gala-Geflüster #7 – Der Youngster trifft sein Vorbild</h2>
 
 <p><strong>Tobias Potye</strong></p>
 <p><img src="http://sparkassen-gala.de/2016/images/inhalt/Potye_KiefnerFoto.jpg" alt="" class="float_left" title="Tobias Potye (Foto: Kiefner)" height="150">Regensburg, 3. Juni 2016 (Reng) - „Ich hoffe, Eike kommt am Sonntag!“ Die Vorfreude ist Tobias Potye anzuhören. Schon seit er vor vielen Jahren mit der Leichtathletik begonnen hat, ist ihm der Hochspringer Eike Onnen bestens bekannt. Mittlerweile ist Tobias 21 Jahre alt und selbst in der deutschen Hochsprung-Elite angekommen. „Ich vermute, Eike kennt mich seit den vergangenen Jahren auch“, lacht er. In den letzten Monaten hatte Tobias allerdings mit Verletzungspech zu kämpfen und konnte erst im März wieder ins Training einsteigen: „Vermutlich werde ich Eike im Kampf um den Sieg noch nichts entgegensetzen können“, befürchtet er - der Vorfreude auf ein erneutes Treffen mit seinem großen Vorbild tut dies aber selbstverständlich keinen Abbruch.</p>
-
 
 <h2>Franzis Gala-Geflüster #6 – Mit Lady Gaga Richtung Rio</h2>
 <p><strong>Denise Krebs</strong></p>
