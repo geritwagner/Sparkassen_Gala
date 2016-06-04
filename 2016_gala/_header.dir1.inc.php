@@ -60,6 +60,7 @@ $mA = $menu['active'];
                     <li><a href="">Impressionen   »</a>
                       <ul id="navImpressionen">
                         <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
+                        <li><a href="http://www.sportmomente-premru.de/fotos/sparkassengala-1-tag/" target="_blank">von Timo Premru</a></li>
                       </ul>
                     </li>
                     <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video-Highlights<!--   »--></a>

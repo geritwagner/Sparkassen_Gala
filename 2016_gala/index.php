@@ -2,6 +2,11 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Erste Impressionen online</h2>
+
+<p>Die ersten Impressionen von Timo Premru sind <a href="http://www.sportmomente-premru.de/fotos/sparkassengala-1-tag/" target="_blank">online</a>.</p>
+
+
 <h2>Ruth Sophia Spelmeyer erstmals unter 52 Sekunden</h2>
 
 <p><strong>Ruth Sophia Spelmeyer hat am Samstag in Regensburg den nächsten Meilenstein ihrer Karriere erreicht</strong></p>
