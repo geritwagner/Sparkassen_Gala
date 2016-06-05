@@ -2,6 +2,14 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+
+<h2>Klasse Nachwuchsrennen auf der Mittelstrecke</h2>
+
+<p><strong>Drei deutsche U20-Läufer unter 1:49 über 800m und 3:46 über 1500m</strong></p>
+<p>Regensburg, 4. Juni 2016 (orv) - Faszinierende Duelle verzeichneten die U20-WM-Ausscheidungsrennen über 800m und 1500m. Lokalmatador Beni Huber brauchte auf der ersten Runde der 800m Deutschlands Jugendliche so richtig in Schwung. Am Ende kämpften vier Jungtalente verbissen um den Sie und das mit Klassezeiten. Ganz vorne landete Pascal Kleyer aus der Karlsruher Talentschmiede mit 1:48,50, knapp dahinter Dennis Biederbick (1:48,53), Robert Farken (1:48,87) und Christian von Eitzen (1:49,37). Jetzt haben die Bundestrainer ein Besetzungsproblem für die U20 WM, weil der bisherige Saisonbeste zwar sehr gut war, aber nicht auf einem der zwei vorderen Plätze ankam. Ein weiteres Rennen tags darauf bei der Sparkassen Gala soll nun für Klarheit sorgen.</p>
+<p>Das von den Regensburgern Felix Plinke und Tim Ramdane Cherif mustergültig angezogene 1500m Rennen sorgte für ähnliche erfreuliche Unklarheiten. Am Ende lagen gleich drei deutsche Jugendliche mit erheblichen Steigerungen unter 3:46 auf Kurs für die beiden WM-Plätze. Lukas Abele hieß schließlich der strahlende Sieger bei 3:45,12. Knapp dahinter stürmten Marvin Heinrich (3:45,40), Jamie Williamson (3:45,45) und Männer-Sieger Moritz Beinlich (3:45,55) über den Zielstrich, allesamt mit persönlichen Hausrekorden. Den konnte auch noch Pacemaker Tim Ramdane Cherif mit 3:50,84 verzeichnen.</p>
+
+
 <h2>Erste Höhepunkte durch die Viertelmeiler</h2>
 
 <p><strong>Newcomer Patrick Schneider sorgt fast für eine Sensation - Alexander Gladitz bleibt unter 46 Sekunden - Ruth Sophia Spelmeyer knackt mit 51,92sec Olympianorm</strong></p>
