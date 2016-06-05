@@ -2,6 +2,11 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Gina Lückenkemper steigert sich auf 22,67 Sekunden</h2>
+
+<p><strong>Platz 2 der Weltjahresbestenliste</strong></p>
+<p><img src="http://lg-telis-finanz.de/images/stories/2016/Lueckenkemper_KiefnerFoto.jpg" alt="Lueckenkemper KiefnerFoto" class="float_left" title="Gina Lückenkemper (Foto: Kiefner)" width="329" height="218">Regensburg, 5. Juni 2016 (leichtathletik.de) - Für noch mehr Furore sorgte Gina Lückenkemper auf den 200 Metern. Die U20-Europameisterin deklassierte in ihrem ersten 200 Meter-Rennen des Jahres in 22,67 Sekunden die Konkurrenz um Lisa Mayer (23,04 sec). Sie unterbot die Olympia-Norm von 23,20 Sekunden und ihre bisherige Bestzeit von 23,04 Sekunden deutlich. "Das war megageil für das erste 200 Meter-Rennen seit fast einem Jahr. ich habe mich selber überrascht, weil sich die Beine nicht hundertprozentig fit anfühlten und wir vorher noch die Staffel gelaufen sind. Da mussten wir schon alles geben. Die Kurve hat schon viel Spaß gemacht, auf der Geraden wurden die Beine etwas schwer. Es war aber alles noch im Maß. Ich hatte es mir deutlich schlimmer vorgestellt und gedacht, ich laufe ein bisschen langsamer", stellte Gina Lückenkemper fest. In Europa ist sie damit momentan die drittschnellste Sprinterin.</p>
+
 <h2>EM-Norm für Sören Ludolph</h2>
 
 <p><strong>Schnelle Mittelstreckler nutzen die Regensburger Bahn</strong></p>

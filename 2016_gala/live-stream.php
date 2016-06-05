@@ -2,15 +2,15 @@
  $menu['current'] = "livestream"; ?>
   <?php require("_header.inc.php"); ?>
 
-<h2>Live Stream</h2><br/>
-<!--Der Live Stream startet heute wieder pünktlich um 14 Uhr zum Hauptprogramm der Sparkassen Gala.-->
+<!-- <h2>Live Stream</h2><br/>
+<!--Der Live Stream startet heute wieder pünktlich um 14 Uhr zum Hauptprogramm der Sparkassen Gala.
  Auch für die Sparkassen Gala 2016 gibt es wieder einen Live Stream.
 <br /><br /><a href="livestream-popup.php" target="_blank">»Live-Stream ist online</a>
-<!--<br /> -->
+<br />
+<br /><br /> -->
 
-    <!--
-    <h2>Highlights der Sparkassen Gala 2016</h2>
-    <br/> Die Highlight Videos von leichtathletik.tv gibt es <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">»hier</a>.-->
+    <h2>Video Mitschnitte</h2>
+    <br/>Viele Video Mitschnitte der Sparkassen Gala 2016 gibt es bereits in der Playlist auf dem YouTube Kanal der LG Telis Finanz: <a href="https://www.youtube.com/playlist?list=PLKSOlqrE36tl3qGIhH0WpzVH_qC8cVBWO" target="_blank">»hier</a>.
 
     <!--<br>
 <br>
