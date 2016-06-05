@@ -11,7 +11,7 @@
 <!-- end: #footer -->
 </div>
 </div>
-<div id="copyright">© 2016 athletics SPORT GmbH</div>
+<div id="copyright">© 2016 athletics SPORT GmbH | entwickelt mit git, verfügbar auf <a href="https://github.com/lg-regensburg/gala" target="_blank">Github</a></div>
 <!-- Google Analytics -->
 <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
