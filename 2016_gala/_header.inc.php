@@ -138,6 +138,6 @@ $mA = $menu['active'];
               <h4 class="hinweis" style="text-align:center;">
                 <!-- <a href="../news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
                 target="_blank">»leichtathletik.tv Videos</a> und   -->
-                Die <a href="ergebnisse.php">»Live-Ergebnisse</a> zum Gala-Vorprogramm sind online</h4>
+                Die <a href="ergebnisse.php">»Live-Ergebnisse</a> sind online, <a href="live-stream.php">»Live-Stream</a> startet um 14 Uhr</h4>
 
             <br>

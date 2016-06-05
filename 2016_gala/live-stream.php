@@ -3,8 +3,8 @@
   <?php require("_header.inc.php"); ?>
 
 <h2>Live Stream</h2><br/>
-<!-- Der Live Stream startet heute wieder pünktlich kurz nach 16 Uhr zum Hauptprogramm der Sparkassen Gala. -->
-Auch für die Sparkassen Gala 2016 gibt es wieder einen Live Stream.
+Der Live Stream startet heute wieder pünktlich um 14 Uhr zum Hauptprogramm der Sparkassen Gala.
+<!-- Auch für die Sparkassen Gala 2016 gibt es wieder einen Live Stream. -->
 <!--
 <br /><a href="livestream-popup.php" target="_blank">»Live-Stream ist online</a>
 <br /> -->
