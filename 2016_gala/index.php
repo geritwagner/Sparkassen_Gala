@@ -7,11 +7,9 @@
 <p><strong>Wind dezimiert 200m Felder</strong></p>
 <p>Regensburg, 5. Juni 2016 (orv) - Regensburg, 4. Juni 2016 (orv) - Die Laufnacht der LG Telis Finanz, die ihrem Namen bei einem Beginn um 12.45 Uhr so gar nicht gerecht werden wollte, hatte im Regensburger Uni-Stadion einen zähen Anfang. Schuld daran war der Wind, der zwar schönes Wetter brachte, den Sprintern über die halbe Stadionrunde permanent entgegen stand und somit bestleistungsfeindlich war. Tatsächlich fehlte dann auch gut ein Drittel der gemeldeten 200m-Läufer/innen, was zu gehörigen Pausen im sonst enggefassten Zeitplan sorgte. "So etwas ist in Regensburg ein Novum. Das bin ich gar nicht gewohnt", meinte denn auch Moderator Florian Weber, der die Zwischenräume aber charmant mit der einen oder anderen Anekdote zur zehnjährigen Geschichte der Veranstaltung füllen konnte.</p>
 
-
 <h2>Erste Impressionen online</h2>
 
 <p>Die ersten Impressionen von <a href="http://www.sportmomente-premru.de/fotos/sparkassengala-1-tag/" target="_blank">Timo Premru</a>, <a href="http://www.lg-telis-finanz.de/kiefner/laufnacht16/" target="_blank">Theo Kiefner</a> und <a href="https://www.pictrs.com/sportlich-belichtet/8183346/laufnacht-zur-sparkassen-gala-2016-in-regensburg?l=de" target="_blank">Christian Göstl</a> sind online.</p>
-
 
 <h2>Ruth Sophia Spelmeyer erstmals unter 52 Sekunden</h2>
 
