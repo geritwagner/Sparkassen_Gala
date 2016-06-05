@@ -2,6 +2,17 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>EM-Norm für Sören Ludolph</h2>
+
+<p><strong>Schnelle Mittelstreckler nutzen die Regensburger Bahn</strong></p>
+<p><img src="http://lg-telis-finanz.de/images/stories/2016/Soeren_Ludolf_KiefnerFoto.jpg" alt="Soeren Ludolf KiefnerFoto" class="float_left" title="Sören Ludolph (Foto: Kiefner)" width="273" height="181"><p class="img_caption">Regensburg, 5. Juni 2016 (leichtathletik.de) - Beim Braunschweiger Sören Ludolph geht es wieder aufwärts. In 1:46,43 Minuten hakte er die EM-Norm über 800 Meter ab. Es war seine schnellste Zeit seit vier Jahren. Der 28-Jährige will aber noch mehr: „Wir waren ganz gut unterwegs. Es hat sich gut angefühlt. Die Olympia-Norm kann ich, das will ich auch.“ Auf Platz zwei fehlten dem Lokalmatadoren Benedikt Huber in 1:46,57 Minuten nur sieben Hundertstel zur Amsterdam-Norm. Im Frauen-Rennen lieferte das Laufwunder Konstanze Klosterhalfen die nächste Galavorstellung ab. Die Leverkusenerin steigerte in dem einmal mehr mutigen Rennen ihre persönliche Bestzeit auf 2:03,18 Minuten und hängte ihre Gegnerinnen um mehr als zweieinhalb Sekunden ab: "Ich wollte noch einmal Bestzeit laufen, aber noch einen Ticken schneller. Es war dann vielleicht aber doch ein bisschen zu schnell am Anfang." <a href="http://www.leichtathletik.de/news/news/detail/1007-julian-reus-dreht-auf/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de ...</p>
+
+<h2>Erste Impressionen von Theo Kiefner sind online</h2>
+
+<p>
+  Die ersten Bilder der Sparkassen-Gala von Theo Kiefner sind <a href="news/impressionen-kiefner.php">online</a>.
+</p>
+
 <h2>10,07 – Julian Reus dreht auf</h2>
 
 <p><strong>Perfekte Bedingungen im Regensburger Uni-Stadion</strong></p>
