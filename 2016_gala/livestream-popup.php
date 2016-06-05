@@ -50,7 +50,7 @@
       </a>
     </center>
     <br />
-    <iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/6a7bf2f5-0061-11e5-9476-002590c750be" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <iframe id="sdn" title="3Q SDN" width="640" height="360" src="http://playout.3qsdn.com/da0f69f2-fbdf-11e5-8126-0cc47a188158" frameborder="0" scrolling="no" allowfullscreen></iframe>
     <!--   <div align="center">
     <OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codeBase='http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab' width='500' height='400'>
       <PARAM NAME='FlashVars' VALUE='token=FFD9426E98A9DFB2C0117B7B3F1862F1'/>
@@ -68,9 +68,9 @@
 
     <br />
 
-    <div id="footnote">Es gibt leider kleine Probleme mit dem Live Stream, wir bitten die Störungen zu entschuldigen und arbeiten an der Lösung.
+    <div id="footnote"><!--Es gibt leider kleine Probleme mit dem Live Stream, wir bitten die Störungen zu entschuldigen und arbeiten an der Lösung.
       <br />
-      <br />Ein Angebot der <a href="http://www.lg-telis-finanz.de/" target="_blank">LG TELIS FINANZ Regensburg</a>, produziert von <a href="http://www.seltec.at/" target="_blank">Seltec</a>, unterstützt durch die <a href="http://www.telis-finanz.de/" target="_blank">TELIS FINANZ AG</a>,
+      <br />-->Ein Angebot der <a href="http://www.lg-telis-finanz.de/" target="_blank">LG TELIS FINANZ Regensburg</a>, produziert von athletics Sport GmbH, unterstützt durch die <a href="http://www.telis-finanz.de/" target="_blank">TELIS FINANZ AG</a>,
       weitere Infos unter <a href="http://www.sparkassen-gala.de/" target="_blank">www.sparkassen-gala.de</a> - Feedback bitte an
       <script language="JavaScript">
         document.write('<a hre' + 'f="ma' + 'ilto' + ':' + '%76%69%64%65%6f%73%40%6c%67%2d%74%65%6c%69%73%2d%66%69%6e%61%6e%7a%2e%64%65">videos@lg-telis-finanz.de<\/a>');
