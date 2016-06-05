@@ -60,8 +60,10 @@ $mA = $menu['active'];
                     <li><a href="">Impressionen   »</a>
                       <ul id="navImpressionen">
                         <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
+                        <li><a href="http://www.sportmomente-premru.de/fotos/sparkassengala-1-tag/" target="_blank">von Timo Premru (Tag 1)</a></li>
+                        <li><a href="http://www.lg-telis-finanz.de/kiefner/laufnacht16/" target="_blank">von Theo Kiefner (Tag 1)</a></li>
+                        <li><a href="https://www.pictrs.com/sportlich-belichtet/8183346/laufnacht-zur-sparkassen-gala-2016-in-regensburg?l=de" target="_blank">von Christian</li>
                       </ul>
-                    </li>
                     <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video-Highlights<!--   »--></a>
                       <!--<ul id="navImpressionen">
 					      <li><a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/" target="_blank">Video Highlights</a></li>
@@ -136,6 +138,6 @@ $mA = $menu['active'];
               <h4 class="hinweis" style="text-align:center;">
                 <!-- <a href="../news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
                 target="_blank">»leichtathletik.tv Videos</a> und   -->
-                Die <a href="ergebnisse.php">»Live-Ergebnisse</a> zur Laufnacht sind online</h4>
+                Die <a href="ergebnisse.php">»Live-Ergebnisse</a> zum Gala-Vorprogramm sind online</h4>
 
             <br>
