@@ -2,6 +2,12 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>Erste Höhepunkte durch die Viertelmeiler</h2>
+
+<p><strong>Newcomer Patrick Schneider sorgt fast für eine Sensation - Alexander Gladitz bleibt unter 46 Sekunden - Ruth Sophia Spelmeyer knackt mit 51,92sec Olympianorm</strong></p>
+<p><img src="http://sparkassen-gala.de/2016/images/inhalt/Spelmeyer_Lieske_PremruFoto.jpg" alt="" class="float_left" title="Spelmeyer und LG-Präsident Lieske (Premru-Foto)" width="331" height="220">Regensburg, 4. Juni 2016 (orv) - Fast hätte ein Nobody den Arrivierten über 400m die Show geklaut. Patrick Schneider stürmte jedenfalls in den untergradigen Zeitläufen die Bahn herunter, als wolle er die Welt auf der Stadionrunde auf den Kopf stellen. Am Ende standen unglaubliche 46,22 an der Anzeigentafel, fast zwei Sekunden schneller als er bisher gelaufen war. Im eigentlichen A-Lauf liefen denn auch nur noch Alexander Gladitz, der mit 45,94 die EM-Norm unterbot und erstmals in diesem Jahr unter den 46 Sekunden blieb, sowie der diesjährige deutsche Jahresbeste Johannes Trefz mit 46,02 nur schneller.</p>
+<p>Bei den Damen gab's dann das hochwertigste Rennen der gesamten Laufnacht. Die Britin Emily Diamond und Kabange Mupopo aus Sambia lieferten sich ein heißes Duell, das mit 51,23 zu 51,35 zu Gunsten der Britin endete. So schnell waren im Uni-Stadion noch nie Frauen die Stadionrunde gelaufen. In deren Sog knackte Ruth Sophia Spelmeyer die ersehnte Olympianorm mit sehr guten 51,92. Für JWM-Normerfüllungen sorgten Hannah Mergenthaler und Hendrikje Richter mit 53,52 und 53,61sec.</p>
+
 <h2>Zäher Beginn der Laufnacht</h2>
 
 <p><strong>Wind dezimiert 200m Felder</strong></p>
