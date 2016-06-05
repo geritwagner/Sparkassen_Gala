@@ -2,6 +2,17 @@
  $menu['current'] = "aktuelles"; ?>
    <?php require("_header.inc.php"); ?>
 
+<h2>10,07 – Julian Reus dreht auf</h2>
+
+<p><strong>Perfekte Bedingungen im Regensburger Uni-Stadion</strong></p>
+<p><img src="http://lg-telis-finanz.de/images/stories/2016/Reus_KiefnerFoto.jpg" alt="Reus KiefnerFoto" class="float_left" title="Julian Reus (Foto: Kiefner)" width="241" height="160">Regensburg, 5. Juni 2016 (leichtathletik.de) - Der deutsche Rekordhalter Julian Reus präsentierte sich am Sonntag bei der Sparkassen-Gala in Regensburg in herausragender Form. Der Wattenscheider nutzte die guten Bedingungen im Vorlauf bei einem idealen Rückenwind von 1,8 Metern pro Sekunde zu einer Zeit von 10,07 Sekunden. Nur einmal war er unter regulären Bedingungen bisher schneller, bei seinem deutschen Rekord vor zwei Jahren in Ulm (10,05 sec). „ich bin natürlich zufrieden, dass ich das zeigen konnte, was ich letzte Woche in Dessau schon angedeutet hatte. Ich habe die doch guten Bedingungen genutzt. Die Olympia-Norm abgehakt, wieder unter 10,10 gelaufen, das ist schon sehr ordentlich“, sagte der schnellste Deutsche, der auf das Finale verzichtete, um noch weitere Starts mit der Staffel und über 200 Meter anzupeilen. <a href="http://www.leichtathletik.de/news/news/detail/nadine-hildebrand-wieder-unter-13-sekunden/" target="_blank">Hier</a> geht's weiter auf leichtathletik.de</p>
+
+
+<h2>Die Regensburger und ihr Wetterglück</h2>
+
+<p><strong>Unwetter zog am Uni-Stadion vorbei</strong></p>
+<p>Regensburg, 4. Juni 2016 (orv) - Das Gerücht, das Meeting-Direktor Kurt Ring mit Petrus einen hochdotierten Vertrag abgeschlossen hätte, stimmt natürlich nicht. Während in vielen Gegenden Bayerns Unwetter ihr Unwesen trieben, blieb es während der ganzen Veranstaltung im Uni-Stadion trocken und es herrschten sogar ideale Verhältnisse für die Leichtathletik. Lediglich am Ende eilte es dann doch ein wenig. Von Osten zog eine mächtige Gewitterfront auf und die beiden 5.000m Läufe hatten mit dem aufkommenden Wind schon starke Probleme. Die Zeiten blieben unter den Erwartungen und so manche angepeilte DM-Normerfüllung wurde bei den Damen sprichwörtlich verblasen.</p>
+
 <h2>Die Regensburger und ihr Wetterglück</h2>
 
 <p><strong>Unwetter zog am Uni-Stadion vorbei</strong></p>
@@ -93,32 +104,5 @@
 <p><strong>Regensburg wird am kommenden Wochenende zum Mittelpunkt Leichtathletik-Deutschlands</strong></p>
 
 <p><img class="float_left" title="Tatjana Pinto (Kiefner-Foto)" alt="PintoTatjana1 Gala15 Kiefnerfoto" src="http://lg-telis-finanz.de/images/stories/2016/PintoTatjana1_Gala15_Kiefnerfoto.jpg" width="174" height="177">Regensburg, 30. Mai 2016 (orv) – Rechtzeitig, wenn Deutschlands Leichtathleten wieder in Fahrt kommen, wird erneut angerichtet sein im Regensburger Uni-Stadion, am kommenden Wochenende, wenn bei der Laufnacht der LG Telis Finanz (Samstag) und der Sparkassen Gala (Sonntag) ein Highlight das andere jagen wird. „In vielen Disziplinen ist die gesamte deutsche Spitze da. Sie trifft auf internationale Konkurrenz aus über 20 Nationen. Es geht um die begehrten Tickets für die in Amsterdam stattfindenden Europameisterschaften (6-10. Juli) und jene zu den Olympischen Spielen nach Rio (12.-21. August – Leichtathletikwettbewerbe). Masse und Klasse trifft in der in diesen Landen einmaligen Ausführung beim zahlenstärksten Meeting überhaupt aufeinander. Wir verzeichnen ein Teilnehmerplus von über 50 Prozent und sind momentan bei der Startnummer 1200 angelangt“, berichtet Meeting-Direktor Kurt Ring. Selbstverständlich wird die LG Telis Finanz im eigenen Wohnzimmer auch ihre bisher drei für Olympia qualifizierten Athleten Anja Scherl, Philipp Pflieger (beide Marathon) und Florian Orth (5000m) vorstellen. Neben den Dreien haben sich von den „Blauen“ auch Franziska Reng (Halbmarathon) und Maren Kock (5000m) für die Europameisterschaften qualifiziert und sie werden alle da sein. <a href="http://sparkassen-gala.de/news/05-30-Hauptvorschau.php">Hier</a> geht's weiter ...</p>
-
-<h2>Bereinigte Teilnehmerliste nun veröffentlicht</h2>
-<p>
-  <strong>Daraus sind auch die Einteilungen Vor- und Hauptprogramm ersichtlich</strong>
-</p>
-<p>
-    Regensburg, 29. Mai 2016 (Ring) – Wir haben nun bei der Besetzung in den Mittel- und Langstrecken die letzten Änderungen vorgenommen. Das neue Teilnehmerverzeichnis finden Sie nun <a href="/download/sparkassen_gala_2016_teilnehmer.html" target="_blank">» hier</a>.<br /> Reklamationen sind nur noch beim Meeting-Direktor Kurt Ring möglich <a href="mailto:ring@athletics-sport.com">» ring@athletics-sport.com</a>.<br />Bitte beachten Sie den neuen <a href="zeitplan.php">» Zeitplan</a>, der sich nur im Bereich der 5000m (Laufnacht) durch einen zusätzlichen Lauf (21.45 Uhr Männer B-Lauf – alle Teilnehmer mit Bestzeiten zwischen 14:49,00min und 15:48,00 min) geändert hat. Die Männer mit langsameren Zeiten (Männer-C-Lauf) laufen zusammen mit den Frauen um 21.20 Uhr.<br /><br />
-</p>
-
-<h2>Nichts geht mehr - rien ne vas plus!</h2>
-<p>
-  <strong>Diesjährige Sparkassen Gala ausgebucht</strong>
-</p>
-<p>
-    Regensburg, 27. Mai 2016 (orv) - Heute, Punkt 12 Uhr mittags, mussten bei der Meldestelle der Sparkassen Gala die Schotten dicht gemacht werden. Die Startnummer 1100 ist vergeben.<br /><br />
-</p>
-
-
-<h2>
-3000m bei der Laufnacht für weiblich und männlich
-</h2>
-<p>
-  <strong>Ausscheidungsrennen des DLV für die JWM U18</strong>
-</p>
-<p>
-  Regensburg, 22. Mai 2016 (orv) - Wir haben dem Wunsch der Bundestrainer Nachwuchs Langstrecke entsprochen und nun sowohl für den männlichen , als auch den weiblichen Nachwuchs über 3000m bei der Laufnacht der LG Telis Finanz am Samstag, den 4. Juni 2016 postiert. Die Rennen finden um 20.30 Uhr für den weiblichen Nachwuchs und um 20.45 Uhr für den männlichen Nachwuchs statt. Für diese Wettbewerbe kann noch bis 31. Mai 2016 gemeldet werden. Die Wettbewerbe selbst sind DLV-Normwettkämpfe für die Junioren-EM U18 und  WM U20.
-</p>
 
 <?php require("_footer.inc.php"); ?>
