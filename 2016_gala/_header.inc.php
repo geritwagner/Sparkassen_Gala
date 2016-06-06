@@ -139,5 +139,5 @@ $mA = $menu['active'];
                 <!--
                  <a href="../news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
                 target="_blank">»leichtathletik.tv Videos</a> und -->
-                Die <a href="ergebnisse.php">»Ergebnisse</a> und die <a href="https://www.youtube.com/playlist?list=PLKSOlqrE36tl3qGIhH0WpzVH_qC8cVBWO" target="_blank">»Videos</a> der Sparkassen-Gala 2016 sind online.</h4>
+                Die <a href="download/Sparkassen_Gala_2016_Ergebnisliste.htm" target="_blank">»Ergebnisse</a> und die <a href="https://www.youtube.com/playlist?list=PLKSOlqrE36tl3qGIhH0WpzVH_qC8cVBWO" target="_blank">»Videos</a> der Sparkassen-Gala 2016 sind online.</h4>
               <br>

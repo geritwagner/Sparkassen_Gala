@@ -93,13 +93,16 @@ Der Rückblick wird über folgendes Skript abgebildet:
 * Fotographen/Impressionen (/photos)
 
 ## Nach der Gala
-* Livestream-Link entfernen (durch Gesamtergebnisse ersetzen)
+* Livestream-Link entfernen
 	* Gala-Seite
 	*LG-Seite (News-Telegrammm)
 * Videos (youtube) verlinken
 	* Gala-Seite
 	* Facebook
 	* LG-Seite (News-Telegrammm)
+* Gesamtergebnisliste hochladen
+	* tcl_skript_teilnehmer_ergebnisse/Ergebnislisten
+	* Zeilenumbrüche bei den Disziplinbezeichnungen in header-Datei können Probleme verursachen
 
 * Video-Bestellungen:
 	```
