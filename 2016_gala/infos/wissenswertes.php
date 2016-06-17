@@ -53,12 +53,6 @@
       <br />
     </p>
 
-    <h3>Prämien</h3>
-    <p>Die Prämien (Platz 1-3 im Galaprogramm) werden an der Zahlstelle (im Innenraum auf Höhe des 50m Starts) ausbezahlt.
-      <br />
-      <br />
-    </p>
-
     <h3>Presse und Offizielle</h3>
     <p> Bitte haben Sie Verständnis, dass nicht jedem überall Einlass gewährt wird. Wir sind bemüht, schon im Vorfeld alle Offiziellen und auch alle Presseleute, die sich bei uns und dem DLV gemeldet haben, mit den entsprechenden Akkreditierungen zu versorgen. Sollte der eine oder andere dieses Schildchen noch nicht haben, bitten wir ihn, selbiges beim Infostand anzufordern. Für die Presse steht im Tribünenbereich ein Presseraum mit Infos, Ergebnissen und Internetzugängen zur Verfügung.</p>
 
@@ -89,7 +83,5 @@
     <br /> The places 1 to 3 of the preliminary GALA are honored. They have to be prepared 20 minutes after finishing the competition.
     <br /> For the GALA there is no award ceremony.
     <br /> The records (up to place 8) can be picked up at the “Stellplatz”.
-    <br />
-    <br /> The Prize money for places 1 to 3 of the Gala is paid at the point of payment.
     <br />
     <?php require("../_footer.dir1.inc.php"); ?>
