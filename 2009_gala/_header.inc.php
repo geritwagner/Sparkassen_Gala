@@ -59,7 +59,7 @@ $mA = $menu['active'];
                   <ul>
                     <li><a href="news/vorschauen.php">Vorschauen</a></li>
                     <li><a href="news/berichte.php">Berichte</a></li>
-                    <li><a href="">Impressionen   »</a>
+                    <li><a href="impressionen.php">Impressionen   »</a>
                       <ul id="navImpressionen">
                         <li><a href="news/impressionen-kiefner.php">von Theo Kiefner</a></li>
                         <li><a href="news/impressionen-lutz.php">von Ludwig Lutz</a></li>
