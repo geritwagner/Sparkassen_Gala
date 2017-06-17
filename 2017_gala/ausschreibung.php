@@ -26,12 +26,12 @@
       <tr>
         <th>Termin Laufnacht:</th>
         <td>Samstag, 10. Juni 2017
-          <br /> Beginn Laufnacht 12.45 Uhr </td>
+          <br /> Beginn Laufnacht 14.00 Uhr </td>
       </tr>
       <tr>
         <th>Termin Sparkassen-Gala:</th>
         <td>Sonntag, 11. Juni 2017
-          <br /> Beginn Vorprogramm 11.30 Uhr
+          <br /> Beginn Vorprogramm 11.15 Uhr
           <br /> Beginn Hauptprogramm 14.00 Uhr</td>
       </tr>
       <tr>
@@ -61,7 +61,7 @@
       </tr>
       <tr>
         <th>Startunterlagen:</th>
-        <td>Ausgabe Laufnacht am 10.06.2017 ab 13 Uhr, Gala am 11.06.2017 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren am Eingang des Sportzentrums der Universität</td>
+        <td>Ausgabe Laufnacht am 10.06.2017 ab 11:30 Uhr, Gala am 11.06.2017 ab 9.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren am Eingang des Sportzentrums der Universität</td>
       </tr>
       <tr>
         <th>Laufnacht Programm:</th>
@@ -79,7 +79,7 @@
           1.500m (Männer – schlechter als 3:50,00, Frauen schlechter als 4:30,00, mU20/18, wU20/18)
           <br />
           <br />
-          3.000m (mU20/18, wU20/18)
+          3.000m (Männer, mU20/18, Frauen, wU20/18)
           <br />
           <br />
           5.000m (Männer, Frauen)
@@ -98,6 +98,9 @@
           <br />
           <br />
           Weit (Männer schlechter als 7,00m, Frauen schlechter als 6,00m, mU20/18, wU20/18, m/wU16)
+          <br />
+          <br />
+          Hoch (wU20/18/16)
           <br />
           <br />
 		  Die Laufsetzung erfolgt klassenübergreifend nach Bestzeiten, beginnend im Zeitplan mit dem jeweiligen schnellsten Zeitlauf. Die U16-Läufe finden separat statt.

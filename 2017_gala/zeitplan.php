@@ -7,7 +7,7 @@
 
  <p style="text-align: center;">
   <strong>
-   Laufnacht der LG Telis Finanz und Sparkassen Gala 2017 (Stand 07.05.2017)
+   Laufnacht der LG Telis Finanz und Sparkassen Gala 2017 (Stand 04.06.2017)
   </strong>
  </p>
  <p style="text-align: center;">
@@ -46,82 +46,83 @@
    </tr>
    <tr>
     <td>
-     12.45
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-     200m offen
-    </td>
-    <td>
-     200m offen
-    </td>
-    <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
-     13.15
-    </td>
-    <td>
-     200m offen
-    </td>
-    <td>
-     200m offen
-    </td>
-    <td>
-     Weit VE
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
      14.00
     </td>
     <td>
     </td>
     <td>
-	2.000m Hi ZEL
     </td>
     <td>
     </td>
     <td>
+     200m offen
     </td>
     <td>
+     200m offen<br />
+	 Hoch E
     </td>
     <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
-     14:15
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-	2.000m Hi ZEL
-    </td>
-    <td>
+	 Hoch E
     </td>
    </tr>
    <tr>
     <td>
      14.30
+    </td>
+    <td>
+     200m offen
+    </td>
+    <td>
+     200m offen
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     15.00
+    </td>
+    <td>
+    </td>
+    <td>
+	2.000m Hi ZEL
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     15:20
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+	2.000m Hi ZEL
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     15.45
     </td>
     <td>
     </td>
@@ -139,13 +140,13 @@
    </tr>
    <tr>
     <td>
-     15.00
+     16.00
     </td>
     <td>
      400m
     </td>
     <td>
-     400m DLV U20
+     400m
     </td>
     <td>
     </td>
@@ -158,7 +159,7 @@
    </tr>
    <tr>
     <td>
-     15.50
+     16.40
     </td>
     <td>
     </td>
@@ -170,14 +171,14 @@
      400m
     </td>
     <td>
+	 400m DLV U20
     </td>
     <td>
-     Weit VE (Sektor)
     </td>
    </tr>
    <tr>
     <td>
-     16.30
+     17.00
     </td>
     <td>
      400m Hü
@@ -188,16 +189,17 @@
     <td>
     </td>
     <td>
+	Weit VE B-W.
     </td>
     <td>
-     Weit wU20 VE
+     Weit wU20 VE B-W.
     </td>
     <td>
     </td>
    </tr>
    <tr>
     <td>
-     17.00
+     17.15
     </td>
     <td>
     </td>
@@ -294,12 +296,13 @@
      19.25
     </td>
     <td>
-     Weit B-W.
+     Weit VE B-W.
     </td>
     <td>
-     Weit mU20 VE
+     Weit VE B-W.
     </td>
     <td>
+	 Weit VE
     </td>
     <td>
      1.500 m ZEL
@@ -343,9 +346,10 @@
     <td>
     </td>
     <td>
-	 Weit wU18 (Sektor)
+	 Weit wU18 VE(Sektor)
     </td>
     <td>
+	 Weit VE(Sektor)
     </td>
    </tr>
    <tr>
@@ -409,7 +413,6 @@
      21.20
     </td>
     <td>
-     5.000 m (C-Lauf)
     </td>
     <td>
     </td>
@@ -500,7 +503,7 @@
    </tr>
    <tr>
     <td>
-     11.45
+     11.30
     </td>
     <td>
     </td>
@@ -513,6 +516,24 @@
     </td>
     <td>
      100 m ZEL
+    </td>
+    <td>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     11.55
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+      400m (D-F)
+    </td>
+    <td>
     </td>
     <td>
     </td>
@@ -704,9 +725,10 @@
      14.45
     </td>
     <td>
-     Weit VE
+     Weit VE A-W.
     </td>
     <td>
+	 Weit wU20 VE A-W.
     </td>
     <td>
     </td>
@@ -828,7 +850,7 @@
    </tr>
    <tr>
     <td>
-     16.45
+     16.40
     </td>
     <td>
      4x100 m ZEL
@@ -846,19 +868,20 @@
    </tr>
    <tr>
     <td>
-     17.00
+     16.50
     </td>
     <td>
-     400 m Hü EL (A+B)
+     400 m Hü EL (A+C)
     </td>
     <td>
     </td>
     <td>
     </td>
     <td>
-      Weit VE
+     Weit VE A-W.
     </td>
     <td>
+	 Weit wU20 VE A-W.
     </td>
     <td>
     </td>
@@ -874,7 +897,7 @@
     <td>
     </td>
     <td>
-     400 m Hü
+     400 m Hü EL (A/B)
     </td>
     <td>
     </td>
@@ -911,24 +934,6 @@
     <td>
     </td>
     <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-   </tr>
-   <tr>
-    <td>
-     17.35
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-     4x400m DLV
     </td>
     <td>
     </td>

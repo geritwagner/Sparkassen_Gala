@@ -21,7 +21,7 @@
 
     <h3>Startunterlagen wann und wo?</h3>
     <p> Diese gibt’s zu folgenden Zeiten:
-      <br /> Ausgabe 11. Juni 2017 ab 10.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 13.00 Uhr am 10. Juni 2017)</p>
+      <br /> Ausgabe 11. Juni 2017 ab 9.00 Uhr vereinsweise gegen Entrichtung der Organisationsgebühren oberhalb der Tribüne des Sportzentrums der Universität. (Laufnacht ab 11.30 Uhr am 10. Juni 2017)</p>
 
     <br />
 

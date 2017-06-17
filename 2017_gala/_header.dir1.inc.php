@@ -55,7 +55,7 @@ $mA = $menu['active'];
               <li<? if($m=='aktuelles' ) echo $mA; ?>><a href="../index.php">Aktuelles</a></li>
                 <li<? if($m=='news' ) echo $mA; ?>><a href="../news/">News</a>
                   <ul>
-                    <li><a href="../news/vorschauen.php">Vorschauen</a></li>
+                    <!--<li><a href="../news/vorschauen.php">Vorschauen</a></li>-->
                     <li><a href="../news/berichte.php">Berichte</a></li>
                     <li><a href="">Impressionen   »</a>
                       <!--<ul id="navImpressionen">
@@ -141,10 +141,8 @@ $mA = $menu['active'];
               <!-- skip anchor: content -->
               <a id="content" name="content"></a>
               <br />
-              <!-- Besonderes
-
-              <h4 class="hinweis" style="text-align:center;">-->
-                <!-- <a href="../news/impressionen-kiefner.php">»Kiefner Impressionen</a>, <a href="../ergebnisse.php">»Gesamtergebnisliste</a>, <a href="http://www.leichtathletik.de/tv/veranstaltungen/video-uebersicht/veranstaltung/sparkassen-gala-in-regensburg-3/"
-                target="_blank">»leichtathletik.tv Videos</a> und
-                Zur Gala Seite von 2016 gelangen Sie <a href="http://www.sparkassen-gala.de/2016/" target="_blank">» hier</a>.</h4>-->
+              <!-- Besonderes-->
+              <h4 class="hinweis" style="text-align:center;">
+                <a href="http://lalive.de/170610DEREG" target="_blank">» Ergebnisse der Laufnacht und Sparkassen Gala</a>
+              </h4>
               <br />
