@@ -1,3 +1,6 @@
+Die Webseite der Gala wird auf [Github](https://github.com/lg-regensburg/gala) versioniert.
+Die Versionen der vergangenen Jahre bieten nützliche Anhaltspunkte für die Änderungen, die auf der Seite vor, während und nach der Veranstaltung anfallen.
+
 ## To do
 * mit Lukas klären:
 	```
@@ -7,21 +10,22 @@
 	Bei jedem Jahreswechsel muss man die symbolischen Links und die htaccess-Datei anpassen.
 	```
 
-
 ## Infos
 * Fotos (Impressionen) sind per Sym-Link in /media/images/gala ausgelagert (vor oder nach der Veranstaltung überprüfen).
 
 ## Einrichten der nächsten Gala-Seite
-* Seite in ein neues Verzeichnis kopieren
+	* Seite in ein neues Verzeichnis kopieren
+	* Vergangenes Jahr in rueckblick_alle.php ergänzen
 	* Symbolic-Links (SSH) einrichten: zu den alten Seiten (im Rückblick)
 	```
 	Jahre:
 
+	# reinitiate all symlinks (Rückblick)
 	# run script in directory: ~/gala
 
-	for d in 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
+	for d in 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
 	cd ${d}_gala
-	for i in 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
+	for i in 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 1999; do
 	rm $i
 	ln -s ../${i}_gala/ ${i}
 	done
@@ -30,21 +34,22 @@
 	cd ..
 	done
 
-
-	# remove all year-symlinks:
-	for i in 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
-	rm $i
-	done
-
-	# rm & renew symlink:
-	rm 2001
-	ln -s ../2001_gala/ 2001
-
 	Impressionen:
 	mkdir ~/media/images/gala/2016_impressionen/
 	mkdir ~/media/images/gala/2016_impressionen/photos
 	cd ~/gala/2016_gala/
 	ln -s ../../media/images/gala/2016_impressionen/ photos
+
+
+	# optional: remove all year-symlinks in the directory of one event (e.g., 2016_gala):
+	for i in 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2003 2002 2001; do
+	rm $i
+	done
+
+	# optional: commands to rm & renew symlink:
+	rm 2001
+	ln -s ../2001_gala/ 2001
+
 	```
 
 Der Rückblick wird über folgendes Skript abgebildet:
@@ -53,30 +58,29 @@ Der Rückblick wird über folgendes Skript abgebildet:
 		<?php require("rueckblick_alle.php"); ?>
 			</li>
 		```
-* Neues Banner einfügen
-* Menü/Rückblick um das letzte Jahr erweitern
-* Alte Daten löschen (Downloads, etc.), Hinweise einfügen
+* Neues Banner einfügen (../images/design/header2018.jpg)
+* Alte Daten löschen (Downloads, etc.)
+* Hinweis auf zeitplan.php einfügen:
 
 	```
 	Der Zeitplan ist ab dem XX.XX.20XX auf dieser Seite verfügbar.
 	```
 * Ausschreibung, Zeitplan, Sponsoren aktualisieren
+* Banner austauschen, Werbe-Banner: neue Sponsoren bzw. alte aktuell?
 * ladv-link in der Ausschreibung aktualisieren
 * Datum unter infos/wissenswertes.php aktualisieren
 * Englisches PDF aktualisieren
-* Check:
+* Jahreszahl auf den Seiten aktualisieren, z.B. livestream-popup
+* Prüfen, ob noch Text aus dem vergangenen Jahr aktualisier twerden muss:
 ```
 	cd 2016_gala
 	grep -r '2015'
 ```
 
 ## Vor der Gala
-* Marketing mit TELIS: Facebook?
+* Marketing mit TELIS abstimmen (Facebook)?
 * Zeitplan: doc -> html: zeitplan_generator (python skript)
 * Zeitplan: Aufpassen, dass nicht mehr "Domspitzmilch-Gala" im PDF-Ausdruck steht (im Word-file, unter Dokumenteigenschaften ändern
-* Banner austauschen, Werbe-Banner: neue Sponsoren bzw. alte aktuell?
-* Jahreszahl auf den Seiten aktualisieren, z.B. livestream-popup
-* Rückblick: menü-link und übersicht aktualisieren
 * Internet: auf korrekte Einrichtung des Netzwerks achten (keine Verwendung statischer IPs, kein Hosten eigener WLAN-Hotspots)
 
 ## Während der Gala
@@ -93,16 +97,13 @@ Der Rückblick wird über folgendes Skript abgebildet:
 * Fotographen/Impressionen (/photos)
 
 ## Nach der Gala
-* Livestream-Link entfernen
+* Livestream-Link entfernen (durch Gesamtergebnisse ersetzen)
 	* Gala-Seite
 	*LG-Seite (News-Telegrammm)
 * Videos (youtube) verlinken
 	* Gala-Seite
 	* Facebook
 	* LG-Seite (News-Telegrammm)
-* Gesamtergebnisliste hochladen
-	* tcl_skript_teilnehmer_ergebnisse/Ergebnislisten
-	* Zeilenumbrüche bei den Disziplinbezeichnungen in header-Datei können Probleme verursachen
 
 * Video-Bestellungen:
 	```
