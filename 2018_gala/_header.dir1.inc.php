@@ -142,6 +142,6 @@ $mA = $menu['active'];
               <br />
               <!-- Besonderes-->
               <h4 class="hinweis" style="text-align:center;">
-                <a href="../zeitplan.php">»Zeitplan</a>, <a href="https://laportal.net/Competitions/Details/698" target="_blank">»Teilnehmer/Live-Ergebnisse</a> und <a href="../news/05-25_laufeinteilungen.php">»Laufeinteilungen</a> sind online
+                <a href="https://www.tvaktuell.com/mediathek/video/regensburg-leichtathletik-elite-bei-der-sparkassen-gala-harrer-sagt-goodbye/" target="_blank">»Highlightvideo</a> und <a href="../ergebnisse.php">»Ergebnisse</a> sind online
               </h4>
               <br>
